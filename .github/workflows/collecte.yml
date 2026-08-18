@@ -1,0 +1,46 @@
+name: Collecte des offres
+
+on:
+  schedule:
+    - cron: "0 6 * * 1,3,5" # lundi, mercredi, vendredi à 8h heure de Paris
+  workflow_dispatch: # bouton manuel dans l'onglet Actions
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Interroger France Travail
+        env:
+          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
+          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
+        run: node scripts/collecte.mjs
+
+      - name: Publier le nouveau JSON
+        run: |
+          git config user.name "collecte-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Collecte du $(date +%F)"
+          git push
+
+      - name: Ouvrir une issue si nouvelles offres
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s data/nouvelles.md ]; then
+            gh issue create \
+              --title "Offres du $(date +%d/%m)" \
+              --body-file data/nouvelles.md
+          else
+            echo "Rien de neuf au-dessus du seuil."
+          fi
