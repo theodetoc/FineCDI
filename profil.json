@@ -1,0 +1,68 @@
+{
+  "_lisez_moi": "Le seul fichier à retoucher régulièrement. Les poids sont additifs, les négatifs se soustraient. Un mot-clé peut être une expression : la recherche se fait sur l'intitulé + la description, sans accents ni casse.",
+
+  "recherche": {
+    "typeContrat": "CDI",
+    "codesROME": ["M1707", "E1103", "K2111", "M1402", "D1406"],
+    "communes": [
+      { "code": "83137", "nom": "Toulon", "distance": 25 },
+      { "code": "13055", "nom": "Marseille", "distance": 25 },
+      { "code": "13001", "nom": "Aix-en-Provence", "distance": 20 }
+    ],
+    "motsClesLibres": ["partenariats", "développement territorial", "chargé de mission"]
+  },
+
+  "positifs": {
+    "partenariat": 6,
+    "partenariats": 6,
+    "animation de reseau": 5,
+    "developpement de reseau": 5,
+    "edtech": 6,
+    "education": 4,
+    "pedagogie": 4,
+    "pedagogique": 4,
+    "formation": 3,
+    "insertion": 4,
+    "accompagnement": 3,
+    "association": 3,
+    "economie sociale": 5,
+    "ess": 4,
+    "jeu": 3,
+    "gaming": 5,
+    "jeu video": 5,
+    "entrepreneuriat": 5,
+    "incubateur": 5,
+    "startup": 3,
+    "business developer": 5,
+    "developpement commercial": 4,
+    "chargé de mission": 4,
+    "prospection": 3,
+    "relation client": 2,
+    "terrain": 2
+  },
+
+  "negatifs": {
+    "grands comptes": -6,
+    "10 ans d'experience": -10,
+    "8 ans d'experience": -8,
+    "5 ans d'experience": -3,
+    "deplacements nationaux": -5,
+    "france entiere": -4,
+    "cold calling": -3,
+    "telemarketing": -6,
+    "porte a porte": -6,
+    "commission uniquement": -8,
+    "vrp": -6,
+    "anglais courant exige": -3,
+    "bac +5": -2
+  },
+
+  "bonus": {
+    "offreDeMoinsDe7Jours": 4,
+    "communePrioritaire": 3,
+    "romeCible": 5,
+    "entrepriseDeMoinsDe250": 2
+  },
+
+  "seuilAlerte": 14
+}

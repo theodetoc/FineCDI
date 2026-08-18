@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cockpit — prospection CDI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ardoise:#16232E;
+    --brume:#E7ECEF;
+    --papier:#F4F7F8;
+    --blanc:#FFFFFF;
+    --teal:#0F766E;
+    --ocre:#B45309;
+    --vin:#9F1239;
+    --trait:#C9D4DA;
+    --gris:#5B6B77;
+    --r:3px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Archivo',system-ui,sans-serif;
+    background:var(--papier);color:var(--ardoise);
+    font-size:15px;line-height:1.5;
+    padding-bottom:80px;
+  }
+  .mono{font-family:'IBM Plex Mono',ui-monospace,monospace}
+
+  header{
+    background:var(--ardoise);color:var(--brume);
+    padding:18px 20px 0;
+  }
+  header h1{
+    font-size:15px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;
+  }
+  header .maj{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;color:#8FA3B0;
+    margin-top:3px;display:block;
+  }
+  nav{display:flex;gap:2px;margin-top:16px;overflow-x:auto}
+  nav button{
+    background:none;border:0;border-bottom:2px solid transparent;
+    color:#8FA3B0;font-family:inherit;font-size:13px;font-weight:500;
+    padding:9px 13px;cursor:pointer;white-space:nowrap;
+  }
+  nav button[aria-selected="true"]{color:var(--blanc);border-bottom-color:var(--teal)}
+  nav button:focus-visible{outline:2px solid var(--teal);outline-offset:-2px}
+
+  main{padding:20px 16px;max-width:820px;margin:0 auto}
+  .panneau[hidden]{display:none}
+
+  .barre-outils{
+    display:flex;flex-wrap:wrap;gap:10px;align-items:center;
+    margin-bottom:16px;font-size:13px;color:var(--gris);
+  }
+  .barre-outils label{display:flex;align-items:center;gap:6px}
+  input[type=range]{accent-color:var(--teal);width:120px}
+
+  .carte{
+    background:var(--blanc);border:1px solid var(--trait);border-radius:var(--r);
+    padding:14px;margin-bottom:10px;
+  }
+  .carte h3{font-size:16px;font-weight:600;line-height:1.3}
+  .meta{
+    font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--gris);
+    margin-top:4px;
+  }
+
+  /* Signature : la jauge dit pourquoi l'offre est là. */
+  .jauge{display:flex;align-items:center;gap:9px;margin:10px 0 8px}
+  .jauge .val{
+    font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:17px;
+    min-width:34px;text-align:right;
+  }
+  .rail{flex:1;height:6px;background:var(--brume);border-radius:99px;overflow:hidden}
+  .rail i{display:block;height:100%;background:var(--teal)}
+  .rail i.faible{background:var(--gris)}
+  .rail i.negatif{background:var(--vin)}
+
+  .chips{display:flex;flex-wrap:wrap;gap:4px}
+  .chip{
+    font-family:'IBM Plex Mono',monospace;font-size:10.5px;
+    padding:2px 6px;border-radius:2px;background:var(--brume);color:#334;
+  }
+  .chip.moins{background:#FBE4E9;color:var(--vin)}
+
+  .actions{display:flex;flex-wrap:wrap;gap:6px;margin-top:11px}
+  button.act,a.act{
+    font-family:inherit;font-size:12.5px;font-weight:500;
+    padding:7px 11px;border-radius:var(--r);cursor:pointer;
+    border:1px solid var(--trait);background:var(--blanc);color:var(--ardoise);
+    text-decoration:none;display:inline-block;
+  }
+  button.act:hover,a.act:hover{border-color:var(--ardoise)}
+  button.act.plein{background:var(--ardoise);color:var(--blanc);border-color:var(--ardoise)}
+  button.act:focus-visible,a.act:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+
+  .conseil{
+    border-left:2px solid var(--ocre);padding-left:9px;margin-top:10px;
+    font-size:13px;color:var(--gris);
+  }
+
+  details.entreprise{background:var(--blanc);border:1px solid var(--trait);border-radius:var(--r);margin-bottom:10px}
+  details.entreprise>summary{padding:13px 14px;cursor:pointer;font-weight:600;list-style:none}
+  details.entreprise>summary::-webkit-details-marker{display:none}
+  details.entreprise>summary .meta{font-weight:400}
+  .corps{padding:0 14px 14px}
+  h4{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gris);margin:16px 0 7px}
+
+  .xray{display:grid;gap:5px}
+  .xray a{
+    display:flex;justify-content:space-between;gap:8px;align-items:center;
+    padding:8px 10px;border:1px solid var(--trait);border-radius:var(--r);
+    text-decoration:none;color:var(--ardoise);font-size:13px;
+  }
+  .xray a:hover{background:var(--brume)}
+  .xray span.n{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--gris)}
+
+  input[type=text],input[type=email],input[type=date],select,textarea{
+    font-family:inherit;font-size:13.5px;width:100%;
+    padding:7px 9px;border:1px solid var(--trait);border-radius:var(--r);
+    background:var(--blanc);color:var(--ardoise);
+  }
+  textarea{min-height:130px;resize:vertical;line-height:1.55}
+  .grille{display:grid;grid-template-columns:1fr 1fr;gap:7px}
+  @media(max-width:520px){.grille{grid-template-columns:1fr}}
+
+  .ligne-pipeline{display:flex;gap:12px;align-items:flex-start}
+  .echeance{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;
+    padding:3px 6px;border-radius:2px;background:var(--brume);white-space:nowrap;
+  }
+  .echeance.due{background:#FCEEDC;color:var(--ocre)}
+  .echeance.retard{background:#FBE4E9;color:var(--vin)}
+
+  .vide{
+    border:1px dashed var(--trait);border-radius:var(--r);
+    padding:26px 18px;text-align:center;color:var(--gris);font-size:14px;
+  }
+  footer{max-width:820px;margin:28px auto 0;padding:0 16px;
+    font-size:12px;color:var(--gris);display:flex;gap:8px;flex-wrap:wrap}
+  @media(prefers-reduced-motion:no-preference){
+    .carte{transition:border-color .15s ease}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Cockpit</h1>
+  <span class="maj" id="maj">chargement…</span>
+  <nav role="tablist">
+    <button role="tab" aria-selected="true" data-onglet="offres">Offres</button>
+    <button role="tab" aria-selected="false" data-onglet="entreprises">Entreprises</button>
+    <button role="tab" aria-selected="false" data-onglet="pipeline">Pipeline</button>
+    <button role="tab" aria-selected="false" data-onglet="messages">Messages</button>
+  </nav>
+</header>
+
+<main>
+  <section class="panneau" id="p-offres">
+    <div class="barre-outils">
+      <label>Score minimum <input type="range" id="seuil" min="-10" max="40" value="10"><b class="mono" id="seuil-val">10</b></label>
+      <label><input type="checkbox" id="que-nouvelles"> Nouvelles seulement</label>
+    </div>
+    <div id="liste-offres"></div>
+  </section>
+
+  <section class="panneau" id="p-entreprises" hidden>
+    <div class="barre-outils">
+      <input type="text" id="ajout-entreprise" placeholder="Ajouter une entreprise repérée ailleurs…" style="flex:1;min-width:180px">
+      <button class="act" id="btn-ajout-entreprise">Ajouter</button>
+    </div>
+    <div id="liste-entreprises"></div>
+  </section>
+
+  <section class="panneau" id="p-pipeline" hidden>
+    <div id="liste-pipeline"></div>
+  </section>
+
+  <section class="panneau" id="p-messages" hidden>
+    <p class="barre-outils">Variables disponibles : <span class="mono">{{prenom}} {{entreprise}} {{poste}}</span></p>
+    <div id="liste-modeles"></div>
+    <button class="act" id="btn-nouveau-modele">Nouveau modèle</button>
+  </section>
+</main>
+
+<footer>
+  <button class="act" id="btn-export">Exporter mes données</button>
+  <button class="act" id="btn-import">Importer</button>
+  <input type="file" id="fichier-import" accept="application/json" hidden>
+  <span>Contacts et pipeline restent sur cet appareil. Rien n'est envoyé nulle part.</span>
+</footer>
+
+<script type="module">
+/* ---------- Stockage local (IndexedDB, repli en mémoire) ---------- */
+const Store = (() => {
+  const CLE = "cockpit";
+  let memoire = null;
+  const defaut = { contacts:{}, pipeline:[], entreprisesManuelles:[], modeles:modelesParDefaut() };
+
+  function ouvrir(){
+    return new Promise((ok,ko)=>{
+      if(!self.indexedDB) return ko();
+      const req = indexedDB.open("cockpit-cdi",1);
+      req.onupgradeneeded = () => req.result.createObjectStore("etat");
+      req.onsuccess = () => ok(req.result);
+      req.onerror = () => ko();
+    });
+  }
+  return {
+    async charger(){
+      if(memoire) return memoire;
+      try{
+        const db = await ouvrir();
+        memoire = await new Promise((ok)=>{
+          const r = db.transaction("etat").objectStore("etat").get(CLE);
+          r.onsuccess = () => ok(r.result || null);
+          r.onerror = () => ok(null);
+        });
+      }catch{ memoire = null; }
+      memoire = Object.assign({}, defaut, memoire || {});
+      return memoire;
+    },
+    async sauver(etat){
+      memoire = etat;
+      try{
+        const db = await ouvrir();
+        db.transaction("etat","readwrite").objectStore("etat").put(etat, CLE);
+      }catch{ /* mémoire seule : l'appli reste utilisable pour la session */ }
+    }
+  };
+})();
+
+function modelesParDefaut(){
+  return [
+    { id:"m1", nom:"Candidature spontanée — petite structure",
+      objet:"Candidature spontanée — {{poste}} chez {{entreprise}}",
+      corps:"Bonjour {{prenom}},\n\nJe me permets de vous écrire directement : je cherche un poste de {{poste}} sur le bassin Toulon-Marseille, et le travail de {{entreprise}} correspond à ce que je veux construire.\n\nEn deux lignes : huit ans d'accompagnement pédagogique en indépendant, la création d'une structure EdTech, et une expérience de développement de partenariats. Ce que je sais faire, c'est ouvrir des portes et tenir la relation dans la durée.\n\nAuriez-vous vingt minutes dans les prochaines semaines ? Je me déplace volontiers.\n\nBien à vous,\nThéo" },
+    { id:"m2", nom:"Suite à un premier échange LinkedIn",
+      objet:"Suite à notre échange — {{entreprise}}",
+      corps:"Bonjour {{prenom}},\n\nMerci pour votre retour sur LinkedIn. Comme convenu, je vous écris pour {{poste}}.\n\n[Reprendre ici un point précis de l'échange.]\n\nDites-moi si un appel de quinze minutes est plus simple pour vous.\n\nBien à vous,\nThéo" },
+    { id:"m3", nom:"Relance à J+8",
+      objet:"Re : {{poste}} — {{entreprise}}",
+      corps:"Bonjour {{prenom}},\n\nJe reviens vers vous concernant mon message du [date]. Je reste très intéressé par {{entreprise}} et disponible pour en discuter quand cela vous convient.\n\nBonne journée,\nThéo" }
+  ];
+}
+
+/* ---------- Données ---------- */
+let offres = [];
+let etat = await Store.charger();
+
+try{
+  const r = await fetch("./data/offres.json");
+  const d = await r.json();
+  offres = d.offres || [];
+  document.getElementById("maj").textContent =
+    `${d.total ?? offres.length} offres · collecte du ${new Date(d.misAJour).toLocaleDateString("fr-FR")}`;
+}catch{
+  document.getElementById("maj").textContent = "data/offres.json introuvable — lancer la collecte";
+}
+
+/* ---------- Recherches LinkedIn ciblées ---------- */
+// Pas d'API personnes chez LinkedIn : on fabrique des requêtes précises,
+// le repérage se fait à l'œil.
+const CIBLES = [
+  { n:"1", r:"Décisions RH", q:'("ressources humaines" OR RH OR recrutement OR "talent acquisition")' },
+  { n:"2", r:"Direction", q:'(directeur OR directrice OR "directeur général" OR fondateur OR fondatrice OR président)' },
+  { n:"3", r:"Partenariats & développement", q:'("responsable partenariats" OR "business developer" OR "développement commercial" OR "chargé de mission")' },
+  { n:"4", r:"Manager du métier visé", q:'(responsable OR manager OR "chef de projet" OR coordinateur)' },
+  { n:"5", r:"Proximité géographique", q:'(Toulon OR Marseille OR "Aix-en-Provence")' }
+];
+const xray = (entreprise, cible) =>
+  "https://www.google.com/search?q=" +
+  encodeURIComponent(`site:linkedin.com/in "${entreprise}" ${cible.q}`);
+
+/* ---------- Gmail ---------- */
+function remplir(txt, ctx){
+  return txt.replace(/\{\{(\w+)\}\}/g, (_,k) => ctx[k] ?? `{{${k}}}`);
+}
+function lienGmail({to,objet,corps}){
+  const p = new URLSearchParams({ view:"cm", fs:"1", to:to||"", su:objet||"", body:corps||"" });
+  return "https://mail.google.com/mail/?" + p.toString();
+}
+
+/* ---------- Rendu : offres ---------- */
+const $ = (s) => document.querySelector(s);
+const seuil = $("#seuil"), queNouvelles = $("#que-nouvelles");
+
+function rendreOffres(){
+  const min = +seuil.value;
+  $("#seuil-val").textContent = min;
+  const vis = offres.filter(o => o.score >= min && (!queNouvelles.checked || o.nouvelle));
+  const c = $("#liste-offres");
+
+  if(!vis.length){
+    c.innerHTML = `<p class="vide">Aucune offre à ce niveau d'exigence. Baisser le score minimum, ou élargir les codes ROME dans profil.json.</p>`;
+    return;
+  }
+  c.innerHTML = vis.map(o => {
+    const largeur = Math.max(0, Math.min(100, (o.score/40)*100));
+    const classe = o.score < 0 ? "negatif" : o.score < 15 ? "faible" : "";
+    return `<article class="carte">
+      <h3>${esc(o.intitule)}</h3>
+      <p class="meta">${esc(o.entreprise.nom)} · ${esc(o.lieu||"")} · ${esc(o.contrat||"")} · publiée il y a ${o.age} j</p>
+      <div class="jauge">
+        <span class="val">${o.score}</span>
+        <span class="rail"><i class="${classe}" style="width:${o.score<0?100:largeur}%"></i></span>
+      </div>
+      <div class="chips">
+        ${o.touches.map(t=>`<span class="chip">${esc(t)}</span>`).join("")}
+        ${o.alertes.map(t=>`<span class="chip moins">− ${esc(t)}</span>`).join("")}
+      </div>
+      <p class="conseil">${esc(o.conseil||"")}</p>
+      <div class="actions">
+        <a class="act" href="${o.url}" target="_blank" rel="noopener">Voir l'offre</a>
+        <button class="act plein" data-pipeline="${esc(o.id)}">Suivre cette piste</button>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+/* ---------- Rendu : entreprises ---------- */
+function entreprisesConnues(){
+  const m = new Map();
+  for(const o of offres){
+    const n = o.entreprise.nom;
+    if(!m.has(n)) m.set(n, { nom:n, effectif:o.entreprise.trancheEffectif, postes:[] });
+    m.get(n).postes.push(o);
+  }
+  for(const n of etat.entreprisesManuelles){
+    if(!m.has(n)) m.set(n, { nom:n, effectif:null, postes:[] });
+  }
+  return [...m.values()].sort((a,b)=>
+    Math.max(...b.postes.map(p=>p.score), 0) - Math.max(...a.postes.map(p=>p.score), 0));
+}
+
+function rendreEntreprises(){
+  const c = $("#liste-entreprises");
+  const liste = entreprisesConnues();
+  if(!liste.length){ c.innerHTML = `<p class="vide">Les entreprises apparaissent dès la première collecte. Vous pouvez aussi en ajouter à la main ci-dessus.</p>`; return; }
+
+  c.innerHTML = liste.map(e => {
+    const contacts = etat.contacts[e.nom] || [];
+    const poste = e.postes[0]?.intitule || "un poste de chargé de partenariats";
+    return `<details class="entreprise">
+      <summary>${esc(e.nom)}
+        <span class="meta">${e.effectif?esc(e.effectif)+" · ":""}${e.postes.length} offre(s) · ${contacts.length} contact(s)</span>
+      </summary>
+      <div class="corps">
+        <h4>Repérer une personne</h4>
+        <div class="xray">
+          ${CIBLES.map(t=>`<a href="${xray(e.nom,t)}" target="_blank" rel="noopener">
+              <span>${t.r}</span><span class="n">${t.n} ↗</span></a>`).join("")}
+        </div>
+
+        <h4>Contacts saisis</h4>
+        ${contacts.map((ct,i)=>`
+          <div class="carte" style="margin-bottom:7px">
+            <b>${esc(ct.nom||"Sans nom")}</b> <span class="meta">${esc(ct.role||"")}</span>
+            <p class="meta">${esc(ct.mail||"—")} · ${esc(ct.tel||"—")}</p>
+            <div class="actions">
+              <button class="act plein" data-gmail="${esc(e.nom)}|${i}|${esc(poste)}">Écrire dans Gmail</button>
+              <button class="act" data-suppr-contact="${esc(e.nom)}|${i}">Retirer</button>
+            </div>
+          </div>`).join("") || `<p class="meta">Aucun contact pour l'instant.</p>`}
+
+        <h4>Ajouter un contact</h4>
+        <div class="grille">
+          <input type="text" placeholder="Nom et prénom" data-champ="nom" data-e="${esc(e.nom)}">
+          <input type="text" placeholder="Fonction" data-champ="role" data-e="${esc(e.nom)}">
+          <input type="email" placeholder="Adresse mail" data-champ="mail" data-e="${esc(e.nom)}">
+          <input type="text" placeholder="Téléphone" data-champ="tel" data-e="${esc(e.nom)}">
+        </div>
+        <div class="actions"><button class="act" data-ajout-contact="${esc(e.nom)}">Enregistrer le contact</button></div>
+      </div>
+    </details>`;
+  }).join("");
+}
+
+/* ---------- Rendu : pipeline ---------- */
+const STATUTS = ["À contacter","Contacté","Relancé","En échange","Entretien","Clos"];
+
+function rendrePipeline(){
+  const c = $("#liste-pipeline");
+  if(!etat.pipeline.length){
+    c.innerHTML = `<p class="vide">Rien en cours. Depuis l'onglet Offres, « Suivre cette piste » ajoute une ligne ici.</p>`;
+    return;
+  }
+  const auj = new Date().toISOString().slice(0,10);
+  const tri = [...etat.pipeline].sort((a,b)=>(a.relance||"9999").localeCompare(b.relance||"9999"));
+
+  c.innerHTML = tri.map(l => {
+    const retard = l.relance && l.relance < auj;
+    const due = l.relance === auj;
+    return `<article class="carte">
+      <div class="ligne-pipeline">
+        <span class="echeance ${retard?"retard":due?"due":""}">${l.relance ? (retard?"en retard · ":"")+fmt(l.relance) : "sans date"}</span>
+        <div style="flex:1">
+          <h3>${esc(l.entreprise)}</h3>
+          <p class="meta">${esc(l.intitule||"")}</p>
+        </div>
+      </div>
+      <div class="grille" style="margin-top:10px">
+        <select data-champ-pipe="statut" data-id="${l.id}">
+          ${STATUTS.map(s=>`<option ${s===l.statut?"selected":""}>${s}</option>`).join("")}
+        </select>
+        <input type="date" value="${l.relance||""}" data-champ-pipe="relance" data-id="${l.id}">
+      </div>
+      <textarea style="margin-top:7px;min-height:70px" placeholder="Ce qui s'est dit, ce qu'il faut ressortir à la relance…" data-champ-pipe="notes" data-id="${l.id}">${esc(l.notes||"")}</textarea>
+      <div class="actions"><button class="act" data-suppr-pipe="${l.id}">Retirer</button></div>
+    </article>`;
+  }).join("");
+}
+
+/* ---------- Rendu : modèles ---------- */
+function rendreModeles(){
+  $("#liste-modeles").innerHTML = etat.modeles.map(m=>`
+    <article class="carte">
+      <input type="text" value="${esc(m.nom)}" data-champ-mod="nom" data-id="${m.id}" style="font-weight:600;margin-bottom:6px">
+      <input type="text" value="${esc(m.objet)}" data-champ-mod="objet" data-id="${m.id}" placeholder="Objet">
+      <textarea style="margin-top:6px" data-champ-mod="corps" data-id="${m.id}">${esc(m.corps)}</textarea>
+      <div class="actions"><button class="act" data-suppr-mod="${m.id}">Supprimer</button></div>
+    </article>`).join("");
+}
+
+/* ---------- Interactions ---------- */
+document.addEventListener("click", async (e) => {
+  const t = e.target.closest("[data-pipeline],[data-gmail],[data-ajout-contact],[data-suppr-contact],[data-suppr-pipe],[data-suppr-mod]");
+  if(!t) return;
+
+  if(t.dataset.pipeline){
+    const o = offres.find(x=>x.id===t.dataset.pipeline);
+    if(etat.pipeline.some(l=>l.offreId===o.id)) return toast(t,"Déjà dans le pipeline");
+    const dans = new Date(Date.now()+8*86400000).toISOString().slice(0,10);
+    etat.pipeline.push({ id:"p"+Date.now(), offreId:o.id, entreprise:o.entreprise.nom,
+      intitule:o.intitule, statut:"À contacter", relance:dans, notes:"" });
+    await Store.sauver(etat); toast(t,"Ajouté au pipeline"); rendrePipeline();
+  }
+
+  if(t.dataset.gmail){
+    const [ent, idx, poste] = t.dataset.gmail.split("|");
+    const ct = (etat.contacts[ent]||[])[+idx];
+    const m = etat.modeles[0];
+    const ctx = { prenom:(ct.nom||"").split(" ")[0]||"Madame, Monsieur", entreprise:ent, poste };
+    window.open(lienGmail({ to:ct.mail, objet:remplir(m.objet,ctx), corps:remplir(m.corps,ctx) }), "_blank","noopener");
+  }
+
+  if(t.dataset.ajoutContact){
+    const ent = t.dataset.ajoutContact;
+    const champs = [...document.querySelectorAll(`[data-e="${CSS.escape(ent)}"]`)];
+    const ct = {}; champs.forEach(c=>{ ct[c.dataset.champ]=c.value.trim(); c.value=""; });
+    if(!ct.nom && !ct.mail) return toast(t,"Il faut au moins un nom ou un mail");
+    (etat.contacts[ent] ||= []).push(ct);
+    await Store.sauver(etat); rendreEntreprises();
+  }
+
+  if(t.dataset.supprContact){
+    const [ent,i] = t.dataset.supprContact.split("|");
+    etat.contacts[ent].splice(+i,1);
+    await Store.sauver(etat); rendreEntreprises();
+  }
+  if(t.dataset.supprPipe){
+    etat.pipeline = etat.pipeline.filter(l=>l.id!==t.dataset.supprPipe);
+    await Store.sauver(etat); rendrePipeline();
+  }
+  if(t.dataset.supprMod){
+    etat.modeles = etat.modeles.filter(m=>m.id!==t.dataset.supprMod);
+    await Store.sauver(etat); rendreModeles();
+  }
+});
+
+document.addEventListener("change", async (e) => {
+  const el = e.target;
+  if(el.dataset.champPipe){
+    const l = etat.pipeline.find(x=>x.id===el.dataset.id);
+    l[el.dataset.champPipe] = el.value; await Store.sauver(etat);
+    if(el.dataset.champPipe==="relance") rendrePipeline();
+  }
+  if(el.dataset.champMod){
+    const m = etat.modeles.find(x=>x.id===el.dataset.id);
+    m[el.dataset.champMod] = el.value; await Store.sauver(etat);
+  }
+});
+
+$("#btn-ajout-entreprise").onclick = async () => {
+  const v = $("#ajout-entreprise").value.trim();
+  if(!v) return;
+  etat.entreprisesManuelles.push(v); $("#ajout-entreprise").value="";
+  await Store.sauver(etat); rendreEntreprises();
+};
+$("#btn-nouveau-modele").onclick = async () => {
+  etat.modeles.push({ id:"m"+Date.now(), nom:"Nouveau modèle", objet:"", corps:"" });
+  await Store.sauver(etat); rendreModeles();
+};
+$("#btn-export").onclick = () => {
+  const b = new Blob([JSON.stringify(etat,null,2)],{type:"application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(b);
+  a.download = `cockpit-${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+};
+$("#btn-import").onclick = () => $("#fichier-import").click();
+$("#fichier-import").onchange = async (e) => {
+  const f = e.target.files[0]; if(!f) return;
+  etat = JSON.parse(await f.text());
+  await Store.sauver(etat); tout();
+};
+seuil.oninput = rendreOffres;
+queNouvelles.onchange = rendreOffres;
+
+document.querySelectorAll("nav button").forEach(b => {
+  b.onclick = () => {
+    document.querySelectorAll("nav button").forEach(x=>x.setAttribute("aria-selected", x===b));
+    document.querySelectorAll(".panneau").forEach(p=>p.hidden = p.id !== "p"+"-"+b.dataset.onglet);
+  };
+});
+
+/* ---------- Utilitaires ---------- */
+function esc(s){ return String(s??"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function fmt(d){ return new Date(d).toLocaleDateString("fr-FR",{day:"2-digit",month:"short"}); }
+function toast(btn, txt){ const o = btn.textContent; btn.textContent = txt; setTimeout(()=>btn.textContent=o, 1600); }
+function tout(){ rendreOffres(); rendreEntreprises(); rendrePipeline(); rendreModeles(); }
+tout();
+</script>
+</body>
+</html>
