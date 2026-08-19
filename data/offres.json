@@ -1,70 +1,1855 @@
 {
-  "misAJour": "2026-08-18T06:00:00.000Z",
-  "total": 3,
-  "_note": "Données d'exemple. Écrasées à la première exécution de scripts/collecte.mjs.",
+  "misAJour": "2026-08-19T05:49:36.746Z",
+  "total": 60,
   "offres": [
     {
-      "id": "EXEMPLE1",
-      "intitule": "Chargé de partenariats territoriaux (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche",
-      "entreprise": { "nom": "Réseau Cap Formation", "url": null, "trancheEffectif": "20 à 49 salariés", "siret": null },
-      "lieu": "13 - MARSEILLE 02",
-      "commune": "13055",
+      "id": "211RQQJ",
+      "intitule": "Moniteur(trice) / Formateur(trice) en Cuisine (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211RQQJ",
+      "entreprise": {
+        "nom": "MAISON FAMILIALE DE LA ROQUE D ANTHERON",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - LA ROQUE D ANTHERON",
+      "commune": "13084",
       "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Stratégie commerciale",
-      "dateCreation": "2026-08-15T09:12:00.000Z",
-      "description": "Vous animez le réseau de partenaires du territoire, développez de nouveaux partenariats avec les acteurs de la formation et de l'insertion, et accompagnez les équipes pédagogiques.",
-      "score": 27,
-      "touches": ["partenariat", "partenariats", "animation de reseau", "formation", "insertion", "pedagogique"],
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-27T10:12:11.764Z",
+      "description": "À La recherche de nouveaux talents, nous recrutons des professionnels pour accompagner notre mission et porter notre ambition.\n\n430 associations en France, engagées dans le champ de l'Économie Sociale et Solidaire, les MFR sont des associations qui œuvrent pour le développement des territoires en proposant des formations de la quatrième au bac plus 5. Former les jeunes et les adultes, développer leur savoir-être, leur citoyenneté, et leur permettre d'exercer un métier dans lequel ils pourront s'épanouir, telle est la mission que se donne chaque MFR.\nL'écoute, le respect, l'ouverture et la réussite. Ces 4 valeurs fondamentales sont bien plus que des engagements, ce sont nos fers de lance, des principes que nous faisons vivre au quotidien et que nous mettons systématiquement en pratique.\n\nLe CFA MFR La Roque d'Anthéron, établissement de formation par alternance, recherche un(e) Moniteur(trice) - Formateur(trice) professionnel(le) à temps plein spécialisé(e) en Cuisine et Production culinaire pour renforcer son équipe pédagogique.\n\nVos missions :\n- Enseignement\nVous interviendrez auprès de publics variés (CAP et BP), sur les thématiques suivantes : Production culinaire / Technologie P",
+      "score": 34,
+      "touches": [
+        "pedagogie",
+        "pedagogique",
+        "formation",
+        "accompagnement",
+        "association",
+        "economie sociale",
+        "ess",
+        "jeu"
+      ],
       "alertes": [],
-      "age": 3,
-      "canal": "linkedin+mail",
-      "conseil": "Repérer un interlocuteur sur LinkedIn, puis mail nominatif sous 48h.",
-      "vueLe": "2026-08-18",
+      "age": 22,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
       "nouvelle": true
     },
     {
-      "id": "EXEMPLE2",
-      "intitule": "Business developer EdTech (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche",
-      "entreprise": { "nom": "Studio Lumen", "url": null, "trancheEffectif": "10 à 19 salariés", "siret": null },
-      "lieu": "13 - AIX EN PROVENCE",
+      "id": "212DVBG",
+      "intitule": "Responsable du Pôle Commercial et Développement Clientèle MICE (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212DVBG",
+      "entreprise": {
+        "nom": "OFFICE DE TOURISME PAYS D'AUBAGNE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - AUBAGNE",
+      "commune": "13005",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-06T12:30:44.583Z",
+      "description": "L'Office de Tourisme Intercommunal (OTI) du Pays d'Aubagne et de l'Étoile, composé de 19 collaborateurs, œuvre au développement touristique de 12 communes. Afin d'accompagner son développement, l'Office de Tourisme crée un poste de Responsable du Pôle Commercial et Développement Clientèle MICE.\nRattaché(e) directement au Directeur, vous pilotez la stratégie commerciale de la structure, développez la clientèle affaires (MICE) et encadrez une équipe de trois collaborateurs. Vous contribuez activement au développement du chiffre d'affaires, à la structuration de l'offre commerciale et à la performance globale du pôle.\n\nManagement et animation de l'équipe\n- Encadrer, accompagner et fédérer une équipe de trois collaborateurs autour des objectifs du service\n- Instaurer une dynamique collective favorisant la coopération\n- Organiser les activités, répartir les missions et assurer la continuité du service\n- Définir les objectifs individuels, accompagner la montée en compétences et réaliser les entretiens annuels\n- Gérer les plannings, congés et l'organisation du pôle\n- Animer les réunions de service et favoriser une communication fluide au sein de l'équipe\n\nDéfinition et pilotage de la stra",
+      "score": 33,
+      "touches": [
+        "partenariat",
+        "partenariats",
+        "formation",
+        "ess",
+        "developpement commercial",
+        "prospection",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 12,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "212KCCK",
+      "intitule": "Responsable d'agence F/H",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KCCK",
+      "entreprise": {
+        "nom": "A2MICILE EUROPE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Hyères",
+      "commune": "83069",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-12T10:54:40.181Z",
+      "description": "\nVos missions :\nNous recherchons un(e) Responsable d'agence pour notre agence Domaliance Hyères. Sous la supervision directe du/de la Directeur(rice) régional(e), vous serez le moteur du développement et de la croissance de votre agence, tout en bénéficiant de l'accompagnement et des ressources mises à disposition par le siège.\n\nVos missions principales sont les suivantes :\n \n\n-      Le développement commercial : Vous serez chargé(e) de développer et de fidéliser votre portefeuille client, ainsi que d'établir et d'entretenir des partenariats solides avec les acteurs locaux. La gestion du suivi clients, incluant la satisfaction et la facturation, sera également de votre responsabilité.\n\n \n\n-      La gestion du personnel : Vous assurerez le management de l'équipe d'intervenants, que vous aurez soigneusement recrutés, ainsi que du personnel en agence. Vous serez en charge de la gestion des plannings et des remplacements des intervenants, garantissant une qualité de service optimale à nos bénéficiaires.\n\n \n\nDans le cadre de vos missions, vous serez amené(e) à vous déplacer régulièrement chez les prospects, bénéficiaires et partenaires institutionnels dans le périmètre affecté à votre a",
+      "score": 32,
+      "touches": [
+        "partenariat",
+        "partenariats",
+        "accompagnement",
+        "ess",
+        "developpement commercial"
+      ],
+      "alertes": [],
+      "age": 6,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "209GTKZ",
+      "intitule": "Directeur de Mission périscolaire (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
+      "entreprise": {
+        "nom": "LEO LAGRANGE ANIMATION",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - MARSEILLE",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-06-04T14:47:56.499Z",
+      "description": "Léo Lagrange Animation est une association d'éducation populaire reconnue d'utilité publique. Elle accompagne les collectivités locales dans la réalisation de leurs politiques éducatives, de la petite enfance aux séniors, en s'appuyant sur un réseau national de compétences. \nDans ce cadre, la Ville de Marseille a confié à Léo Lagrange Animation la gestion d'une partie de son service périscolaire, dans le cadre d'un marché public pluriannuel. \nCe dispositif mobilise environ 450 salariés (animateurs, directeurs d'accueil, coordinateurs) répartis sur de nombreuses écoles, principalement en zones d'éducation prioritaire. \nDans un contexte de continuité de service, de consolidation du pilotage opérationnel et de préparation du renouvellement du marché, Léo Lagrange Animation recrute un Directeur de mission périscolaire .\nSous l'autorité de la direction de Léo Lagrange Animation, vous assurez le pilotage de la mission périscolaire marseillaise -450 salariés en moyenne pour un budget d'environ 9 M€, répartis sur 12 lots couvrant près de 165 écoles et plusieurs milliers d'enfants accueillis. \nAppuyé.e par une direction adjointe et une équipe de  coordinateurs, avec l'appui des services sup",
+      "score": 31,
+      "touches": [
+        "education",
+        "pedagogique",
+        "formation",
+        "association",
+        "economie sociale",
+        "ess",
+        "jeu"
+      ],
+      "alertes": [],
+      "age": 75,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5637260",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5637260",
+      "entreprise": {
+        "nom": "SCALERS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-01T03:24:07.000Z",
+      "description": "Description du poste :\n\nDéveloppement commercial***Prospecter activement les établissements CHR de votre secteur***Réaliser une prospection téléphonique et terrain régulière***Organiser et conduire des rendez-vous commerciaux***Développer et fidéliser un portefeuille de clients professionnels***Identifier rapidement les opportunités commerciales\n\nVente & Négociation***Comprendre les enjeux et besoins des exploitants***Présenter les solutions de manière claire et impactante***Construire des propositions adaptées***Négocier les conditions commerciales***Assurer le closing des contrats\n\nSuivi & Pilotage***Assurer le suivi du démarrage des nouveaux clients***Alimenter le CRM et assurer un reporting régulier***Suivre vos indicateurs de performance***Être force de proposition sur les actions commerciales à mener\n\nDescription du profil Expérience réussie en développement commercial B2B terrain***Véritable tempérament de chasseur***À l'aise avec la prospection intensive et la conquête de nouveaux clients***Capacité à gérer un cycle de vente complet en autonomie***Excellent relationnel et forte énergie commerciale***Goût prononcé pour le terrain et les environnements entrepreneuriaux***Capa",
+      "score": 29,
+      "touches": [
+        "ess",
+        "jeu",
+        "business developer",
+        "developpement commercial",
+        "prospection",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 18,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "6029609",
+      "intitule": "Responsable commercial / commerciale (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6029609",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-16T03:28:01.080Z",
+      "description": "Description du poste :\n\nDéveloppement commercial\nIdentifier et prospecter de nouveaux clients (golfs, clubs sportifs, collectivités, entreprises du paysage)\nDévelopper et fidéliser un portefeuille clients\nPiloter l'ensemble du cycle de vente : prospection, négociation et closing\nParticiper activement à la croissance du chiffre d'affaires sur votre secteur\nConseil technique\nAccompagner vos clients dans le choix des solutions les plus adaptées à leurs besoins\nApporter une expertise technique (installation, entretien, performance des surfaces)\nÊtre un véritable référent technique auprès de vos interlocuteurs\nGestion de projet & relation client\nAssurer le suivi des projets (installation, rénovation.)\nCoordonner avec les équipes internes (production, logistique, support technique)\nReprésenter l'entreprise lors d'événements professionnels et développer votre réseau***Rémunération attractive (fixe + variable)\n* Véhicule de fonction\n* Autonomie importante\n* Environnement dynamique en forte croissance\n\nDescription du profil :\n\nFormation & expérience\nFormation en agronomie, agriculture, espaces verts ou équivalent\nExpérience confirmée en vente B2B terrain, idéalement dans un environnement te",
+      "score": 27,
+      "touches": [
+        "formation",
+        "ess",
+        "developpement commercial",
+        "prospection",
+        "relation client",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 3,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4711299",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4711299",
+      "entreprise": {
+        "nom": "SCALERS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-09T03:19:44.000Z",
+      "description": "Description du poste :\n\nMissions principales\nProspection & Développement commercial\nRéaliser environ 50 appels de prospection par jour\nObjectif : 10-12 rdv par semaine\nOrganiser et effectuer des rendez-vous physiques quotidiens\nProspecter activement les établissements CHR de votre secteur\nDévelopper un portefeuille clients local\nVente & Closing\n\n\nIdentifier rapidement les besoins des clients\nConstruire une relation de confiance avec les exploitants et dirigeants\nPrésenter les solutions de manière claire et impactante\nNégocier et signer les contrats\nAssurer un suivi commercial de qualité\nPilotage & Performance\nSuivre vos KPI commerciaux\nAlimenter le CRM et assurer un reporting régulier\nÊtre force de proposition sur les actions commerciales terrain\n\nDescription du profil :\n\nProfil recherché\nVéritable profil chasseur avec forte culture du résultat\nÀ laise avec la prospection intensive et le terrain\nCapacité à gérer un cycle de vente en full cycle\nExcellent relationnel et forte énergie commerciale\nGoût pour les environnements rapides et entrepreneuriaux\nCapacité à créer du lien rapidement avec des dirigeants de CHR\nExpérience appréciée\nExpérience en vente B2B terrain\nConnaissance du se",
+      "score": 26,
+      "touches": [
+        "ess",
+        "business developer",
+        "developpement commercial",
+        "prospection",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 41,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5184468",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5184468",
+      "entreprise": {
+        "nom": "ELOCE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
       "commune": "13001",
       "contrat": "CDI",
       "romeCode": "M1707",
-      "romeLibelle": "Stratégie commerciale",
-      "dateCreation": "2026-08-11T14:00:00.000Z",
-      "description": "Startup edtech recherche un business developer pour porter ses solutions auprès des établissements scolaires. Culture entrepreneuriat, équipe de 12 personnes.",
-      "score": 24,
-      "touches": ["edtech", "business developer", "startup", "entrepreneuriat", "education"],
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-21T03:18:46.000Z",
+      "description": "Description du poste :\n\nNotre bureau de Marseille se développe et nous recherchons notre nouveau Business Developer B2B au sein du département Alternance. Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning.En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission ",
+      "score": 26,
+      "touches": [
+        "pedagogique",
+        "formation",
+        "ess",
+        "business developer",
+        "relation client"
+      ],
       "alertes": [],
-      "age": 7,
-      "canal": "telephone",
-      "conseil": "Petite structure : le standard mène souvent au décideur. Appeler avant 10h.",
-      "vueLe": "2026-08-18",
+      "age": 29,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
       "nouvelle": true
     },
     {
-      "id": "EXEMPLE3",
-      "intitule": "Commercial sédentaire grands comptes (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche",
-      "entreprise": { "nom": "Groupe Ventura", "url": null, "trancheEffectif": "500 à 999 salariés", "siret": null },
-      "lieu": "83 - TOULON",
+      "id": "212KPZZ",
+      "intitule": "Formateur HSE spécialisé en risques industriels (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KPZZ",
+      "entreprise": {
+        "nom": "ATSI PACA",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - CHATEAUNEUF LES MARTIGUES",
+      "commune": "13026",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-08-12T16:56:29.174Z",
+      "description": "Description du poste :\nRejoignez un acteur reconnu de la formation professionnelle :\nLe Groupe ATSI FORMA'LOG, spécialiste de la formation professionnelle dans le domaine de la prévention des risques, est implanté dans 6 régions en France. Créé en 1988, le groupe est reconnu pour son expertise dans les domaines industriels et logistiques.\nDans le cadre de notre développement, nous recherchons aujourd'hui un(e) :\n\nFormateur(trice) HSE spécialisé(e) en Risques Industriels\nVous êtes expert(e) de la prévention des risques industriels et souhaitez transmettre votre savoir-faire ? Que vous soyez déjà formateur(trice) ou professionnel(le) expérimenté(e) du terrain, nous vous accompagnons dans votre évolution vers le métier de la formation.\nVos missions\nAu sein de notre équipe pédagogique, vous aurez pour principales responsabilités :\n- Animer des formations théoriques et pratiques dans le domaine de la prévention des risques industriels.\n- Former les professionnels aux bonnes pratiques en matière de santé, sécurité et prévention des risques.\n- Accompagner les stagiaires dans l'acquisition des compétences réglementaires et opérationnelles.\n- Sensibiliser les apprenants aux procédures de sé",
+      "score": 25,
+      "touches": [
+        "pedagogique",
+        "formation",
+        "accompagnement",
+        "ess",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 6,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "212KPYQ",
+      "intitule": "Formateur en habilitation électrique (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KPYQ",
+      "entreprise": {
+        "nom": "ATSI PACA",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - CHATEAUNEUF LES MARTIGUES",
+      "commune": "13026",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-08-12T16:54:48.134Z",
+      "description": "Description du poste :\nRejoignez un acteur reconnu de la formation professionnelle :\nLe Groupe ATSI FORMA'LOG, spécialiste de la formation professionnelle dans le domaine de la prévention des risques, est implanté dans 6 régions en France.\nLe groupe crée en 1988 est reconnu pour son expertise dans les domaines industriels et logistiques. Notre groupe poursuit son développement et recherche aujourd'hui un(e) :\n\nFormateur(trice) en Habilitations Electriques\nVous êtes expert(e) en électricité industrielle et souhaitez transmettre votre savoir-faire ? Que vous soyez déjà formateur(trice) ou professionnel(le) expérimenté(e) du terrain, nous vous accompagnons dans votre évolution vers le métier de la formation.\n\nVos missions\nAu sein de notre équipe pédagogique, vous aurez pour principales responsabilités :\n- Animer des formations théoriques et pratiques en habilitations électriques en BT et HT.\n- Former des professionnels aux bonnes pratiques et à la prévention des risques électriques.\n- Accompagner les stagiaires dans l'acquisition de compétences techniques et réglementaires.\n- Garantir la qualité des actions de formation et la satisfaction des apprenants.\nVotre profil\nFormation et expé",
+      "score": 25,
+      "touches": [
+        "pedagogique",
+        "formation",
+        "accompagnement",
+        "ess",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 6,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5855957",
+      "intitule": "Responsable inspection Commerciale Assurances (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5855957",
+      "entreprise": {
+        "nom": "GAN ASSURANCES",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 2e Arrondissement",
+      "commune": "13202",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-08T14:34:23.000Z",
+      "description": "\nLa Direction Commerciale de Gan Assurances recherche un Responsable de l'équipe d'Inspection commerciale Réseau Agents pour sa direction commerciale régionale Sud-Est, Vous contribuez aux activités suivantes :\n-Vous assurez le management de votre équipe de plusieurs inspecteurs commerciaux réseau agents (statuts nomades) répartis sur toute la région Sud-Est\n-Vous définissez et garantissez la mise en oeuvre du Plan d'Actions de votre équipe\n-Vous êtes un acteur majeur du développement commercial de votre périmètre\n-Vous assistez le Délégué Commercial régional dans la maîtrise des résultats techniques de votre périmètre en collaboration avec les structures responsables de la gestion des risques\n-Vous contribuez aux bonnes relations avec les agents en participant aux réunions avec le syndicat national des agents généraux et en participant à des négociations le cas échéant\n-Vous assurez le respect et le suivi des budgets confiés\n-Vous participez ponctuellement à la représentation de Gan Assurances en assurant une représentation de Gan Assurances dans les manifestations ou auprès des organismes extérieurs liés à son marché\n  \n Quel parcours et profil recherchons nous ? \n\n-Issu de préfé",
+      "score": 24,
+      "touches": [
+        "animation de reseau",
+        "formation",
+        "ess",
+        "jeu",
+        "developpement commercial"
+      ],
+      "alertes": [],
+      "age": 10,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5439413",
+      "intitule": "Business developement (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5439413",
+      "entreprise": {
+        "nom": "WISE RH",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-25T03:21:38.000Z",
+      "description": "Description du poste :\n\nDans ce contexte vos missions sont les suivantes Développer l'activité commerciale sur votre secteur géographique par une prospection active et ciblée.\n* Identifier, créer et animer un réseau de partenaires prescripteurs afin de générer de nouvelles opportunités d'affaires.\n* Détecter les projets, qualifier les besoins des clients et construire des offres adaptées.\n* Rédiger et suivre les propositions commerciales, piloter les négociations et assurer la conclusion des contrats.\n* Coordonner les différentes parties prenantes techniques dans le cadre des projets déployés chez les clients.\n* Accompagner les clients tout au long du cycle de réalisation des projets jusqu'à leur mise en exploitation.\n* Fidéliser et développer le portefeuille de clients existants en assurant un suivi régulier et de qualité.\n* Représenter l'entreprise lors d'événements professionnels et contribuer à renforcer sa visibilité sur le marché.\n\nDescription du profil :\n\nProfil :\nDe formation commerciale ou technique supérieure, vous justifiez d'une première expérience réussie en développement commercial BtoB, idéalement acquise dans un environnement à forte composante technique.\nVous maîtr",
+      "score": 24,
+      "touches": [
+        "formation",
+        "ess",
+        "business developer",
+        "developpement commercial",
+        "prospection"
+      ],
+      "alertes": [],
+      "age": 25,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4634345",
+      "intitule": "Responsable Développement commercial (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4634345",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-07T08:05:53.000Z",
+      "description": "Vos missions :\n \nEn tant que Sales Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et les techniques c",
+      "score": 24,
+      "touches": [
+        "formation",
+        "accompagnement",
+        "ess",
+        "business developer",
+        "developpement commercial"
+      ],
+      "alertes": [],
+      "age": 42,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "2139087",
+      "intitule": "Responsable d'équipe commerciale assurance (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2139087",
+      "entreprise": {
+        "nom": "SYNERGIE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-04-30T08:35:47.000Z",
+      "description": "Description du poste :\n\nLes missions : Un(e) Responsable d'Agence f/h avec une double activité Comme Conseiller(e) Commercial(e) (80%), sur le terrain, vous Prospectez auprès de commerçants et d'artisans alimentaires sur Toulon et jusqu'à l'Ouest du Var Fidélisez le portefeuille existant par un suivi régulier, vous assurant de la conformité des contrats avec les besoins de nos sociétaires et les règles de souscription en vigueur Représentez notre Mutuelle auprès des partenaires et participez aux salons professionnels En tant que Manager de l'agence de Toulon (20%), vous Suivez l'activité des conseillers de votre équipe composée de deux conseillers commerciaux, lors de réunions régulières et d'entretiens individuels Contribuez au bon fonctionnement de l'agence Assurez le pilotage du Plan Marketing et Commercial, l'animation et le management de l'équipe placé sous votre responsabilité dans le respect de la stratégie, des valeurs et des consignes de l'entreprise Garantissez les résultats techniques et commerciaux de l'agence Êtes l'interlocuteur privilégié des partenaires et des organisations professionnelles.\n\nDescription du profil :\n\nProfil recherché : Vous avez une formation BAC+2 ",
+      "score": 23,
+      "touches": [
+        "formation",
+        "accompagnement",
+        "ess",
+        "prospection",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 110,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5637265",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5637265",
+      "entreprise": {
+        "nom": "SCALERS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-01T03:24:07.000Z",
+      "description": "Description du poste :\n\nRattaché(e) à léquipe commerciale, vous êtes au cur de la stratégie de croissance et intervenez directement sur le développement du chiffre daffaires.\n\nVotre mission principale : identifier, prospecter et convertir de nouveaux clients en leur proposant des solutions de communication à forte valeur ajoutée (articles sponsorisés, webTV, sponsoring TV Identifier de nouveaux prospects via une veille active du marché***Collecter les informations clés et initier les premiers contacts (prospection téléphonique)***Développer et gérer un portefeuille clients***Suivre et mettre à jour le CRM***Lancer et piloter des campagnes de relance (emailing, multicanal)***Contribuer activement à la croissance du chiffre daffaires\n\nDescription du profil Formation commerciale (école de commerce, IUT, BTS, Licence ou équivalent)***Première expérience en prospection commerciale (stage ou alternance inclus)***Goût prononcé pour la vente et la performance***Excellentes compétences en communication orale et écrite***Esprit déquipe, ambition et résilience\n\nPourquoi les rejoindre Formation complète dès larrivée (produits, marché, techniques de vente)***Accompagnement managérial structuré ",
+      "score": 23,
+      "touches": [
+        "formation",
+        "accompagnement",
+        "ess",
+        "business developer",
+        "prospection"
+      ],
+      "alertes": [],
+      "age": 18,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "6633667",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6633667",
+      "entreprise": {
+        "nom": "ELOCE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2025-12-16T09:58:47.000Z",
+      "description": "Description du poste :\n\nNotre bureau dans le 8ème arrondissement de Marseille se développe et nous recherchons un(e) Commercial(e) BtoB Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning. En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission & Placement pour s",
+      "score": 23,
+      "touches": [
+        "pedagogique",
+        "formation",
+        "ess",
+        "business developer",
+        "relation client"
+      ],
+      "alertes": [],
+      "age": 245,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5499661",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5499661",
+      "entreprise": {
+        "nom": "CROIX ROUGE FRANCAISE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Ollioules",
+      "commune": "83090",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-28T03:20:34.000Z",
+      "description": "Description du poste :\n\nDécouvrez votre futur poste :\n\nFormateur H/F\n\nSous la responsabilité du Responsable pédagogique, le formateur assure la formation professionnelle initiale des étudiants des filières de formation en licences de travail social (DEES, DEASS et DEEJE) en référence au programme officiel d'étude. En cohérence avec le projet pédagogique de la filière de l'établissement Vous construisez en équipe le projet de formation en cohérence avec le cadre réglementaire et les évolutions professionnelles et/ou en réponse aux besoins du secteur professionnel Vous préparez, vous animez et vous évaluez les formations ou les séquences de formation dont vous avez la charge Vous assurez le suivi pédagogique des élèves ou étudiants pendant leurs périodes de cours et durant les stages Vous collaborez au processus d'évaluation etc Date de prise de poste souhaitée : 07/09/2026\n\nType de contrat : CDI TEMPS PLEIN\n\nDescription du profil :\n\nVous êtes titulaire d'un diplôme MASTER 2 (exigé), vous avez une expérience dans le domaine universitaire et dans le domaine social, vous êtes titulaire d'un DE dans le domaine social (DEEJE, DEES, DEASS)\n\nAutonome et organisé(e), votre capacité d'adapta",
+      "score": 22,
+      "touches": [
+        "pedagogique",
+        "formation",
+        "accompagnement",
+        "association",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 22,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5223686",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5223686",
+      "entreprise": {
+        "nom": "CROIX ROUGE FRANCAISE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-22T03:20:56.000Z",
+      "description": "Description du poste :\n\nAujourd'hui, elle recrute un Directeur(trice) pour son Centre Régional de Formation Professionnelle qui est implanté sur chacun de ses sites. Le poste sera basé à Marseille avec des déplacements réguliers à prévoir sur toute la région PACA & Corse.\n\nSous l'autorité du DR CRC ( Directeur Régional), vous assurez les missions suivantes :\n\nMANAGEMENT Assurer le pilotage du centre de formation\n\n- Garantir le bon climat social, animer le dialogue social et la communication interne\n\n- Conduire la politique de l'établissement\n\nGESTION LOGISTIQUE\n\n- Coordonner les formateurs et superviser les planifications\n\n- Garant de la mise en oeuvre des formations déployées sur la région dans le respect des cadres réglementaires\n\n- Assurer la logistique et l'entretien du centre ( fournisseurs, sessions de formations etc Suivi des cohortes\n\nGESTION ECONOMIQUE ET FINANCIERE Piloter la qualité et l'amélioration continue : indicateurs d'activités, analyse client et offres\n\n- Garantir une santé financière de l'établissement vis à vis de la Croix Rouge Française et des organismes financeurs.\n\nProfessionnel de la formation, vous avez une expérience significative en direction d'un établ",
+      "score": 22,
+      "touches": [
+        "pedagogique",
+        "formation",
+        "accompagnement",
+        "association",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 28,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4072923",
+      "intitule": "Consultant Formateur Logiciel Comptabilité - Itinérance Fr H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4072923",
+      "entreprise": {
+        "nom": "Randstad professional",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Vitrolles",
+      "commune": "13117",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-06-21T05:08:25.000Z",
+      "description": "POSTE : Consultant Formateur Logiciel Comptabilité - Itinérance Fr H/F\nDESCRIPTION : Nous recherchons pour le compte de notre client Éditeur de logiciel basé proche d'Aix en Provence, un Consultant Fonctionnel itinérant (F/H)\n \nAu sein de la direction des services projet, vous pilotez l'intégration de la brique \"Gestion Financière et Flux Comptables\" de la solution auprès d'un portefeuille de structures partenaires.\n \nAudit & Customisation : Analyser l'organisation cible, traduire les flux de gestion courante (écritures, lettrages, suivi des trésoreries/facturations) et assurer le paramétrage fonctionnel de la solution.\n \nAnimation & Transfert de compétences : Concevoir les supports et animer des cycles d'apprentissage (ateliers collectifs ou sessions individuelles), sur site ou à distance.\n \nAccompagnement de profils variés : Vulgariser l'outil technique pour des profils hétérogènes (collaborateurs administratifs, techniciens, cadres financiers et directions).\n \nSuivi de projet : Assurer le reporting des interventions, la traçabilité des parcours de formation et le support fonctionnel de second niveau en phase de démarrage.\n \nCe rôle de terrain implique des déplacements réguliers ",
+      "score": 21,
+      "touches": [
+        "pedagogie",
+        "formation",
+        "accompagnement",
+        "ess",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 59,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5638356",
+      "intitule": "Expert CRM (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5638356",
+      "entreprise": {
+        "nom": "SELLENS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-08-01T04:31:38.000Z",
+      "description": "RESPONSABILITÉS : \n\nChez Sellens, la donnée est un véritable levier de développement commercial. Nous recherchons notre futur(e) Expert(e) CRM pour accompagner les marques BMW, MINI et BMW Motorrad, fiabiliser nos données, optimiser nos performances et faire de Salesforce un outil clé pour nos équipes.\nRéférent(e) CRM de la plaque allemande, vous garantissez la qualité de la donnée client, accompagnez les équipes commerciales dans l'utilisation de Salesforce et contribuez au pilotage de la performance. À la croisée des équipes commerciales, marketing et de la direction, vous participez à l'amélioration continue de nos processus et au développement de notre stratégie CRM.\nVos principales missions :  \n1. Garantir la qualité et la fiabilité des données CRM  \n - Piloter la qualité de la base clients et prospects Salesforce\n - Concevoir des outils de contrôle et détecter les anomalies\n - Accompagner les équipes dans la fiabilisation des données et les bonnes pratiques CRM\n\n\n\n2. Assurer la conformité RGPD  \n - Veiller à la conformité de la base CRM\n - Définir les ciblages et accompagner les campagnes de re-consentement\n - Suivre les consentements dans Salesforce\n\n\n3. Produire les reporti",
+      "score": 20,
+      "touches": [
+        "pedagogie",
+        "ess",
+        "jeu",
+        "developpement commercial"
+      ],
+      "alertes": [],
+      "age": 18,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5676477",
+      "intitule": "Chargé de développement commercial (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5676477",
+      "entreprise": {
+        "nom": "NEW NET 3D",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-02T03:23:40.000Z",
+      "description": "Description du poste :\n\nEn tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Capgemini recherche actuellement des profils :\n\nRattaché(e) à notre site de Aix en Provence, en tant que Sales Developer, vous aurez en charge : la prospection, le développement et le suivi de comptes clients.\n\nA ce titre, vous Prospectez et développez les contacts au sein des sociétés ciblées et aussi en charge de gérer et remonter le forecast / les prévisions (donner une vision prévisionnelle des ventes par offre Détectez les besoins et répondez aux différents appels d'offre en vous interfaçant avec l'ensemble des parties prenantes internes (métier, projet.) et clients Mettez en place la stratégie de développement commercial sur votre périmètre sous forme de plan de compte Pilotez et faites respecter les processus de vente tout en vous assurant de la mobilisation des équipes d'avant-vente et de production en relation avec ses clients. ",
+      "score": 19,
+      "touches": [
+        "ess",
+        "developpement commercial",
+        "prospection"
+      ],
+      "alertes": [],
+      "age": 17,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "211PZLY",
+      "intitule": "Formateur/Formatrice Espagnol Freelance (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211PZLY",
+      "entreprise": {
+        "nom": "FLORIVIBES",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - MARSEILLE",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-23T22:51:04.995Z",
+      "description": "Florivibes, organisme de formation professionnelle, recherche un(e) formateur/formatrice indépendant(e) en Espagnol professionnel pour intervenir auprès de nos apprenants (salariés, demandeurs d'emploi, entreprises) partout en France.\n\nVos missions\nAnimer des sessions de formation courte durée en espagnol (général, professionnel ou technique selon les besoins clients)\nAdapter le contenu pédagogique au niveau et aux objectifs des apprenants\nAssurer le suivi pédagogique et l'évaluation des acquis\n\nFormat\nPrésentiel / distanciel / hybride selon les missions\n\nProfil recherché\nAvoir son numéro de NDA\nEnvisager de prendre une RC pro si nécessaire.\nExpérience confirmée en formation d'adultes (idéalement 2 ans minimum)\nCertification en didactique de l'espagnol appréciée (DELE, certifications équivalentes) ou diplôme correspondant\nNiveau bilingue ou natif\nStatut\nFreelance (SIRET obligatoire), déclaration d'activité formateur appréciée) micro entreprise ?\nRémunération\n\nZone\nNationale - déplacements ou distanciel possibles\n\n\nPourquoi nous rejoindre ?\nMissions partout en France : intervenez sur tout le territoire, selon vos disponibilités, ou en visioconférence \nFlexibilité totale : choisissez",
+      "score": 19,
+      "touches": [
+        "pedagogique",
+        "formation",
+        "ess",
+        "prospection"
+      ],
+      "alertes": [],
+      "age": 26,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4871441",
+      "intitule": "CONTRAT APPRENTISSAGE - BTS MCO - ENPLOYE COMMERCIAL H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4871441",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Gréasque",
+      "commune": "13046",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-11T15:47:51.000Z",
+      "description": "Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs & Commerçants auprès de nos clients. Vous participez à la mise en rayon et à la gestion marchande des produits (mise en scène, clarté des prix et de l'information). Vous réalisez les inventaires.Vous veillez à la satisfaction client en créant une relation de proximité et de confiance avec la clientèle.Vous veillez à l'application des règles d'hygiène et de sécurité alimentaire.",
+      "score": 19,
+      "touches": [
+        "formation",
+        "insertion",
+        "ess",
+        "jeu"
+      ],
+      "alertes": [],
+      "age": 38,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "0658970",
+      "intitule": "Agent technique de recherche et de formation de l'administration (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/0658970",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-03-24T14:35:31.000Z",
+      "description": "Description du poste :\n\nEn tant qu'agent chargé de la formation du personnel civil et militaire vous\n- Recueillerez les besoins de formation, contrôlerez leur affectation (plan P ou plan C) tout en vérifiant la pertinence, et saisirez toutes les demandes dans le SIRH ALLIANCE\n- Assurerez le suivi dans le SIRH ALLIANCE de toutes les opérations de saisies relatives au déroulement des formations (programmation, ouverture, suivi, clôture)\n- Conseillerez et informerez les agents des évolutions réglementaires concernant la formation, de l'offre de formation, et des dispositifs d'accompagnement des parcours professionnels\n- Assurerez la transmission des convocations et des attestations de stage\n- Assurerez la gestion des indemnités de formation et de recrutement, des conventions de formateur interne occasionnel\n- Organiserez en lien avec le CFD les formations qualifiantes des ouvriers de pyrotechnie\n- Instruirez les différentes demandes de stages (suivi de la gratification le cas échéant)\n- Gérerez la prise en charge des apprentis en lien avec le CMG et l'organisme d'apprentissage notamment pour le devis de formation et rédaction convention/contrat\n- Assurerez la collecte de données (PCA,",
+      "score": 18,
+      "touches": [
+        "formation",
+        "accompagnement",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 147,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5638319",
+      "intitule": "Responsable commercial 13 H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5638319",
+      "entreprise": {
+        "nom": "Plus que PRO",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-01T04:31:38.000Z",
+      "description": "RESPONSABILITÉS : \n\nVous développez et pérennisez un portefeuille de dirigeants de TPE/PME sur votre secteur géographique. Le poste repose sur un double moteur :\nConquérir.  Vous identifiez, prospectez et signez les dirigeants qui ont le niveau pour rejoindre le réseau des Meilleures Entreprises de France. Vous menez vos rendez-vous en autonomie, face à des décideurs exigeants, et vous défendez une offre à forte valeur ajoutée : avis clients certifiés, réputation en ligne, solutions digitales de développement commercial.\nFidéliser.  Vous accompagnez vos adhérents dans la durée, assurez le renouvellement de leurs contrats et développez le chiffre d'affaires de votre portefeuille par la montée en gamme et les ventes additionnelles. Un adhérent bien suivi renouvelle - et votre portefeuille devient un actif qui travaille pour vous, année après année.\nC'est la force du modèle : chaque contrat signé aujourd'hui construit votre revenu de demain.\nCe que nous vous apportons dès le jour 1\nUn parcours de formation et d'intégration structuré, des outils de vente éprouvés, et un management de proximité qui vous challenge autant qu'il vous soutient.\nPourquoi Plus que pro\nVous ne vendez pas un pr",
+      "score": 18,
+      "touches": [
+        "formation",
+        "ess",
+        "developpement commercial",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 18,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5501121",
+      "intitule": "Chargé de développement commercial (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5501121",
+      "entreprise": {
+        "nom": "TEMP-HORAIRE INTERIM (THI) PAYS D'AIX",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-28T03:20:38.000Z",
+      "description": "Description du poste :\n\nVotre agence THI  recherche un(e) Chargé(e) de Développement Commercial (H/F) afin de renforcer son équipe.\n\nCe poste se situe à Marseille. \n\nLes horaires de travail pour cette mission sont en journée , du lundi au vendredi.\n\nDirectement rattaché au Responsable Commercial, vous assurerez les missions suivantes Prospecter de nouveaux clients par téléphone, e-mail, réseaux professionnels et sur le terrain,\n* Développer et fidéliser un portefeuille clients en proposant des solutions adaptées à leurs besoins,\n* Élaborer les offres commerciales, assurer les négociations et conclure les ventes,\n* Réaliser une veille concurrentielle afin d'identifier de nouvelles opportunités de développement,\n* Assurer le suivi des clients, mettre à jour les outils de reporting et participer à l'atteinte des objectifs commerciaux.\n\nDescription du profil :\n\nPour mener à bien cette mission, nous recherchons un profil ayant les connaissances et compétences suivantes Vous justifiez d'une première expérience réussie dans le développement commercial, la prospection ou la vente BtoB, idéalement en Interim,\n* Vous possédez d'excellentes qualités relationnelles, un réel sens de la négociat",
+      "score": 18,
+      "touches": [
+        "ess",
+        "developpement commercial",
+        "prospection",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 22,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "6091158",
+      "intitule": "Chef de bord - Coordination de travaux navals (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6091158",
+      "entreprise": {
+        "nom": "Astridsen AZUR",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-08-19T04:31:33.176Z",
+      "description": "RESPONSABILITÉS : \n\nLe poste Dans le cadre du développement de nos activités dans le secteur naval, nous recherchons un Chef de bord H/F pour intervenir sur des projets de maintenance, de réparation et d'arrêt technique de navires à Marseille.\nVéritable chef d'orchestre des opérations à bord, vous assurez la coordination de l'ensemble des intervenants mobilisés sur le navire pendant son passage au chantier.\nVotre rôle est de garantir la bonne organisation des travaux, la circulation de l'information entre les différents métiers et le respect du planning, tout en intégrant les contraintes techniques, opérationnelles et de sécurité propres à l'environnement naval.\nVos missions À ce titre, vous serez notamment amené à :\n - Coordonner les différentes interventions réalisées à bord du navire.\n - Organiser les activités des équipes techniques et des sous-traitants.\n - Assurer l'interface entre les différents corps de métiers : mécanique, tuyauterie, chaudronnerie, électricité, peinture, levage, échafaudage, etc.\n - Gérer les problématiques de coactivité et les interfaces entre les différentes opérations.\n - Suivre quotidiennement l'avancement des travaux et le respect du planning.\n - Ide",
+      "score": 18,
+      "touches": [
+        "formation",
+        "ess",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5119809",
+      "intitule": "Responsable commercial aéronautique (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5119809",
+      "entreprise": {
+        "nom": "AIRBUS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-19T03:20:27.000Z",
+      "description": "Description du poste Job Description:***Envolez-vous avec Airbus Helicopters Airbus Helicopters* recherche *une Tour de Contrôle Technical Data Front Office* (f/h) pour rejoindre notre *Département Technical Data Delivery / Support & Services* basé à *Marignane, France Rejoignez-nous pour façonner l'avenir de l'aéronautique et contribuer à protéger des vies lors des missions accomplies grâce à nos hélicoptères.\n\n\nLe site de Marignane, 3ème site industriel français, près de Marseille et d'Aix-en-Provence se transforme en profondeur pour offrir un environnement de travail de haute technologie, inclusif et respectueux de l'environnement.\n\n\nVous vivrez une expérience professionnelle unique, au cœur de la fabrication de nos hélicoptères.\n\n\nPour en savoir plus sur notre site et nos activités : https://www.youtube.com/watch?v=flu57j6g-0g***Vos futures missions Vous ferez partie d'une équipe qui développe des hélicoptères et des activités Support & Services. Au sein du département *TechData Delivery* , vous serez impliqué(e) dans les activités *technico commerciales* visant à mettre en place des contrats TechData avec les clients nationaux et internationaux Vos principales missions seront ",
+      "score": 17,
+      "touches": [
+        "formation",
+        "association",
+        "ess",
+        "relation client"
+      ],
+      "alertes": [],
+      "age": 31,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4295020",
+      "intitule": "CONSULTANT FORMATEUR LOGICIEL COMPTABILITÉ - ITINÉRANCE FR (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4295020",
+      "entreprise": {
+        "nom": "Randstad professional",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Vitrolles",
+      "commune": "13117",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-06-27T05:00:54.000Z",
+      "description": "Nous recherchons pour le compte de notre client Éditeur de logiciel basé proche d'Aix en Provence, un Consultant Fonctionnel itinérant (F/H)Au sein de la direction des services projet, vous pilotez l'intégration de la brique \"Gestion Financière et Flux Comptables\" de la solution auprès d'un portefeuille de structures partenaires.\n\nAudit & Customisation : Analyser l'organisation cible, traduire les flux de gestion courante (écritures, lettrages, suivi des trésoreries/facturations) et assurer le paramétrage fonctionnel de la solution.\n\nAnimation & Transfert de compétences : Concevoir les supports et animer des cycles d'apprentissage (ateliers collectifs ou sessions individuelles), sur site ou à distance.\n\nAccompagnement de profils variés : Vulgariser l'outil technique pour des profils hétérogènes (collaborateurs administratifs, techniciens, cadres financiers et directions).\n\nSuivi de projet : Assurer le reporting des interventions, la traçabilité des parcours de formation et le support fonctionnel de second niveau en phase de démarrage.\n\nCe rôle de terrain implique des déplacements réguliers (représentant entre un tiers et la moitié de votre temps) pour intervenir directement sur les",
+      "score": 17,
+      "touches": [
+        "formation",
+        "accompagnement",
+        "ess",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 53,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "210TBFY",
+      "intitule": "Commercial Junior, SDR/BDR (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210TBFY",
+      "entreprise": {
+        "nom": "FORMATION BOOST",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - MARSEILLE",
+      "commune": "13202",
+      "contrat": "CDI",
+      "romeCode": "D1406",
+      "romeLibelle": "Directeur / Directrice des ventes",
+      "dateCreation": "2026-07-04T16:23:31.892Z",
+      "description": "Formation Boost recrute un Commercial Junior SDR/BDR dans le cadre d'une POEI, avec une perspective d'embauche en CDI à l'issue du parcours, sous réserve de validation des acquis et d'adéquation au poste.\n\nLe poste consiste à identifier, contacter et qualifier des prospects B2B afin de générer des rendez-vous commerciaux qualifiés. Le collaborateur réalisera des actions de prospection téléphonique et digitale, appliquera les scripts et méthodes commerciales de l'entreprise, identifiera les besoins des prospects, traitera les premières objections et transmettra les opportunités qualifiées au responsable commercial.\n\nSes principales missions seront les suivantes : construire et enrichir des fichiers de prospection, utiliser les outils CRM et les outils de prospection, effectuer des appels sortants, qualifier les interlocuteurs selon les critères définis, planifier des rendez-vous, renseigner les informations dans le CRM, suivre son activité et participer aux points de reporting hebdomadaires.\n\nLe poste implique une activité commerciale régulière, avec des échanges téléphoniques quotidiens, un suivi d'indicateurs d'activité et l'application rigoureuse des procédures internes. Une form",
+      "score": 17,
+      "touches": [
+        "formation",
+        "ess",
+        "prospection",
+        "relation client"
+      ],
+      "alertes": [],
+      "age": 45,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4780491",
+      "intitule": "Responsable commercial / commerciale (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4780491",
+      "entreprise": {
+        "nom": "STELLANTIS &YOU FRANCE SAS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-10T03:20:16.000Z",
+      "description": "Description du poste :\n\nVos missions\n\n\nRattaché(e) à la Direction, vous pilotez le développement de votre activité tout en assurant l'encadrement d'une équipe et le suivi des projets confiés.\n\n\nManagement d'équipe\n\n\nEncadrer, accompagner et faire progresser les collaborateurs.\n\n\nFixer les priorités et suivre l'atteinte des objectifs.\n\n\nAnimer les réunions d'équipe et assurer une communication régulière.\n\n\nAccueillir et intégrer les nouveaux arrivants.\n\n\nRéaliser les entretiens annuels et contribuer à l'évaluation des compétences.\n\n\nDéveloppement commercial\n\n\nDévelopper et fidéliser un portefeuille clients.\n\n\nIdentifier de nouvelles opportunités d'affaires.\n\n\nPréparer les offres commerciales et participer aux négociations.\n\n\nRépondre aux consultations et appels d'offres.\n\n\nAssurer le suivi des affaires jusqu'à leur finalisation.\n\n\nPilotage des projets\n\n\nCoordonner les échanges avec les équipes techniques.\n\n\nParticiper aux réunions de lancement et de suivi.\n\n\nVeiller au respect des engagements en termes de qualité, coûts et délais.\n\n\nSuivre l'avancement des chantiers et anticiper les points de vigilance.\n\n\nGestion et suivi de l'activité\n\n\nSuivre les indicateurs de performance et rend",
+      "score": 16,
+      "touches": [
+        "formation",
+        "ess",
+        "developpement commercial",
+        "terrain"
+      ],
+      "alertes": [
+        "bac +5"
+      ],
+      "age": 40,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5603053",
+      "intitule": "Responsable Développement Appels d'Offres / Bid Manager IT ( H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5603053",
+      "entreprise": {
+        "nom": "Mercato de l'emploi",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-31T04:32:11.000Z",
+      "description": "RESPONSABILITÉS : \n\nRattaché à la Direction Commerciale, en tant que Responsable Développement Appels d'Offres / Bid Manager IT (H/F), vous serez un acteur clé de la croissance commerciale de l'entreprise.\n\n\nVos missions principales seront :\n -  Identifier les opportunités : Veille active sur les appels d'offres publics et privés, analyse des marchés et détection des projets alignés avec les compétences de l'entreprise.\n -  Qualifier les dossiers : Évaluation des opportunités en fonction des critères techniques, financiers et stratégiques.\n -  Piloter les réponses : Coordination des équipes techniques, commerciales et financières pour élaborer des propositions compétitives et conformes.\n -  Préparer les soutenances : Organisation et animation des présentations orales, en mettant en avant la valeur ajoutée de l'entreprise.\n -  Augmenter le taux de réussite : Optimisation des processus de réponse, standardisation des documents, et création d'une bibliothèque documentaire pour capitaliser sur les bonnes pratiques.\n -  Structurer une cellule \"Appels d'Offres\" : Mise en place d'une méthodologie efficace pour renforcer la réactivité et la qualité des réponses.\n -  Contribuer au développe",
+      "score": 16,
+      "touches": [
+        "ess",
+        "jeu",
+        "developpement commercial"
+      ],
+      "alertes": [],
+      "age": 19,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5496380",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5496380",
+      "entreprise": {
+        "nom": "PEPITE CONSEIL",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-28T03:19:26.000Z",
+      "description": "Description du poste :\n\nÀ propos de ENOLIS\n\nLe cabinet ENOLIS est une équipe de chasse de talents dont la spécialité est d'accompagner les professionnels des métiers des EnR.\n\nEnvie de donner une nouvelle dimension à votre carrière au sein d'un secteur d'avenir ? Nous accompagnons un acteur de référence du photovoltaïque qui connaît un fort développement sur les marchés français et européens.\n\nAlliant l'agilité d'une PME à taille humaine (-30 pers.) et la solidité d'un groupe historique (30 ans d'expertise, 25 filiales), elle s'impose par sa maîtrise opérationnelle avec plus de 2 000 projets d'envergure déployés ces 5 dernières années. Ici, l'innovation est au cœur de la stratégie : l'entreprise conçoit des solutions durables, évolutives et parfaitement adaptées aux mutations de la transition énergétique.\n\nPour soutenir cette dynamique et conquérir de nouvelles parts de marché, notre client structure aujourd'hui une division stratégique dédiée aux segments de la logistique et des grands comptes.\n\nLe poste\n\nRattaché au Directeur Business Développement / Prescription, vous intervenez au cœur du développement stratégique sur le segment de la logistique et des grands comptes. Vous trav",
+      "score": 16,
+      "touches": [
+        "formation",
+        "accompagnement",
+        "ess",
+        "business developer",
+        "terrain"
+      ],
+      "alertes": [
+        "grands comptes"
+      ],
+      "age": 22,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5633814",
+      "intitule": "Responsable du Développement Commercial Immobilier d'Entreprise (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5633814",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-01T03:23:50.000Z",
+      "description": "Description du poste :\n\nRattaché(e) à la Direction Générale, vous êtes responsable du développement commercial et stratégique sur la région Provence-Alpes-Côte d'Azur.\nÀ ce titre, vos principales missions sont Définir et déployer la stratégie de développement régional\n* Manager et accompagner les équipes dédiées au développement\n* Identifier, structurer et concrétiser de nouvelles opportunités d'investissement immobilier\n* Développer et animer un réseau de partenaires (apporteurs d'affaires, promoteurs, agents, collectivités)\n* Négocier et sécuriser les opérations immobilières\n* Assurer une veille active du marché et des tendances locales\n* Représenter la société lors d'événements professionnels et institutionnels\n* Garantir l'atteinte des objectifs de croissance et de rentabilité sur votre périmètre\n\nLa rémunération et les avantages sur ce poste sont Un salaire compris entre 60 000 € et 70 000 € brut annuel Un poste en CDI offrant une stabilité professionnelle.\n\nSi vous êtes motivé(e) par ce challenge, n'hésitez pas à Stephanie Zerbib\n\nDescription du profil Expérience confirmée (minimum 8-10 ans) en développement immobilier, investissement ou asset management***Très bonne connaiss",
+      "score": 16,
+      "touches": [
+        "ess",
+        "developpement commercial"
+      ],
+      "alertes": [],
+      "age": 18,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5560055",
+      "intitule": "Area Manager Retail - Univers Lingerie H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5560055",
+      "entreprise": {
+        "nom": "Talents Executive",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "D1406",
+      "romeLibelle": "Directeur / Directrice des ventes",
+      "dateCreation": "2026-07-29T14:35:05.000Z",
+      "description": "Talents Executive est le cabinet de recrutement du Top Management et du Middle Management. Nous avons pour vocation d'accompagner les entreprises dans la recherche de leurs collaborateurs clés (cadres, cadres dirigeants et experts) sur l'ensemble de leurs fonctions support?: Finance, Ressources Humaines, Juridique, Paie, Marketing / Communication, Achats / Supply Chain. \n\n        Nous recrutons pour notre client, une marque internationale de lingerie, reconnue pour son positionnement premium et son expertise produit, un(e) Directeur Régional H/F anglais courant, en CDI à Marseille.\n\nRattaché(e) à la Direction Retail France et en lien étroit avec les équipes internationales, vous êtes responsable d'un périmètre de 6 boutiques dédiées à une clientèle majoritairement féminine et à des produits nécessitant un fort niveau de conseil, d'expertise et de sensibilité commerciale.\n\nVous évoluez dans un environnement à forte exigence en matière d'image de marque, d'expérience client et de performance opérationnelle.\n\nVos missions principales :\n\n-Recruter, encadrer et faire grandir des Store Managers experts de la vente conseil\n-Accompagner les équipes sur les fondamentaux du selling lingerie ",
+      "score": 16,
+      "touches": [
+        "ess",
+        "jeu",
+        "relation client",
+        "terrain"
+      ],
+      "alertes": [],
+      "age": 20,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "1831620",
+      "intitule": "Responsable commercial aéronautique (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/1831620",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Hyères",
+      "commune": "83069",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-04-23T08:58:22.000Z",
+      "description": "Description du poste :\n\nVous travaillerez au profit des utilisateurs de la plateforme en leur procurant une documentation soigneusement tenue à jour et en les aidant dans la préparation documentaire des missions. Enfin, vous établirez un suivi de l'utilisation de la plateforme.\nLa fonction d'adjoint à l'adjudant du groupement opérations est rattachée à ce poste. Il consiste à être le point de contact des marins au sein du groupement. Vous prendrez en compte les demandes administratives, conseillerez, orienterez et ferez le relais entre les administrés et le bureau des ressources humaines de la BAN.\nPlus particulièrement, vous :\n-Mettrez à jour la documentation aéronautique et assurerez le suivi des demandes de modification de publication ;\n-Diffuserez des informations aéronautiques au profit des usagers de la plateforme ;\n-Gérerez quotidiennement des statistiques et doléances liées aux plateformes d'Hyères et de Cuers ;\n-Serez adjoint à l'adjudant du groupement opérations\n-Assurerez la gestion de la carte achat du groupement opérations\n-Assurerez la suppléance du chargé de Chorus au sein du groupement opérations (gestion des frais de déplacement et ordres de mission)\n\nDescription d",
+      "score": 15,
+      "touches": [
+        "formation",
+        "ess",
+        "jeu"
+      ],
+      "alertes": [],
+      "age": 117,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5521813",
+      "intitule": "Chargé de développement commercial (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5521813",
+      "entreprise": {
+        "nom": "CODA INTERIM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Ciotat",
+      "commune": "13028",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-29T03:21:52.000Z",
+      "description": "Description du poste :\n\nDans le cadre du développement de nos clients Grands Comptes et afin de renforcer notre présence sur notre axe de prédilection Paris-Lyon-Marseille, nous recherchons un(e)  Responsable développement Grands Comptes H/F  en CDI.\n\nVous aimez relever des défis, développer votre portefeuille clients et évoluer dans un environnement stimulant ? Ce poste est fait pour vous !\n\nNos activités sont essentiellement orientées vers la logistique, les activités aéroportuaires, la maintenance, la restauration collective et le second œuvre.\n\nVotre mission : développer, prospecter et fidéliser\n\nVous êtes en charge de développer les Grands Comptes APRIME déjà signés.\n\nA ce titre, vous serez amenés(e) à Démarcher et rencontrer les responsables locaux;\n* Coordonner les actions des recrutements demandés avec les agences;\n* Anticiper les besoins exprimés par les responsables de site;\n* Adhérent(e) du réseau APRIME, vous participerez aux relations avec l'association afin de contribuer au développement de nouveaux accords.\n\nDescription du profil :\n\nCe qui vous permettra de réussir à ce poste Vous avez un réel goût pour le développement commercial B to B, aussi bien par téléphone que",
+      "score": 15,
+      "touches": [
+        "association",
+        "ess",
+        "developpement commercial",
+        "prospection",
+        "terrain"
+      ],
+      "alertes": [
+        "grands comptes"
+      ],
+      "age": 21,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "3883427",
+      "intitule": "CONTRAT D'APPRENTISSAGE - ÉQUIPIER POLYVALENT DE COMMERCE (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3883427",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-06-17T07:26:46.000Z",
+      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants !Intermarché & Netto fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Vous êtes inscrit dans une école et vous rechercher un contrat d'apprentissage ?Rejoignez-nous !\n\nEn tant qu'employé polyvalent en alternance chez Intermarché, vous interviendrez sur divers secteurs du magasin, contribuant ainsi à l'expérience client et à la gestion quotidienne du point de vente. Vous serez intégré(e) à une équipe dynamique et aurez la possibilité d'acquérir une expérience pratique dans différents domaines du commerce de proximité.Vos principales missions seront les suivantes :Accueil et conseil client : Vous êtes le premier point de contact pour nos clients. Vous les accueillez chaleureusement et les conseillez sur les produits. Votre objectif est de répondre à leurs besoins et d'assurer un service de qualité.M",
+      "score": 15,
+      "touches": [
+        "formation",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 62,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4046018",
+      "intitule": "Responsable commercial aéronautique (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4046018",
+      "entreprise": {
+        "nom": "AIRBUS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-06-20T09:30:09.000Z",
+      "description": "Description du poste Job Description:***Airbus Helicopters* est à la recherche d'un(e) *Responsable de l'Offre du Portefeuille Commercial S&S (Support & Services) (h/f)* pour rejoindre notre département Support & Services Business & Program basé à Marignane, en France.\n\n\nRejoignez-nous pour façonner l'avenir de l'aéronautique et contribuer à protéger des vies lors des missions accomplies grâce à nos hélicoptères. Le site de Marignane, 3ème site industriel français, près de Marseille et d'Aix-en-Provence se transforme en profondeur pour offrir un environnement de travail de haute technologie, inclusif et respectueux de l'environnement. Vous vivrez une expérience professionnelle unique, au cœur de la fabrication de nos hélicoptères. Pour en savoir plus sur notre site et nos activités https://www.youtube.com/watch?v=flu57j6g-0g***Vos futures missions En rejoignant notre équipe, vous participerez à différentes missions, toutes orientées vers l'amélioration de la performance et de la satisfaction clients. Ensemble, nous contribuerons à l'activité du Support & Service d'Airbus Helicopters. Notre portefeuille de produits et de services offre la gamme la plus complète de solutions à décoll",
+      "score": 15,
+      "touches": [
+        "partenariat",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 59,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5563746",
+      "intitule": "Consultant / Consultante en organisation et management (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5563746",
+      "entreprise": {
+        "nom": "UPTOO\n        ",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-07-30T00:00:47.140Z",
+      "description": "\n        \n        \nLES MISSIONS :\n        \nEn tant quillustrateur/graphiste freelance, vous jouerez un rôle clé dans le développement de notre identité visuelle et la création de supports de communication adaptés à nos enjeux. Vos missions seront variées et stimulantes :\n\n * Concevoir des illustrations et visuels originaux pour nos supports digitaux (réseaux sociaux, site web, newsletters) et imprimés (brochures, plaquettes).\n * Faire évoluer notre charte graphique et garantir la cohérence de notre identité de marque.\n * Créer des infographies et présentations pour valoriser nos projets immobiliers.\n * Collaborer étroitement avec nos équipes marketing et communication pour répondre à leurs besoins créatifs.\n * Adapter vos créations en fonction des retours et assurer une veille créative pour proposer des tendances innovantes.\n\nCe poste, en 100% télétravail, vous offre une grande flexibilité et la possibilité de travailler sur des projets longs et diversifiés. Vous contribuerez directement à renforcer notre image et à capter lattention de nos clients.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nNous recherchons un(e) illustrateur(trice) / graphiste freelance talentueux(se), doté",
+      "score": 15,
+      "touches": [
+        "formation",
+        "ess",
+        "jeu"
+      ],
+      "alertes": [],
+      "age": 20,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5506161",
+      "intitule": "Business Developer H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5506161",
+      "entreprise": {
+        "nom": "ISIS SANTE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aubagne",
+      "commune": "13005",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-28T08:06:02.000Z",
+      "description": "Vous êtes motivé par la vente, aimez les défis et souhaitez faire partie d'une équipe dynamique, ce poste est fait pour vous !\nVotre mission (si vous l'acceptez )\n-     Vendre par téléphone\n-     Fidéliser les clients avec un suivi précis des appels : prise de rendez-vous\n-     Analyser rapidement le profil client pour un conseil-vente optimal\n-     Qualification de la base clients\n-     Prospecter pour développer des régions\nVotre profil idéal :\n-     Aisance téléphonique naturelle et goût du défi\n-     Motivé(e) par une rémunération variable non plafonnée\n-     Organisé(e), curieux(se) et déterminé(e)\n-     Capacité d'écoute et force de proposition\nCe que nous vous proposons :\n-     Rémunération motivante fixe + commissions + primes\n-     Des challenges commerciaux réguliers\n-     Des outils\n-     Carte repas (Swile) jusqu'à 25€ par jour\n-     Mutuelle individuelle\n-     Horaires fixes en journée du Lundi au vendredi\n-     Repos le week-end\n-     Poste en présentiel à Aubagne\nEnvie de tenter l'aventure avec nous ?\n Postulez dès maintenant et intégrez une équipe où vos talents sont reconnus et appréciés !\nNotre société est engagée dans la promotion de la diversité et de l'inclusio",
+      "score": 14,
+      "touches": [
+        "ess",
+        "business developer"
+      ],
+      "alertes": [],
+      "age": 21,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5500404",
+      "intitule": "Responsable commercial cabinet de recrutement (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5500404",
+      "entreprise": {
+        "nom": "ATH FORMATION",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-28T03:20:36.000Z",
+      "description": "Description du poste :\n\nDescription du poste et Missions\n\n(H/F) Rattaché au Directeur commercial et au Responsable du développement, vous serez chargé de la prospection locale et nationale de nos prestations de services.\n\nPoste évolutif rapidement.\n\nFixe Commissions.\n\nDurée du temps de travail : 35H à 40h/semaine\n\nProfil recherché\nBAC+4/5minimum ou équivalent dans le Travail Temporaire, cabinet de recrutement, centre de formation (formation continue et apprentissage).\n\nConnaissance indispensable du Pack Office Microsoft et des outils numériques.\n\nMUTUELLE\n\nPRIMES DE PERFORMANCES\n\nEVOLUTION POSSIBLE\n\nQui sommes nous ?\n\nApprentissage.com (Paris, Lyon, Marseille, Lille, Toulouse, Nice, Rennes, Toulon)\n\nType d'emploi : Temps plein, CDI\n\nLieu du poste : En présentiel",
+      "score": 14,
+      "touches": [
+        "formation",
+        "prospection"
+      ],
+      "alertes": [],
+      "age": 22,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "6008128",
+      "intitule": "Expert Technique Vérification Paramétrage MISTRAL AG H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6008128",
+      "entreprise": {
+        "nom": "EGIS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-08-15T07:09:38.410Z",
+      "description": "About Us\nEgis est un acteur international majeur de l'\narchitecture\n, du \nconseil\n, de l'\ningénierie de la construction\net des \nservices d'exploitation et de mobilité\n. Nous concevons et exploitons des infrastructures et bâtiments intelligents qui répondent aux défis liés à l'urgence climatique et permettent un aménagement du territoire plus équilibré, durable et résilient.\nNos 22 000 employés opèrent dans plus de 70 pays, mettant à profit leur expertise pour développer et fournir des innovations et des solutions de pointe à nos clients. Par la diversité de nos domaines d'intervention, incluant les \ntransports\n, la \nville\n, l'\nénergie\nbas carbone, l'\neau\net l'\nenvironnement\n, nous sommes un acteur clé de l'organisation collective de la société et du cadre de vie des citoyens dans le monde entier.\nLa Business Line Transports et Territoires fait partie des 3 grandes activités d'Egis avec un chiffre d'affaires supérieur à 600M€ par an. Elle couvre l'ensemble des activités d'ingénierie visant à la fois à promouvoir, concevoir et mettre en oeuvre des solutions de transport multimodal favorisant la mobilité ainsi que l'aménagement et la transformation durable des territoires.\n\nImaginez, ",
+      "score": 14,
+      "touches": [
+        "formation",
+        "ess",
+        "jeu"
+      ],
+      "alertes": [
+        "8 ans d'experience"
+      ],
+      "age": 3,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5921100",
+      "intitule": "Responsable Technique Fonction FGPT Mistral NG H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5921100",
+      "entreprise": {
+        "nom": "EGIS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-08-12T07:11:15.961Z",
+      "description": "About Us\nEgis est un acteur international majeur de l'\narchitecture\n, du \nconseil\n, de l'\ningénierie de la construction\net des \nservices d'exploitation et de mobilité\n. Nous concevons et exploitons des infrastructures et bâtiments intelligents qui répondent aux défis liés à l'urgence climatique et permettent un aménagement du territoire plus équilibré, durable et résilient.\nNos 22 000 employés opèrent dans plus de 70 pays, mettant à profit leur expertise pour développer et fournir des innovations et des solutions de pointe à nos clients. Par la diversité de nos domaines d'intervention, incluant les \ntransports\n, la \nville\n, l'\nénergie\nbas carbone, l'\neau\net l'\nenvironnement\n, nous sommes un acteur clé de l'organisation collective de la société et du cadre de vie des citoyens dans le monde entier.\nLa Business Line Transports et Territoires fait partie des 3 grandes activités d'Egis avec un chiffre d'affaires supérieur à 600M€ par an. Elle couvre l'ensemble des activités d'ingénierie visant à la fois à promouvoir, concevoir et mettre en oeuvre des solutions de transport multimodal favorisant la mobilité ainsi que l'aménagement et la transformation durable des territoires.\n\nImaginez, ",
+      "score": 14,
+      "touches": [
+        "formation",
+        "ess",
+        "jeu"
+      ],
+      "alertes": [
+        "8 ans d'experience"
+      ],
+      "age": 6,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5604420",
+      "intitule": "Inspecteur aéronautique Transport aérien commercial H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5604420",
+      "entreprise": {
+        "nom": "APAVE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "D1406",
+      "romeLibelle": "Directeur / Directrice des ventes",
+      "dateCreation": "2026-07-31T07:10:23.190Z",
+      "description": "Notre société : \nRejoignez-nous !\n\nEt si vous vous engagiez dans un travail porteur de sens, au sein d'une entreprise dotée d'une forte notoriété, et reconnue pour son expertise technique et l'attention portée à ses salarié(e)s.\nEn rejoignant le Groupe Apave, vous agirez au quotidien pour aider nos clients à prévenir et maîtriser leurs risques qu'ils soient humains, techniques, environnementaux ou numériques. \nEn rejoignant Apave, vous contribuez à faire vivre la Raison d'Être du groupe : \"Agir en acteur de confiance, pour un monde plus sûr, durable et porteur de progrès partagé.\" \nMieux encore : au sein d'Apave, vos talents et vos compétences s'expriment dans un collectif fort, où chaque jour est dédié à l'action à travers des missions toujours plus techniques et passionnantes. \nNous vous attendons pour écrire, avec vous, la suite de notre histoire.\nNous vous réservons un accueil de qualité et un parcours évolutif pour qu'ensemble, nous révélions votre potentiel.\n\nRéférence \nOSAC/DOEM-19758 \n\nDate de parution \n20/10/2025 \n\nDescription du poste :\nIntitulé de l'offre externe\nInspecteur aéronautique Transport aérien commercial H/F\nMétier / Spécialité \nInspection et accompagnement tec",
+      "score": 14,
+      "touches": [
+        "formation",
+        "accompagnement",
+        "ess"
+      ],
+      "alertes": [
+        "france entiere"
+      ],
+      "age": 18,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "212JLCN",
+      "intitule": "Manager/Responsable du Développement commercial (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212JLCN",
+      "entreprise": {
+        "nom": "AB SUD FORMATION",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - MARSEILLE",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-11T15:10:44.923Z",
+      "description": "Le Manager/Responsable Développement Commercial est un acteur clé dans la croissance et l'expansion d'une entreprise. Il est en charge de définir, mettre en œuvre et suivre la stratégie commerciale afin de développer le chiffre d'affaires. Son rôle consiste à identifier de nouvelles opportunités, à analyser le marché, et à gérer les relations avec les clients tout en optimisant les ventes. C'est un poste stratégique qui allie leadership, gestion de projet, et vision à long terme.",
+      "score": 13,
+      "touches": [
+        "developpement commercial"
+      ],
+      "alertes": [],
+      "age": 7,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5152645",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5152645",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-20T03:18:59.000Z",
+      "description": "Description du poste :\n\nVous êtes à la recherche d'un job flexible qui vous permette de gagner un complément de salaire ? Rejoignez l'équipe d'enseignants de Voscours et partagez vos connaissances avec nos élèves.***Nous sommes à la recherche de professeurs / formateurs / enseignants de différents domaines : soutien scolaire, musique, sports, langues, technologie.***Acceptez le défi et commencez dès maintenant DÉTAILS DE L'OFFRE\n\n- Horaires de travail flexibles\n\n- Lieu de travail : toute la France / à distance\n\n- Rémunération de 12 à 28€/h***AVANTAGES\n\n- Maîtrisez votre emploi du temps\n\n- Télétravail / à distance / à domicile\n\n- Vous pourrez fixer le prix de vos cours\n\n- Vous ferez partie de la plus grande communauté de professeurs particuliers\n\nDescription du profil :\n\nNous ne demandons pas d'expérience préalable au poste d'enseignant/formateur/formatrice\n\nVous êtes passionné par l'éducation",
+      "score": 13,
+      "touches": [
+        "education",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 30,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4633771",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4633771",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-07T08:01:50.000Z",
+      "description": "Description du poste :\nNous sommes à la recherche d'étudiants ou diplômés avec des connaissances en mathématiques pour donner des cours particuliers pour la rentrée.***Vous aimeriez être la prochaine personne à aider un élève à atteindre ses objectifs ? Acceptez le défi et commencez dès maintenant !\nDe Voscours nous recherchons des professeurs/enseignants/formateurs de mathématiques.***DÉTAILS DE L'OFFRE\n- Horaires de travail flexibles\n- Lieu de travail : toute la France / à distance\n- Rémunération de 12 à 28€/h***AVANTAGES\n- Maîtrisez votre emploi du temps\n- Télétravail / à distance / à domicile\n- Vous pourrez fixer le prix de vos cours\n- Vous ferez partie de la plus grande communauté de professeurs particuliers\nDescription du profil :\nNous ne demandons pas d'expérience préalable au poste d'enseignant/formateur/formatrice\nVous êtes passionné par l'éducation",
+      "score": 13,
+      "touches": [
+        "education",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 42,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "3545186",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3545186",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-06-06T09:56:22.000Z",
+      "description": "Description du poste :\nNous recherchons des étudiants ou des diplômés ayant des connaissances en anglais ou qui sont bilingues pour donner des cours particuliers à Marseille.\nVous aimeriez être la prochaine personne à aider un élève à atteindre ses objectifs? Acceptez le défi et commencez dès maintenant!\nDe Voscours nous recherchons des professeurs/enseignants/formateurs d'anglais.***DÉTAILS DE L'OFFRE\n- Horaires de travail flexibles\n- Lieu de travail : toute la France / à distance\n- Rémunération de 12 à 28€/h***AVANTAGES\n- Maîtrisez votre emploi du temps\n- Télétravail / à distance / à domicile\n- Vous pourrez fixer le prix de vos cours\n- Vous ferez partie de la plus grande communauté de professeurs particuliers\nDescription du profil :\nNous ne demandons pas d'expérience préalable au poste d'enseignant/formateur/formatrice\nVous êtes passionné par l'éducation",
+      "score": 13,
+      "touches": [
+        "education",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 73,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "1380560",
+      "intitule": "Responsable des ventes (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/1380560",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
       "commune": "83137",
       "contrat": "CDI",
       "romeCode": "D1406",
-      "romeLibelle": "Management en force de vente",
-      "dateCreation": "2026-07-29T08:00:00.000Z",
-      "description": "Prospection téléphonique intensive, portefeuille grands comptes, déplacements nationaux ponctuels.",
-      "score": -4,
-      "touches": ["prospection"],
-      "alertes": ["grands comptes", "deplacements nationaux"],
-      "age": 20,
-      "canal": "linkedin+candidature",
-      "conseil": "Grande structure : viser 4 à 5 profils proches des décisions RH pour du réseau, en parallèle de la candidature formelle.",
-      "vueLe": "2026-08-18",
-      "nouvelle": false
+      "romeLibelle": "Directeur / Directrice des ventes",
+      "dateCreation": "2026-04-11T17:33:14.000Z",
+      "description": "Description du poste :\n\nAu sein du centre La Naïade, vous occuperez le poste d'employé de bar.\nVos principales missions consisteront à assurer le service et la gestion du bar.\nVous serez chargé du service au comptoir, des encaissements et de l'approvisionnement du bar. Vous devrez également réceptionner, contrôler et stocker les denrées et boissons en respectant les dates de péremption.\nDe plus, vous participerez aux inventaires de stock.\nVos tâches incluront également l'entretien et l'hygiène des locaux et du matériel. Vous serez responsable de la transmission des caisses journalières et de la comptabilité mensuelle à la trésorière. Par ailleurs, vous participerez à l'organisation des prestations annexes ou de loisirs en collaboration avec le responsable des prestations.\nEnfin, vous assurerez la suppléance du responsable du bar en son absence.\n\nDescription du profil :\n\nVous maîtrisez les règles et procédures liées à la sécurité du travail et à la méthodologie HACCP, garantissant ainsi un environnement sûr et conforme aux normes en vigueur.\nPar ailleurs, la maîtrise des procédures de nettoyage et de désinfection est indispensable pour maintenir des espaces propres et conformes aux ",
+      "score": 12,
+      "touches": [
+        "ess"
+      ],
+      "alertes": [],
+      "age": 129,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4134453",
+      "intitule": "Responsable en organisation (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4134453",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-06-23T09:40:44.000Z",
+      "description": "Description du poste :\n\nVous êtes affecté au sein du Bureau Intranets du CANZ Sud qui vient en appui technique des centres d'appui numérique (CAN) réalisant le soutien de proximité.\nVous réalisez les missions suivantes :\n-Administration et supervision des HYPERV / XCC via l'outil de supervision PISARO des serveurs de proximités de la DANZ SUD (une centaine). Remontée vers les CAN des anomalies matérielles pour anticipation des pannes.\n-Référent upgrade des OS des VM et des déploiement d'agents sur les VM.\n-Référent technique et soutien des techniciens des CAN pour l'administration des serveurs DNS, DHCP ainsi que des serveurs NPS\n\nDescription du profil :\n\nVous avez déjà travaillé au sein d'équipes techniques dans le domaine des systèmes d'information et de communication.\nVous avez de très bonnes connaissances dans l'administration des systèmes vous permettant d'intervenir au profit des CAN.\nVous possédez une expérience réussie dans l'administration des systèmes virtualisés.\nVos compétences dans le domaine des systèmes d'information vous permettent d'appréhender et traiter avec maîtrise les demandes vous parvenant et les incidents complexes.\nVous êtes mobile si des interventions, en",
+      "score": 11,
+      "touches": [
+        "formation"
+      ],
+      "alertes": [],
+      "age": 56,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4134377",
+      "intitule": "Responsable en organisation (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4134377",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-06-23T09:40:32.000Z",
+      "description": "Description du poste :\n\nVous êtes affecté sur le poste de Responsable de projets SIC du Bureau Coupures du CANZ Sud.\nVos missions consistent :\n-A piloter la conduite interne des opérations confiées au centre ;\n-A assurer la gestion des coupures régionales sur le périmètre de la DANZ Sud ;\n-A diagnostiquer et piloter le traitement des incidents complexes et / ou à fort impact en lien avec les CAN concernés et les centres nationaux. Vous en préparez le reporting hebdomadaire via la production d'indicateurs présentés au commandement de la DANZ Sud.\nEn lien avec le chef de centre CANZ, vous êtes en mesure de prendre en compte et traiter des dossiers techniques complexes.\n\nDescription du profil :\n\nVous avez déjà travaillé au sein d'équipes techniques dans le domaine des systèmes d'information et de communication.\nVous avez de l'expérience dans l'encadrement de techniciens et dans la gestion de plans de charge, votre poste pouvant ultérieurement évoluer en chef du bureau Coupures.\nVous êtes très à l'aise dans le domaine de relations humaines et savez fédérer vos interlocuteurs vers les objectifs communs qui vous sont assignés.\nVotre esprit de synthèse vous permet de construire des indica",
+      "score": 11,
+      "touches": [
+        "formation"
+      ],
+      "alertes": [],
+      "age": 56,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5706441",
+      "intitule": "EMPLOYE COMMERCIAL H/F FLEG",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5706441",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Saint-Cyr-sur-Mer",
+      "commune": "83112",
+      "contrat": "CDI",
+      "romeCode": "D1406",
+      "romeLibelle": "Directeur / Directrice des ventes",
+      "dateCreation": "2026-08-05T13:34:44.651Z",
+      "description": "Rejoindre le Groupement Mousquetaires, c'est intégrer un acteur majeur de la grande distribution avec  7 enseignes. C'est aussi évoluer au sein d'un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d'entreprise !Au sein d'un point de vente dynamique et reconnu pour la diversité des produits, la proximité, la qualité de service et de satisfaction que nous nous attachons à apporter à nos clients.\n\nCentré sur des valeurs, que nous nous efforçons chaque jour à proposer le meilleur à nos clients.Ainsi, pour nous accompagner dans notre développement et suivre notre devise « Mieux produire pour mieux manger ; producteur et commerçant »,Nous recrutons : Un Employé Commercial\n\nVos missions : Sous la responsabilité de votre manager, vous participez à la bonne marche des rayons. Vous approvisionnez : vos rayons, en respectant les implantations et la qualité des produits, dans le respect des règles de merchandising, (mise en rayon, Facing, lisibilité de l'information, mise en valeur des produits...). Vous veillez : au rangement des stocks et de la réserve.Vous participez : à la vie du magasin, grâce à un",
+      "score": 11,
+      "touches": [
+        "formation",
+        "jeu"
+      ],
+      "alertes": [],
+      "age": 13,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "4651335",
+      "intitule": "Responsable commercial logistique (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4651335",
+      "entreprise": {
+        "nom": "SCALERS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-07T13:29:10.000Z",
+      "description": "Description du poste :\n\nRattaché(e) au Responsable Bureau d'Études, vous intervenez sur l'ensemble du cycle de réponse aux appels d'offres et de construction des offres commerciales.\n\nÀ ce titre, vous êtes notamment chargé(e) de Analyser les cahiers des charges et les besoins des clients.***Construire les solutions logistiques adaptées aux enjeux opérationnels et économiques.***Réaliser les dimensionnements, chiffrages et études de faisabilité.***Rédiger les mémoires techniques et les propositions commerciales.***Coordonner les différents interlocuteurs internes impliqués dans les projets.***Participer aux soutenances clients et défendre les solutions proposées.***Assurer le suivi des offres jusqu'à leur attribution.***Réaliser une veille concurrentielle et suivre les évolutions du marché.***Contribuer à l'amélioration continue des méthodes de réponse aux appels d'offres.***Participer aux négociations et à la finalisation des contrats.\n\nDescription du profil Formation Bac+3 / Bac+5 en Logistique, Supply Chain ou Gestion de Projet.***Première expérience réussie en environnement logistique, supply chain ou bureau d'études.***Bonne maîtrise des outils bureautiques, notamment Excel et ",
+      "score": 11,
+      "touches": [
+        "formation",
+        "jeu"
+      ],
+      "alertes": [],
+      "age": 42,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "6006313",
+      "intitule": "Ingénieur Expert Combustion Industrielle H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6006313",
+      "entreprise": {
+        "nom": "ORTEC INDUSTRIE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-08-15T04:31:35.736Z",
+      "description": "RESPONSABILITÉS : \n\nRejoignez un acteur industriel innovant et participez à des projets à forte valeur technique ! Vous êtes passionné(e) par les procédés thermiques industriels, la combustion et l'optimisation énergétique ? Vous souhaitez mettre votre expertise au service de projets complexes et innovants dans le domaine des chaudières industrielles et des systèmes de post-combustion ?\nDans le cadre de notre développement, nous recherchons un Ingénieur Expert en Combustion Industrielle H/F pour renforcer nos équipes d'ingénierie.\nVos missions Rattaché au Responsable de Projet, vous intervenez sur l'ensemble du cycle de vie des équipements thermiques industriels :\n - Réaliser les études thermiques et les calculs de dimensionnement de chaudières industrielles et de systèmes de post-combustion.\n - Concevoir et optimiser les chambres de combustion, échangeurs thermiques et équipements associés.\n - Élaborer les bilans thermiques et énergétiques des installations.\n - Sélectionner les équipements techniques : brûleurs, ventilateurs, échangeurs, réfractaires, instrumentation, etc.\n - Rédiger les spécifications techniques destinées aux fournisseurs et aux équipes de réalisation.\n - Partici",
+      "score": 9,
+      "touches": [
+        "ess",
+        "jeu"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 4,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5398993",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5398993",
+      "entreprise": {
+        "nom": "GORON SA",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-07-24T03:20:14.000Z",
+      "description": "Description du poste :\n\nLe groupe Goron, acteur de référence dans la sécurité privée, recherche un(e) chef de service pour piloter des équipes sur la région marseillaise.\n\nMissions principales\n\n- Encadrement opérationnel d'équipes de sécurité humaine et technique\n\n- Mise en œuvre et suivi de la politique HSE sur sites clients (tertiaire, industrie, IGH/ERP Animation de formations internes (sécurité, HSE Participation à la gestion de crise, audits et plans de progrès\n\nConditions CDI, statut cadre\n\n- Poste basé à Marseille, déplacements régionaux possibles\n\n- Rémunération selon expérience\n\nDescription du profil :\n\nProfil recherché Expérience confirmée en management d'équipes dans la sécurité privée\n\n- Maîtrise des référentiels HSE (réglementation, prévention, plans d'action Compétences avérées en animation/formations (habilitation de formateur appréciée Rigueur, sens de l'organisation, exemplarité\n\n- Bonne connaissance du tissu local marseillais appréciée\n\nQuelles Etapes Entretien téléphonique\n* Entretien physique\n* Et si tout se passe bien, signature du contrat dans la foulée !\n\nVous vous reconnaissez, rejoignez l'aventure GORON !",
+      "score": 8,
+      "touches": [
+        "formation"
+      ],
+      "alertes": [],
+      "age": 26,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "7225802",
+      "intitule": "Responsable en organisation (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7225802",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2025-12-30T09:52:36.000Z",
+      "description": "Description du poste :\n\nAu sein du CEPN, vous serez responsable du déploiement et de la mise en œuvre des réseaux opérationnels interalliés. Expert des réseaux opérationnels nationaux et interalliés, vous participerez aux réunions préparatoires et à l'exécution des exercices OTAN pour le CEPN et la Marine, et serez membre permanent des groupes de travaux liés à l'initiative Federated Mission Networking de l'OTAN. A ce titre, vous serez amené à faire de fréquents déplacements à l'étranger.\nVous serez également responsable du laboratoire numérique du combat naval (LNCN). Vous en assurerez la gestion et la co-administration avec DGA Techniques Navales. Vous serez entre autres chargé d'élaborer le calendrier d'utilisation de ses moyens, de suivre l'entretien de ses installations et de conseiller le commandement sur ses évolutions.\nPlus précisément, vous :\n-Conduirez les études d'architecture réseaux des systèmes d'informations de l'OTAN.\n-Assurerez le suivi et la gestion de configuration des systèmes d'information déployés.\n-Rédigerez la documentation technique associée aux environnements dont vous aurez la charge.\n\nDescription du profil :\n\nVous êtes diplômé de niveau 1 (Ingénieur, Mas",
+      "score": 5,
+      "touches": [
+        "formation",
+        "ess"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 231,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "7226371",
+      "intitule": "Assistant / Assistante de communication (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7226371",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "E1103",
+      "romeLibelle": "Chargé / Chargée des relations publiques",
+      "dateCreation": "2025-12-30T09:54:39.000Z",
+      "description": "Description du poste :\n\nParticiper à l'élaboration et à la réalisation des actions de communication.\nAppliquer les directives de communication.\nParticiper à l'organisation et à la réalisation d'événements.\nContribuer à la conception des supports et produits de communication.\nParticiper à la communication interne et externe via les réseaux sociaux\nParticiper au fonctionnement d'un bureau communication\nAider à organiser des actions de communications.\nEntretenir des relations avec les médias, préparer leur accueil lors des visites.\nRéalisation de reportages écris, photos, vidéos.\nAider à une veille médiatique et au suivi des retombées médiatiques après un événement.\n\nDescription du profil :\n\nUne expérience en communication dans le domaine de la santé et de l'hôpital est préférable.",
+      "score": 5,
+      "touches": [],
+      "alertes": [],
+      "age": 231,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "2407667",
+      "intitule": "Chargé d'agencement (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2407667",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-05-07T16:25:37.000Z",
+      "description": "Description du poste :\nSBC Interim recrute pour l'un de ses clients Chargé d'Affaires spécialisé en Menuiserie Bois et Agencement pour piloter nos projets en neuf et en rénovation (logements, tertiaire, commerces, ERP).Vos missions principales :-Analyse des dossiers techniques (CCTP, plans architecte, détails d'exécution)-Étude technique et chiffrage précis des projets-Élaboration des devis et réponses aux appels d'offres-Conception et optimisation technique des ouvrages-Lancement en fabrication et coordination avec l'atelier-Sélection et gestion des fournisseurs-Commande des matériaux (bois massif, stratifié, mélaminé, placage, quincaillerie, etc.)-Planification et organisation des équipes de pose-Gestion complète des chantiers en neuf et rénovation-Suivi budgétaire et contrôle des marges-Animation des réunions de chantier-Interface avec architectes, MOE, clients et bureaux de contrôle-Contrôle qualité des ouvrages en fabrication et en pose-Suivi des levées de réserves et gestion du SAV-Respect des normes en vigueur et des règles de sécuritéNous proposons :-CDI-Rémunération attractive selon expérience-Véhicule de fonction-Téléphone et ordinateur-Projets variés et techniques-Entrep",
+      "score": 5,
+      "touches": [],
+      "alertes": [],
+      "age": 103,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
+    },
+    {
+      "id": "5858950",
+      "intitule": "Responsable national des ventes Équipements Industriels (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5858950",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "D1406",
+      "romeLibelle": "Directeur / Directrice des ventes",
+      "dateCreation": "2026-08-09T03:20:17.000Z",
+      "description": "Description du poste :\n\nEn postulant à cette offre, vous aurez l'opportunité de rejoindre un acteur de premier plan spécialisé dans la conception et la distribution d'équipements de protection individuelle (EPI) , reconnu pour la haute technicité de ses produits et son expertise sectorielle.\n\n\nIls sont à la recherche d'un(e) Responsable Grands Comptes Soudure - National H/F pour piloter la croissance de leur gamme de solutions de soudage de pointe à l'échelle nationale.\n\n\nL'objectif sera de structurer le réseau de distribution spécialisé, d'animer la force de vente interne et de maximiser la prescription sur le terrain.\n\nVos missions si vous les acceptez Identifier, prospecter et développer les distributeurs spécialisés en soudage sur l'ensemble du territoire français pour assurer une couverture nationale optimale du marché.***Construire, entretenir un portefeuille de distributeurs stratégiques et élaborer des plans d'action commerciaux adaptés à chaque compte.***Négocier les conditions commerciales et assurer le suivi rigoureux des accords conclus.***Réaliser des tournées terrain en binôme avec les équipes commerciales pour identifier les opportunités de développement de l'offre d",
+      "score": 2,
+      "touches": [
+        "ess",
+        "terrain"
+      ],
+      "alertes": [
+        "grands comptes",
+        "5 ans d'experience"
+      ],
+      "age": 10,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": true
     }
   ]
 }
