@@ -17,6 +17,7 @@ const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 async function jeton() {
   const id = process.env.FT_CLIENT_ID?.trim();
   const secret = process.env.FT_CLIENT_SECRET?.trim();
+  console.log(`id: ${id?.length} car., début "${id?.slice(0, 16)}" · secret: ${secret?.length} car.`);
 
   const corps = new URLSearchParams({
     grant_type: "client_credentials",
