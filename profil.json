@@ -1,78 +1,93 @@
 {
-  "_lisez_moi": "Le seul fichier à retoucher régulièrement. Les poids sont additifs, les négatifs se soustraient. Un mot-clé peut être une expression : la recherche se fait sur l'intitulé + la description, sans accents ni casse.",
+  "_lisez_moi": "Deux axes : le métier (rôle) et la mission (cause). Une offre qui ne marque que sur un seul axe est écartée. Mots-clés sans accents : le moteur les retire avant de comparer.",
 
   "recherche": {
     "typeContrat": "CDI",
-    "codesROME": ["M1707", "E1103", "K2111", "M1402", "D1406"],
+    "codesROME": ["M1707", "E1103", "K1802", "K2111", "M1402"],
     "communes": [
       { "code": "83137", "nom": "Toulon", "distance": 25 },
       { "code": "13055", "nom": "Marseille", "distance": 25 },
       { "code": "13001", "nom": "Aix-en-Provence", "distance": 20 }
-    ],
-    "motsClesLibres": ["partenariats", "développement territorial", "chargé de mission"]
+    ]
   },
 
-"veto": [
-    "cuisine", "cuisinier", "boulanger", "patissier", "boucher",
+  "veto": [
+    "cuisine", "cuisinier", "boulanger", "patissier", "boucher", "serveur",
     "coiffure", "esthetique", "mecanique", "maconnerie", "electricien",
-    "plombier", "chauffeur", "cariste", "agent d'entretien", "securite",
-    "aide-soignant", "infirmier", "auxiliaire de vie",
-    "commercial", "commerciale", "vendeur", "vendeuse", "televente",
-    "teleconseiller", "attache commercial", "technico-commercial",
-    "conseiller de vente", "agent immobilier", "courtier"
+    "plombier", "chauffeur", "cariste", "magasinier", "agent d'entretien",
+    "aide-soignant", "infirmier", "auxiliaire de vie", "agent de securite",
+    "vendeur", "vendeuse", "televente", "teleconseiller", "telepros",
+    "technico-commercial", "attache commercial", "conseiller de vente",
+    "agent immobilier", "courtier", "assurance", "mutuelle"
   ],
-  
-  "positifs": {
-    "partenariat": 6,
-    "partenariats": 6,
-    "animation de reseau": 5,
-    "developpement de reseau": 5,
-    "edtech": 6,
-    "education": 4,
-    "pedagogie": 4,
-    "pedagogique": 4,
-    "formation": 3,
-    "insertion": 4,
-    "accompagnement": 3,
-    "association": 3,
-    "economie sociale": 5,
-    "ess": 4,
-    "jeu": 3,
-    "gaming": 5,
-    "jeu video": 5,
-    "entrepreneuriat": 5,
-    "incubateur": 5,
-    "startup": 3,
-    "business developer": 5,
-    "developpement commercial": 4,
-    "chargé de mission": 4,
-    "prospection": 3,
-    "relation client": 2,
-    "terrain": 2
+
+  "roles": {
+    "charge de mission": 10,
+    "chargee de mission": 10,
+    "charge de projet": 8,
+    "chef de projet": 7,
+    "charge de partenariats": 10,
+    "responsable partenariats": 10,
+    "charge de developpement": 8,
+    "business developer": 8,
+    "responsable de developpement": 7,
+    "charge de programme": 8,
+    "coordinateur": 6,
+    "coordinatrice": 6,
+    "animateur de reseau": 7,
+    "responsable de secteur": 5
+  },
+
+  "missions": {
+    "pedagogi": 8,
+    "education": 8,
+    "apprentissage": 5,
+    "formation": 4,
+    "scolaire": 6,
+    "edtech": 9,
+    "insertion": 8,
+    "social": 5,
+    "societal": 8,
+    "economie sociale": 9,
+    "ess": 8,
+    "solidaire": 7,
+    "association": 5,
+    "environnement": 7,
+    "transition ecologique": 8,
+    "developpement durable": 7,
+    "rse": 6,
+    "entrepreneuriat": 9,
+    "incubateur": 9,
+    "accompagnement de porteurs": 9,
+    "mentorat": 9,
+    "mentoring": 9,
+    "tutorat": 7,
+    "jeunesse": 7,
+    "territoire": 5,
+    "innovation": 4
   },
 
   "negatifs": {
-    "grands comptes": -6,
-    "10 ans d'experience": -10,
-    "8 ans d'experience": -8,
-    "5 ans d'experience": -3,
+    "10 ans d'experience": -12,
+    "8 ans d'experience": -10,
+    "portefeuille clients": -6,
+    "objectifs de vente": -8,
+    "chiffre d'affaires individuel": -8,
+    "cold calling": -6,
+    "porte a porte": -8,
+    "commission uniquement": -10,
+    "variable non plafonne": -5,
     "deplacements nationaux": -5,
     "france entiere": -4,
-    "cold calling": -3,
-    "telemarketing": -6,
-    "porte a porte": -6,
-    "commission uniquement": -8,
-    "vrp": -6,
-    "anglais courant exige": -3,
-    "bac +5": -2
+    "vrp": -8
   },
 
   "bonus": {
     "offreDeMoinsDe7Jours": 4,
     "communePrioritaire": 3,
-    "romeCible": 5,
     "entrepriseDeMoinsDe250": 2
   },
 
-  "seuilAlerte": 14
+  "penaliteMissionAbsente": -20,
+  "seuilAlerte": 25
 }
