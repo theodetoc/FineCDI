@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-08-19T08:01:33.765Z",
+  "misAJour": "2026-08-19T08:18:02.480Z",
   "total": 14,
   "offres": [
     {
@@ -17,7 +17,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": "1 PLACE JULES GUESDE · 13002 Marseille · Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ"
       },
       "exigences": [],
       "lieu": "13 - MARSEILLE",
@@ -66,7 +66,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5496380"
       },
       "exigences": [
         "30 ans d'expérience demandés"
@@ -110,7 +110,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5184468"
       },
       "exigences": [],
       "lieu": "13 - Aix-en-Provence",
@@ -151,7 +151,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6633667"
       },
       "exigences": [],
       "lieu": "13 - Marseille 7e Arrondissement",
@@ -192,7 +192,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5637260"
       },
       "exigences": [],
       "lieu": "83 - Toulon",
@@ -230,7 +230,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5637265"
       },
       "exigences": [],
       "lieu": "13 - Marseille 7e Arrondissement",
@@ -271,7 +271,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/4711299"
       },
       "exigences": [],
       "lieu": "83 - Toulon",
@@ -311,7 +311,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5521813"
       },
       "exigences": [],
       "lieu": "13 - Ciotat",
@@ -353,7 +353,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5439413"
       },
       "exigences": [],
       "lieu": "13 - Marseille 7e Arrondissement",
@@ -393,7 +393,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5506161"
       },
       "exigences": [],
       "lieu": "13 - Aubagne",
@@ -411,7 +411,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 21,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -432,7 +432,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5676477"
       },
       "exigences": [],
       "lieu": "13 - Aix-en-Provence",
@@ -469,7 +469,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5501121"
       },
       "exigences": [
         "Bac+5 exigé"
@@ -511,7 +511,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/211NXXK"
       },
       "exigences": [],
       "lieu": "13 - Aix-en-Provence",
@@ -550,7 +550,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": null
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/4634345"
       },
       "exigences": [],
       "lieu": "13 - Marseille 8e Arrondissement",
@@ -567,7 +567,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 42,
+      "age": 43,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
