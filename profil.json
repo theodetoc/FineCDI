@@ -12,6 +12,16 @@
     "motsClesLibres": ["partenariats", "développement territorial", "chargé de mission"]
   },
 
+"veto": [
+    "cuisine", "cuisinier", "boulanger", "patissier", "boucher",
+    "coiffure", "esthetique", "mecanique", "maconnerie", "electricien",
+    "plombier", "chauffeur", "cariste", "agent d'entretien", "securite",
+    "aide-soignant", "infirmier", "auxiliaire de vie",
+    "commercial", "commerciale", "vendeur", "vendeuse", "televente",
+    "teleconseiller", "attache commercial", "technico-commercial",
+    "conseiller de vente", "agent immobilier", "courtier"
+  ],
+  
   "positifs": {
     "partenariat": 6,
     "partenariats": 6,
