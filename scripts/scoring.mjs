@@ -10,16 +10,9 @@ export function normaliser(texte) {
     .replace(/\s+/g, " ");
 }
 
-function compter(haystack, aiguille) {
+function contient(texte, aiguille) {
   const a = normaliser(aiguille);
-  if (!a) return 0;
-  let n = 0;
-  let i = haystack.indexOf(a);
-  while (i !== -1) {
-    n++;
-    i = haystack.indexOf(a, i + a.length);
-  }
-  return n;
+  return a ? texte.includes(a) : false;
 }
 
 function joursDepuis(dateISO) {
@@ -29,47 +22,48 @@ function joursDepuis(dateISO) {
   return Math.floor((Date.now() - d.getTime()) / 86400000);
 }
 
-/**
- * @returns {{score:number, touches:string[], alertes:string[], age:number}}
- */
+const POIDS_INTITULE = 3; // le titre dit le métier, la description dit l'ambiance
+
 export function scorer(offre, profil) {
-  const texte = normaliser(
-    [offre.intitule, offre.description, offre.appellationlibelle].join(" ")
-  );
+  const titre = normaliser(offre.intitule);
+  const corps = normaliser([offre.description, offre.appellationlibelle].join(" "));
+  const age = joursDepuis(offre.dateCreation);
+
+  // Veto : un métier qui n'est pas le vôtre ne se rattrape pas au score.
+  for (const mot of profil.veto || []) {
+    if (contient(titre, mot)) {
+      return { score: -999, touches: [], alertes: [`métier écarté : ${mot}`], age };
+    }
+  }
 
   let score = 0;
   const touches = [];
   const alertes = [];
 
   for (const [mot, poids] of Object.entries(profil.positifs || {})) {
-    // Une expression ne compte qu'une fois, même répétée : on score le signal,
-    // pas le bavardage de l'annonce.
-    if (compter(texte, mot) > 0) {
+    if (contient(titre, mot)) {
+      score += poids * POIDS_INTITULE;
+      touches.push(`${mot} (titre)`);
+    } else if (contient(corps, mot)) {
       score += poids;
       touches.push(mot);
     }
   }
 
   for (const [mot, poids] of Object.entries(profil.negatifs || {})) {
-    if (compter(texte, mot) > 0) {
+    if (contient(titre, mot) || contient(corps, mot)) {
       score += poids;
       alertes.push(mot);
     }
   }
 
   const bonus = profil.bonus || {};
-  const age = joursDepuis(offre.dateCreation);
-
   if (age <= 7) score += bonus.offreDeMoinsDe7Jours || 0;
 
   const codesCommunes = (profil.recherche?.communes || []).map((c) => c.code);
-  if (codesCommunes.includes(offre.lieuTravail?.commune)) {
-    score += bonus.communePrioritaire || 0;
-  }
+  if (codesCommunes.includes(offre.lieuTravail?.commune)) score += bonus.communePrioritaire || 0;
 
-  if ((profil.recherche?.codesROME || []).includes(offre.romeCode)) {
-    score += bonus.romeCible || 0;
-  }
+  if ((profil.recherche?.codesROME || []).includes(offre.romeCode)) score += bonus.romeCible || 0;
 
   const tranche = offre.entreprise?.trancheEffectif || "";
   if (/^(0|1|2|3|4|5)\b/.test(tranche) || /moins de 250/i.test(tranche)) {
