@@ -16,11 +16,14 @@ const SCOPE = "api_offresdemploiv2 o2dsoffre";
 const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function jeton() {
+  const id = process.env.FT_CLIENT_ID?.trim();
+  const secret = process.env.FT_CLIENT_SECRET?.trim();
+
   const corps = new URLSearchParams({
     grant_type: "client_credentials",
-    client_id: process.env.FT_CLIENT_ID,
-    client_secret: process.env.FT_CLIENT_SECRET,
-    scope: SCOPE,
+    client_id: id,
+    client_secret: secret,
+    scope: `application_${id} api_offresdemploiv2 o2dsoffre`,
   });
 
   const r = await fetch(TOKEN_URL, {
@@ -30,7 +33,8 @@ async function jeton() {
   });
 
   if (!r.ok) {
-    throw new Error(`Jeton refusé (${r.status}). Vérifier les secrets et la souscription à l'API Offres d'emploi.`);
+    const detail = await r.text();
+    throw new Error(`Jeton refusé (${r.status}) : ${detail}`);};
   }
   return (await r.json()).access_token;
 }
