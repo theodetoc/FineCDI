@@ -96,6 +96,7 @@ async function main() {
     const { score, touches, alertes, age } = scorer(o, profil);
     const strat = strategie(o);
     const ancienne = dejaVues.get(o.id);
+    if (score <= -900) continue;
 
     offres.push({
       id: o.id,
