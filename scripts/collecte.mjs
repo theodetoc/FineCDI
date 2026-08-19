@@ -11,7 +11,6 @@ import { scorer, strategie } from "./scoring.mjs";
 const TOKEN_URL =
   "https://entreprise.francetravail.fr/connexion/oauth2/access_token?realm=%2Fpartenaire";
 const API = "https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search";
-const SCOPE = "api_offresdemploiv2 o2dsoffre";
 
 const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -34,8 +33,9 @@ async function jeton() {
 
   if (!r.ok) {
     const detail = await r.text();
-    throw new Error(`Jeton refusé (${r.status}) : ${detail}`);};
+    throw new Error(`Jeton refusé (${r.status}) : ${detail}`);
   }
+
   return (await r.json()).access_token;
 }
 
