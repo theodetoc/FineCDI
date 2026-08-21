@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-08-19T08:18:02.480Z",
+  "misAJour": "2026-08-21T06:50:54.153Z",
   "total": 14,
   "offres": [
     {
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 75,
+      "age": 77,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -89,7 +89,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 22,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -130,7 +130,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 29,
+      "age": 31,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -171,16 +171,16 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 245,
+      "age": 247,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
       "nouvelle": false
     },
     {
-      "id": "5637260",
+      "id": "6122446",
       "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5637260",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6122446",
       "entreprise": {
         "nom": "SCALERS",
         "url": null,
@@ -192,7 +192,7 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5637260"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6122446"
       },
       "exigences": [],
       "lieu": "83 - Toulon",
@@ -200,61 +200,20 @@
       "contrat": "CDI",
       "romeCode": "M1707",
       "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-08-01T03:24:07.000Z",
+      "dateCreation": "2026-08-20T03:29:49.566Z",
       "description": "Description du poste :\n\nDéveloppement commercial***Prospecter activement les établissements CHR de votre secteur***Réaliser une prospection téléphonique et terrain régulière***Organiser et conduire des rendez-vous commerciaux***Développer et fidéliser un portefeuille de clients professionnels***Identifier rapidement les opportunités commerciales\n\nVente & Négociation***Comprendre les enjeux et besoins des exploitants***Présenter les solutions de manière claire et impactante***Construire des propositions adaptées***Négocier les conditions commerciales***Assurer le closing des contrats\n\nSuivi & Pilotage***Assurer le suivi du démarrage des nouveaux clients***Alimenter le CRM et assurer un reporting régulier***Suivre vos indicateurs de performance***Être force de proposition sur les actions commerciales à mener\n\nDescription du profil Expérience réussie en développement commercial B2B terrain***Véritable tempérament de chasseur***À l'aise avec la prospection intensive et la conquête de nouveaux clients***Capacité à gérer un cycle de vente complet en autonomie***Excellent relationnel et forte énergie commerciale***Goût prononcé pour le terrain et les environnements entrepreneuriaux***Capa",
-      "score": 50,
+      "score": 54,
       "touches": [
         "business developer (titre)",
         "ess (titre)",
         "environnement"
       ],
       "alertes": [],
-      "age": 18,
+      "age": 1,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
-    },
-    {
-      "id": "5637265",
-      "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5637265",
-      "entreprise": {
-        "nom": "SCALERS",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5637265"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 7e Arrondissement",
-      "commune": "13207",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-08-01T03:24:07.000Z",
-      "description": "Description du poste :\n\nRattaché(e) à léquipe commerciale, vous êtes au cur de la stratégie de croissance et intervenez directement sur le développement du chiffre daffaires.\n\nVotre mission principale : identifier, prospecter et convertir de nouveaux clients en leur proposant des solutions de communication à forte valeur ajoutée (articles sponsorisés, webTV, sponsoring TV Identifier de nouveaux prospects via une veille active du marché***Collecter les informations clés et initier les premiers contacts (prospection téléphonique)***Développer et gérer un portefeuille clients***Suivre et mettre à jour le CRM***Lancer et piloter des campagnes de relance (emailing, multicanal)***Contribuer activement à la croissance du chiffre daffaires\n\nDescription du profil Formation commerciale (école de commerce, IUT, BTS, Licence ou équivalent)***Première expérience en prospection commerciale (stage ou alternance inclus)***Goût prononcé pour la vente et la performance***Excellentes compétences en communication orale et écrite***Esprit déquipe, ambition et résilience\n\nPourquoi les rejoindre Formation complète dès larrivée (produits, marché, techniques de vente)***Accompagnement managérial structuré ",
-      "score": 45,
-      "touches": [
-        "business developer (titre)",
-        "formation",
-        "ess (titre)",
-        "environnement"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 18,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
+      "vueLe": "2026-08-21",
+      "nouvelle": true
     },
     {
       "id": "4711299",
@@ -290,7 +249,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 41,
+      "age": 43,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -332,11 +291,52 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
       "nouvelle": false
+    },
+    {
+      "id": "6141569",
+      "intitule": "Coordinateur Projets Installations Générales (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6141569",
+      "entreprise": {
+        "nom": "ALPHA",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6141569"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-08-20T11:22:12.761Z",
+      "description": "Convaincu qu'un autre modèle de production est possible, Alpha (ex Alpha Maintenance) oeuvre pour un avenir décarboné, sécurisé et respectueux, porteur d'opportunités pour les générations futures.\nDepuis près de 40 ans, nous prenons soin des installations industrielles essentielles à la Société en offrant à nos clients, acteurs majeurs des secteurs Energie, Santé, Chimie et Agroalimentaire, une expertise globale et innovante tout au long du cycle de vie de leurs sites.\n\nIngénierie de maintenance, d'inspection, contrôles non destructifs, ingénierie d'exploitation : nos solutions s'articulent pour répondre à tous les défis du monde de l'industrie.\n\nFiers des racines familiales de notre groupe Ponticelli Frères, nous cultivons un esprit convivial où l'humain est au cœur de notre projet. Inclusion, sécurité des personnes, développement des talents et cohésion sont les piliers qui nous permettent de réussir ensemble.\n\nLe poste : \n\nDans le cadre de notre développement, nous recherchons un superviseur installations générales (IG) H/F, rattaché à notre centre SUD.\n\nPoste et missions :\nDétaché au sein des services arrêt ou maintenance de nos clients, d'importants sites industriels, vous aur",
+      "score": 42,
+      "touches": [
+        "coordinateur (titre)",
+        "pedagogi",
+        "formation",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-21",
+      "nouvelle": true
     },
     {
       "id": "5439413",
@@ -372,7 +372,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -411,7 +411,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 22,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -448,7 +448,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -490,7 +490,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 22,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -529,7 +529,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -567,7 +567,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 43,
+      "age": 44,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
