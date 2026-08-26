@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-08-24T07:01:35.502Z",
+  "misAJour": "2026-08-26T06:52:34.451Z",
   "total": 15,
   "offres": [
     {
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 80,
+      "age": 82,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -89,7 +89,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 27,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -130,7 +130,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 34,
+      "age": 36,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -171,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 250,
+      "age": 252,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -213,11 +213,11 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "6122446",
@@ -251,7 +251,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-21",
@@ -293,11 +293,11 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "4711299",
@@ -333,7 +333,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 46,
+      "age": 48,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -375,7 +375,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -416,11 +416,49 @@
         "ess"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-21",
       "nouvelle": false
+    },
+    {
+      "id": "212XJLJ",
+      "intitule": "Business manager Aix en Provence (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
+      "entreprise": {
+        "nom": "HOPPUNT",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "HOPPUNT - Mme Vanessa De Oliveira",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
+        "telephone": null,
+        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ"
+      },
+      "exigences": [],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-25T16:47:28.207Z",
+      "description": "L'agence d'Aix-en-Provence compte actuellement environ 15 ETP et dispose déjà de plusieurs référencements auprès de grands comptes, offrant un potentiel de développement commercial important. \nUn business manager est déjà présent sur place. L'enjeu actuel n'est donc pas uniquement de générer de nouvelles opportunités : l'agence doit surtout améliorer sa capacité à transformer les opportunités existantes en démarrages effectifs. \nL'ambition est forte : passer rapidement de 15 à environ 30 ETP. Mon client recherche donc un Business Manager expérimenté, immédiatement opérationnel, capable de prendre une véritable position de lead commercial sur l'agence.\n- Exploiter et développer les référencements grands comptes déjà obtenus par mon client\n- Identifier les interlocuteurs clés au sein des comptes et développer une relation de proximité avec les décideurs. \n- Détecter, qualifier et prioriser les besoins en prestations IT. \n- Être particulièrement performant sur la transformation commerciale et le closing : transformer les besoins, rendez-vous et référencements en missions concrètes. \n- Développer le chiffre d'affaires et la marge de l'agence. \n- Accélérer le nombre de démarrages de con",
+      "score": 35,
+      "touches": [
+        "business developer",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-26",
+      "nouvelle": true
     },
     {
       "id": "5506161",
@@ -455,7 +493,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -492,49 +530,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 22,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
-    },
-    {
-      "id": "5501121",
-      "intitule": "Chargé de développement commercial (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5501121",
-      "entreprise": {
-        "nom": "TEMP-HORAIRE INTERIM (THI) PAYS D'AIX",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5501121"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Marseille 7e Arrondissement",
-      "commune": "13207",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-07-28T03:20:38.000Z",
-      "description": "Description du poste :\n\nVotre agence THI  recherche un(e) Chargé(e) de Développement Commercial (H/F) afin de renforcer son équipe.\n\nCe poste se situe à Marseille. \n\nLes horaires de travail pour cette mission sont en journée , du lundi au vendredi.\n\nDirectement rattaché au Responsable Commercial, vous assurerez les missions suivantes Prospecter de nouveaux clients par téléphone, e-mail, réseaux professionnels et sur le terrain,\n* Développer et fidéliser un portefeuille clients en proposant des solutions adaptées à leurs besoins,\n* Élaborer les offres commerciales, assurer les négociations et conclure les ventes,\n* Réaliser une veille concurrentielle afin d'identifier de nouvelles opportunités de développement,\n* Assurer le suivi des clients, mettre à jour les outils de reporting et participer à l'atteinte des objectifs commerciaux.\n\nDescription du profil :\n\nPour mener à bien cette mission, nous recherchons un profil ayant les connaissances et compétences suivantes Vous justifiez d'une première expérience réussie dans le développement commercial, la prospection ou la vente BtoB, idéalement en Interim,\n* Vous possédez d'excellentes qualités relationnelles, un réel sens de la négociat",
-      "score": 32,
-      "touches": [
-        "charge de developpement (titre)",
-        "ess",
-        "rse"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 27,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -573,7 +569,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 31,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -611,7 +607,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 47,
+      "age": 49,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
