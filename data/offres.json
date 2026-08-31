@@ -1,55 +1,47 @@
 {
-  "misAJour": "2026-08-28T18:19:10.367Z",
-  "total": 15,
+  "misAJour": "2026-08-31T12:59:48.501Z",
+  "total": 11,
   "offres": [
     {
-      "id": "209GTKZ",
-      "intitule": "Directeur de Mission périscolaire (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
+      "id": "6425671",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6425671",
       "entreprise": {
-        "nom": "LEO LAGRANGE ANIMATION",
+        "nom": "ELOCE",
         "url": null,
         "trancheEffectif": null,
         "siret": null
       },
       "contact": {
-        "nom": "Agence France Travail MARSEILLE PORTE D'AIX",
+        "nom": null,
         "courriel": null,
         "telephone": null,
-        "coordonnees": "1 PLACE JULES GUESDE · 13002 Marseille · Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ"
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6425671"
       },
       "exigences": [],
-      "lieu": "13 - MARSEILLE",
-      "commune": "13201",
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
       "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-06-04T14:47:56.499Z",
-      "description": "Léo Lagrange Animation est une association d'éducation populaire reconnue d'utilité publique. Elle accompagne les collectivités locales dans la réalisation de leurs politiques éducatives, de la petite enfance aux séniors, en s'appuyant sur un réseau national de compétences. \nDans ce cadre, la Ville de Marseille a confié à Léo Lagrange Animation la gestion d'une partie de son service périscolaire, dans le cadre d'un marché public pluriannuel. \nCe dispositif mobilise environ 450 salariés (animateurs, directeurs d'accueil, coordinateurs) répartis sur de nombreuses écoles, principalement en zones d'éducation prioritaire. \nDans un contexte de continuité de service, de consolidation du pilotage opérationnel et de préparation du renouvellement du marché, Léo Lagrange Animation recrute un Directeur de mission périscolaire .\nSous l'autorité de la direction de Léo Lagrange Animation, vous assurez le pilotage de la mission périscolaire marseillaise -450 salariés en moyenne pour un budget d'environ 9 M€, répartis sur 12 lots couvrant près de 165 écoles et plusieurs milliers d'enfants accueillis. \nAppuyé.e par une direction adjointe et une équipe de  coordinateurs, avec l'appui des services sup",
-      "score": 94,
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-30T03:19:25.967Z",
+      "description": "Description du poste :\n\nNotre bureau dans le 8ème arrondissement de Marseille se développe et nous recherchons un(e) Commercial(e) BtoB Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning. En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission & Placement pour s",
+      "score": 67,
       "touches": [
-        "coordinateur",
+        "business developer (titre)",
         "pedagogi",
-        "education",
         "formation",
-        "scolaire (titre)",
-        "social",
-        "economie sociale",
-        "ess",
-        "solidaire",
-        "association",
-        "environnement",
+        "ess (titre)",
         "rse",
-        "territoire",
-        "innovation"
+        "territoire"
       ],
       "alertes": [],
-      "age": 85,
+      "age": 1,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
+      "vueLe": "2026-08-31",
+      "nouvelle": true
     },
     {
       "id": "5496380",
@@ -89,7 +81,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 31,
+      "age": 34,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -130,48 +122,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 38,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
-    },
-    {
-      "id": "6633667",
-      "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6633667",
-      "entreprise": {
-        "nom": "ELOCE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6633667"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 7e Arrondissement",
-      "commune": "13207",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2025-12-16T09:58:47.000Z",
-      "description": "Description du poste :\n\nNotre bureau dans le 8ème arrondissement de Marseille se développe et nous recherchons un(e) Commercial(e) BtoB Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning. En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission & Placement pour s",
-      "score": 63,
-      "touches": [
-        "business developer (titre)",
-        "pedagogi",
-        "formation",
-        "ess (titre)",
-        "rse",
-        "territoire"
-      ],
-      "alertes": [],
-      "age": 255,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -213,11 +164,11 @@
         "association"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "212SXTN",
@@ -246,7 +197,7 @@
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-08-21T11:26:45.241Z",
       "description": "Entreprise spécialisée depuis 25 ans dans l'importation et la distribution de produits de la mer. Distribution auprès des GMS, RHD et dans les réseaux spécialisés en France et en Europe. \nDans un contexte de forte croissance, nous ouvrons un nouveau poste, basé à Marseille, avec des déplacements fréquents en France.\n\nMISSIONS\n\n1. Prospection commerciale / Développement des affaires (60%)\n\nDans le respect de la politique commerciale du service, vous prospectez et développez un nouveau portefeuille de clients sur de nouveaux marchés. Vous êtes assisté d'un ADV pour l'administration des dossiers de vente.\n- Construire un plan de prospection avec un suivi hebdomadaire de nouveaux prospects : appels, emails, visites terrain. Déplacement à prévoir dans toute la France (Exceptionnellement en Europe)\n- Identifier, cibler et qualifier de nouveaux prospects : grossistes, distributeurs, réseaux spécialisés, rétails.\n- Développer le marché asiatique / japonais. Travailler étroitement avec l'équipe achat afin d'identifier et sélectionner une gamme de produits à fort potentiel pour ce nouveau marché.\n- Mener l'ensemble du cycle de vente de ses nouveaux clients : prise de contact, analyse des bes",
-      "score": 58,
+      "score": 54,
       "touches": [
         "business developer (titre)",
         "formation",
@@ -255,7 +206,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 7,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -288,7 +239,7 @@
       "romeLibelle": "Responsable en organisation en entreprise",
       "dateCreation": "2026-08-22T04:31:33.840Z",
       "description": "RESPONSABILITÉS : \n\nParticipez à la transformation industrielle au service de l'économie circulaire Dans le cadre de notre développement, nous recherchons un Chef de Projet Travaux Neufs H/F pour piloter des projets d'investissement stratégiques sur nos installations de traitement et de valorisation des déchets.\nVous souhaitez mettre votre expertise au service de projets industriels à fort enjeu environnemental ? Rejoignez nos équipes et contribuez à la conception, à la modernisation et à l'amélioration continue d'installations essentielles à la préservation des ressources et au développement de l'économie circulaire.\nVotre mission Rattaché au Directeur de Projet Travaux, vous prenez en charge la gestion complète de projets de travaux neufs, depuis l'identification du besoin jusqu'à la réception des ouvrages et la mise en service des équipements.\nVéritable chef d'orchestre, vous assurez la coordination de l'ensemble des acteurs du projet afin de garantir la sécurité, la qualité des réalisations, le respect des délais et la maîtrise des budgets. Vos missions ?\n -  Identifier et analyser les besoins techniques avec les équipes d'exploitation, de maintenance, de production et les dire",
-      "score": 51,
+      "score": 47,
       "touches": [
         "chef de projet (titre)",
         "formation",
@@ -297,7 +248,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 6,
+      "age": 9,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -337,7 +288,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 50,
+      "age": 53,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -378,7 +329,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-21",
@@ -416,49 +367,10 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-26",
-      "nouvelle": false
-    },
-    {
-      "id": "5506161",
-      "intitule": "Business Developer H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5506161",
-      "entreprise": {
-        "nom": "ISIS SANTE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5506161"
-      },
-      "exigences": [],
-      "lieu": "13 - Aubagne",
-      "commune": "13005",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-07-28T08:06:02.000Z",
-      "description": "Vous êtes motivé par la vente, aimez les défis et souhaitez faire partie d'une équipe dynamique, ce poste est fait pour vous !\nVotre mission (si vous l'acceptez )\n-     Vendre par téléphone\n-     Fidéliser les clients avec un suivi précis des appels : prise de rendez-vous\n-     Analyser rapidement le profil client pour un conseil-vente optimal\n-     Qualification de la base clients\n-     Prospecter pour développer des régions\nVotre profil idéal :\n-     Aisance téléphonique naturelle et goût du défi\n-     Motivé(e) par une rémunération variable non plafonnée\n-     Organisé(e), curieux(se) et déterminé(e)\n-     Capacité d'écoute et force de proposition\nCe que nous vous proposons :\n-     Rémunération motivante fixe + commissions + primes\n-     Des challenges commerciaux réguliers\n-     Des outils\n-     Carte repas (Swile) jusqu'à 25€ par jour\n-     Mutuelle individuelle\n-     Horaires fixes en journée du Lundi au vendredi\n-     Repos le week-end\n-     Poste en présentiel à Aubagne\nEnvie de tenter l'aventure avec nous ?\n Postulez dès maintenant et intégrez une équipe où vos talents sont reconnus et appréciés !\nNotre société est engagée dans la promotion de la diversité et de l'inclusio",
-      "score": 35,
-      "touches": [
-        "business developer (titre)",
-        "ess (titre)"
-      ],
-      "alertes": [
-        "variable non plafonne"
-      ],
-      "age": 31,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
       "nouvelle": false
     },
     {
@@ -492,7 +404,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -531,87 +443,10 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
-      "nouvelle": true
-    },
-    {
-      "id": "211NXXK",
-      "intitule": "Chef(fe) de projet CitésLab (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211NXXK",
-      "entreprise": {
-        "nom": "INITIATIVE PAYS D'AIX",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/211NXXK"
-      },
-      "exigences": [],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "K1802",
-      "romeLibelle": "Chargé / Chargée de développement économique et local",
-      "dateCreation": "2026-07-23T09:47:02.415Z",
-      "description": "MISSIONS CONFIÉES \nSous la direction de son responsable hiérarchique et en concertation étroite avec les partenaires du dispositif le/la chef(fe) de projet CitésLab représente le premier maillon de détection et d'orientation des porteurs de projet, créateurs et entrepreneurs de son territoire de référence.\nLes objectifs explicites du poste : \n - Détecter les talents des territoires (porteurs de projets, créateurs, entrepreneurs des QPV) \n - Favoriser la concrétisation de plus de projet en les orientant vers les solutions adaptées \n - Optimiser le nombre d'entrées en parcours de création/reprise d'entreprises \n - Améliorer la visibilité de l'offre de l'ensemble des réseaux d'accompagnement \n - Contribuer aux actions de reporting, de mesure d'impact et d'amélioration de la performance du dispositif\nSa mission s'articule autour de cinq domaines formant le socle du métier : \n 1. La prospection : le sourcing de terrain hors-les-murs et dans le cadre de permanence. \n 2. La préparation : d'une part la qualification du profil, du projet et des besoins de l'accompagné, et d'autre part, l'aide à la formalisation de son projet afin d'assurer une orientation qualifiée. \n 3. L'orientation : la ",
-      "score": 32,
-      "touches": [
-        "chef de projet",
-        "ess",
-        "entrepreneuriat",
-        "territoire"
-      ],
-      "alertes": [],
-      "age": 36,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
-    },
-    {
-      "id": "4634345",
-      "intitule": "Responsable Développement commercial (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4634345",
-      "entreprise": {
-        "nom": "Media-Start",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/4634345"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-07-07T08:05:53.000Z",
-      "description": "Vos missions :\n \nEn tant que Sales Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et les techniques c",
-      "score": 20,
-      "touches": [
-        "business developer",
-        "formation",
-        "ess"
-      ],
-      "alertes": [],
-      "age": 52,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
       "nouvelle": false
     }
   ]
