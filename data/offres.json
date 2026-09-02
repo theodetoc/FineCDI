@@ -1,7 +1,56 @@
 {
-  "misAJour": "2026-08-31T12:59:48.501Z",
+  "misAJour": "2026-09-02T10:51:11.493Z",
   "total": 11,
   "offres": [
+    {
+      "id": "209GTKZ",
+      "intitule": "Directeur de Mission périscolaire (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
+      "entreprise": {
+        "nom": "LEO LAGRANGE ANIMATION",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "Agence France Travail MARSEILLE PORTE D'AIX",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "1 PLACE JULES GUESDE · 13002 Marseille · Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ"
+      },
+      "exigences": [],
+      "lieu": "13 - MARSEILLE",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-06-04T14:47:56.499Z",
+      "description": "Léo Lagrange Animation est une association d'éducation populaire reconnue d'utilité publique. Elle accompagne les collectivités locales dans la réalisation de leurs politiques éducatives, de la petite enfance aux séniors, en s'appuyant sur un réseau national de compétences. \nDans ce cadre, la Ville de Marseille a confié à Léo Lagrange Animation la gestion d'une partie de son service périscolaire, dans le cadre d'un marché public pluriannuel. \nCe dispositif mobilise environ 450 salariés (animateurs, directeurs d'accueil, coordinateurs) répartis sur de nombreuses écoles, principalement en zones d'éducation prioritaire. \nDans un contexte de continuité de service, de consolidation du pilotage opérationnel et de préparation du renouvellement du marché, Léo Lagrange Animation recrute un Directeur de mission périscolaire .\nSous l'autorité de la direction de Léo Lagrange Animation, vous assurez le pilotage de la mission périscolaire marseillaise -450 salariés en moyenne pour un budget d'environ 9 M€, répartis sur 12 lots couvrant près de 165 écoles et plusieurs milliers d'enfants accueillis. \nAppuyé.e par une direction adjointe et une équipe de  coordinateurs, avec l'appui des services sup",
+      "score": 94,
+      "touches": [
+        "coordinateur",
+        "pedagogi",
+        "education",
+        "formation",
+        "scolaire (titre)",
+        "social",
+        "economie sociale",
+        "ess",
+        "solidaire",
+        "association",
+        "environnement",
+        "rse",
+        "territoire",
+        "innovation"
+      ],
+      "alertes": [],
+      "age": 89,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-02",
+      "nouvelle": true
+    },
     {
       "id": "6425671",
       "intitule": "Responsable développement / Business Developer (H/F)",
@@ -37,11 +86,11 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 1,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "5496380",
@@ -81,7 +130,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 34,
+      "age": 36,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -122,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 41,
+      "age": 43,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -164,7 +213,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
@@ -206,7 +255,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 10,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -248,7 +297,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -288,7 +337,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 53,
+      "age": 55,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -329,7 +378,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-21",
@@ -341,7 +390,7 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
       "entreprise": {
         "nom": "HOPPUNT",
-        "url": null,
+        "url": "http://www.hoppunt.com",
         "trancheEffectif": null,
         "siret": null
       },
@@ -367,47 +416,10 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-26",
-      "nouvelle": false
-    },
-    {
-      "id": "5676477",
-      "intitule": "Chargé de développement commercial (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5676477",
-      "entreprise": {
-        "nom": "NEW NET 3D",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5676477"
-      },
-      "exigences": [],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-08-02T03:23:40.000Z",
-      "description": "Description du poste :\n\nEn tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Capgemini recherche actuellement des profils :\n\nRattaché(e) à notre site de Aix en Provence, en tant que Sales Developer, vous aurez en charge : la prospection, le développement et le suivi de comptes clients.\n\nA ce titre, vous Prospectez et développez les contacts au sein des sociétés ciblées et aussi en charge de gérer et remonter le forecast / les prévisions (donner une vision prévisionnelle des ventes par offre Détectez les besoins et répondez aux différents appels d'offre en vous interfaçant avec l'ensemble des parties prenantes internes (métier, projet.) et clients Mettez en place la stratégie de développement commercial sur votre périmètre sous forme de plan de compte Pilotez et faites respecter les processus de vente tout en vous assurant de la mobilisation des équipes d'avant-vente et de production en relation avec ses clients. ",
-      "score": 35,
-      "touches": [
-        "charge de developpement (titre)",
-        "ess"
-      ],
-      "alertes": [],
-      "age": 29,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
       "nouvelle": false
     },
     {
@@ -443,7 +455,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
