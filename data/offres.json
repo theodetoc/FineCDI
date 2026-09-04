@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-09-02T10:51:11.493Z",
+  "misAJour": "2026-09-04T10:50:20.636Z",
   "total": 11,
   "offres": [
     {
@@ -45,11 +45,11 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 89,
+      "age": 91,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-02",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "6425671",
@@ -86,7 +86,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -130,7 +130,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 36,
+      "age": 38,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -171,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 43,
+      "age": 45,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -204,7 +204,7 @@
       "romeLibelle": "Chargé / Chargée de développement économique et local",
       "dateCreation": "2026-08-26T16:09:34.612Z",
       "description": "Transitions Pro PACA (ex Fongecif PACA) est une association Loi 1901 qui bénéficie d'un agrément du Ministère du Travail notamment pour gérer avec performance le dispositif « Projet de Transition Professionnelle (PTP) », issu de la loi du 5 Septembre 2018 pour la liberté de choisir son avenir professionnel.\nSous certaines conditions, les salariés bénéficient d'un droit à congé pour changer de métier, et peuvent obtenir la prise en charge par Transitions Pro du coût de leur formation et du maintien de leur rémunération.\n\nMobilisée pour accompagner les salariés dans la réussite de leur projet de reconversion, Transitions Pro PACA recherche un/une chargé(e) de missions partenariats.\n\nPrincipales missions :\n- Prospecter, échanger et aller à la rencontre notamment de nouveaux partenaires pour concourir à développer la demande (PTP, PUR, etc.) en lien avec nos priorités, et contribuer à faire rayonner la structure ;\n- Négocier la mise en place de conventions, notamment financières, et assurer leur opérationnalisation, pilotage et suivi ;\n- Maîtriser l'animation de réunions, d'ateliers, de webinaires, la prise de parole en public, mais aussi l'animation d'un réseau de partenaires, et la c",
-      "score": 61,
+      "score": 57,
       "touches": [
         "charge de mission (titre)",
         "chargee de mission",
@@ -213,7 +213,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 6,
+      "age": 8,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
@@ -255,7 +255,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -297,7 +297,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -337,7 +337,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 55,
+      "age": 57,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -378,48 +378,10 @@
         "ess"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-21",
-      "nouvelle": false
-    },
-    {
-      "id": "212XJLJ",
-      "intitule": "Business manager (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
-      "entreprise": {
-        "nom": "HOPPUNT",
-        "url": "http://www.hoppunt.com",
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "HOPPUNT - Mme Vanessa De Oliveira",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
-        "telephone": null,
-        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ"
-      },
-      "exigences": [],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-08-25T16:47:28.207Z",
-      "description": "L'agence d'Aix-en-Provence compte actuellement environ 15 ETP et dispose déjà de plusieurs référencements auprès de grands comptes, offrant un potentiel de développement commercial important. \nUn business manager est déjà présent sur place. L'enjeu actuel n'est donc pas uniquement de générer de nouvelles opportunités : l'agence doit surtout améliorer sa capacité à transformer les opportunités existantes en démarrages effectifs. \nL'ambition est forte : passer rapidement de 15 à environ 30 ETP. Mon client recherche donc un Business Manager expérimenté, immédiatement opérationnel, capable de prendre une véritable position de lead commercial sur l'agence.\n- Exploiter et développer les référencements grands comptes déjà obtenus par mon client\n- Identifier les interlocuteurs clés au sein des comptes et développer une relation de proximité avec les décideurs. \n- Détecter, qualifier et prioriser les besoins en prestations IT. \n- Être particulièrement performant sur la transformation commerciale et le closing : transformer les besoins, rendez-vous et référencements en missions concrètes. \n- Développer le chiffre d'affaires et la marge de l'agence. \n- Accélérer le nombre de démarrages de con",
-      "score": 35,
-      "touches": [
-        "business developer",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [],
-      "age": 7,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-26",
       "nouvelle": false
     },
     {
@@ -455,10 +417,48 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
+      "nouvelle": false
+    },
+    {
+      "id": "212XJLJ",
+      "intitule": "Business manager (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
+      "entreprise": {
+        "nom": "HOPPUNT",
+        "url": "http://www.hoppunt.com",
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "HOPPUNT - Mme Vanessa De Oliveira",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
+        "telephone": null,
+        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/212XJLJ"
+      },
+      "exigences": [],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-25T16:47:28.207Z",
+      "description": "L'agence d'Aix-en-Provence compte actuellement environ 15 ETP et dispose déjà de plusieurs référencements auprès de grands comptes, offrant un potentiel de développement commercial important. \nUn business manager est déjà présent sur place. L'enjeu actuel n'est donc pas uniquement de générer de nouvelles opportunités : l'agence doit surtout améliorer sa capacité à transformer les opportunités existantes en démarrages effectifs. \nL'ambition est forte : passer rapidement de 15 à environ 30 ETP. Mon client recherche donc un Business Manager expérimenté, immédiatement opérationnel, capable de prendre une véritable position de lead commercial sur l'agence.\n- Exploiter et développer les référencements grands comptes déjà obtenus par mon client\n- Identifier les interlocuteurs clés au sein des comptes et développer une relation de proximité avec les décideurs. \n- Détecter, qualifier et prioriser les besoins en prestations IT. \n- Être particulièrement performant sur la transformation commerciale et le closing : transformer les besoins, rendez-vous et référencements en missions concrètes. \n- Développer le chiffre d'affaires et la marge de l'agence. \n- Accélérer le nombre de démarrages de con",
+      "score": 31,
+      "touches": [
+        "business developer",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [],
+      "age": 9,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-26",
       "nouvelle": false
     }
   ]
