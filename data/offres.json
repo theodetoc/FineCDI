@@ -1,97 +1,7 @@
 {
-  "misAJour": "2026-09-04T10:50:20.636Z",
-  "total": 11,
+  "misAJour": "2026-09-07T11:52:02.346Z",
+  "total": 12,
   "offres": [
-    {
-      "id": "209GTKZ",
-      "intitule": "Directeur de Mission périscolaire (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
-      "entreprise": {
-        "nom": "LEO LAGRANGE ANIMATION",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "Agence France Travail MARSEILLE PORTE D'AIX",
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": "1 PLACE JULES GUESDE · 13002 Marseille · Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ"
-      },
-      "exigences": [],
-      "lieu": "13 - MARSEILLE",
-      "commune": "13201",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-06-04T14:47:56.499Z",
-      "description": "Léo Lagrange Animation est une association d'éducation populaire reconnue d'utilité publique. Elle accompagne les collectivités locales dans la réalisation de leurs politiques éducatives, de la petite enfance aux séniors, en s'appuyant sur un réseau national de compétences. \nDans ce cadre, la Ville de Marseille a confié à Léo Lagrange Animation la gestion d'une partie de son service périscolaire, dans le cadre d'un marché public pluriannuel. \nCe dispositif mobilise environ 450 salariés (animateurs, directeurs d'accueil, coordinateurs) répartis sur de nombreuses écoles, principalement en zones d'éducation prioritaire. \nDans un contexte de continuité de service, de consolidation du pilotage opérationnel et de préparation du renouvellement du marché, Léo Lagrange Animation recrute un Directeur de mission périscolaire .\nSous l'autorité de la direction de Léo Lagrange Animation, vous assurez le pilotage de la mission périscolaire marseillaise -450 salariés en moyenne pour un budget d'environ 9 M€, répartis sur 12 lots couvrant près de 165 écoles et plusieurs milliers d'enfants accueillis. \nAppuyé.e par une direction adjointe et une équipe de  coordinateurs, avec l'appui des services sup",
-      "score": 94,
-      "touches": [
-        "coordinateur",
-        "pedagogi",
-        "education",
-        "formation",
-        "scolaire (titre)",
-        "social",
-        "economie sociale",
-        "ess",
-        "solidaire",
-        "association",
-        "environnement",
-        "rse",
-        "territoire",
-        "innovation"
-      ],
-      "alertes": [],
-      "age": 91,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-02",
-      "nouvelle": false
-    },
-    {
-      "id": "6425671",
-      "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6425671",
-      "entreprise": {
-        "nom": "ELOCE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6425671"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 7e Arrondissement",
-      "commune": "13207",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-08-30T03:19:25.967Z",
-      "description": "Description du poste :\n\nNotre bureau dans le 8ème arrondissement de Marseille se développe et nous recherchons un(e) Commercial(e) BtoB Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning. En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission & Placement pour s",
-      "score": 67,
-      "touches": [
-        "business developer (titre)",
-        "pedagogi",
-        "formation",
-        "ess (titre)",
-        "rse",
-        "territoire"
-      ],
-      "alertes": [],
-      "age": 5,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-31",
-      "nouvelle": false
-    },
     {
       "id": "5496380",
       "intitule": "Responsable développement / Business Developer (H/F)",
@@ -130,7 +40,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 38,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -171,10 +81,51 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 45,
+      "age": 48,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
+      "nouvelle": false
+    },
+    {
+      "id": "6425671",
+      "intitule": "Responsable développement / Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6425671",
+      "entreprise": {
+        "nom": "ELOCE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6425671"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 7e Arrondissement",
+      "commune": "13207",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-08-30T03:19:25.967Z",
+      "description": "Description du poste :\n\nNotre bureau dans le 8ème arrondissement de Marseille se développe et nous recherchons un(e) Commercial(e) BtoB Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning. En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission & Placement pour s",
+      "score": 63,
+      "touches": [
+        "business developer (titre)",
+        "pedagogi",
+        "formation",
+        "ess (titre)",
+        "rse",
+        "territoire"
+      ],
+      "alertes": [],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-31",
       "nouvelle": false
     },
     {
@@ -213,7 +164,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
@@ -255,7 +206,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -297,7 +248,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -337,11 +288,91 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 57,
+      "age": 60,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
       "nouvelle": false
+    },
+    {
+      "id": "213LPFX",
+      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
+      "entreprise": {
+        "nom": "CIMEM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "CIMEM - M. PIERRE BOUCHER",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
+        "telephone": null,
+        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - MARSEILLE 08",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-05T22:32:47.660Z",
+      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
+      "score": 39,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-07",
+      "nouvelle": true
+    },
+    {
+      "id": "213LPFH",
+      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
+      "entreprise": {
+        "nom": "CIMEM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "CIMEM - M. PIERRE BOUCHER",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
+        "telephone": null,
+        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - MARSEILLE 08",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-05T21:59:27.982Z",
+      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
+      "score": 39,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-07",
+      "nouvelle": true
     },
     {
       "id": "6141569",
@@ -378,49 +409,10 @@
         "ess"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-21",
-      "nouvelle": false
-    },
-    {
-      "id": "6359097",
-      "intitule": "Chef de projet technique/SPM (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6359097",
-      "entreprise": {
-        "nom": "Signe+",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6359097"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-08-28T04:31:39.069Z",
-      "description": "RESPONSABILITÉS : \n\nDans le cadre du développement des activités, nous recherchons un Chef de projet Technique/SPM (H/F) pour accompagner le pilotage de projets techniques à forte valeur ajoutée dans le secteur de l'aéronautique et de la défense.\nVéritable interface entre les équipes techniques et les différentes parties prenantes du projet, vous assurez le suivi technique des développements et veillez au respect des exigences en matière de qualité, de coûts et de délais. Vous intervenez notamment sur des problématiques liées aux analyses vibratoires et au suivi technique des équipements.\nÀ ce titre, vos principales missions sont les suivantes :\n - Assurer le pilotage et le suivi technique des projets.\n - Coordonner les différents acteurs impliqués (équipes d'ingénierie, clients, fournisseurs et partenaires).\n - Suivre l'avancement des activités techniques et garantir le respect des jalons du projet.\n - Participer aux analyses techniques, notamment sur les problématiques liées aux vibrations et aux performances des systèmes.\n - Identifier les risques techniques et proposer les actions correctives adaptées.\n - Contribuer aux revues de projet et assurer un reporting régulier auprès d",
-      "score": 35,
-      "touches": [
-        "chef de projet (titre)",
-        "environnement"
-      ],
-      "alertes": [],
-      "age": 7,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-28",
       "nouvelle": false
     },
     {
@@ -455,10 +447,49 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-26",
+      "nouvelle": false
+    },
+    {
+      "id": "6359097",
+      "intitule": "Chef de projet technique/SPM (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6359097",
+      "entreprise": {
+        "nom": "Signe+",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6359097"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-08-28T04:31:39.069Z",
+      "description": "RESPONSABILITÉS : \n\nDans le cadre du développement des activités, nous recherchons un Chef de projet Technique/SPM (H/F) pour accompagner le pilotage de projets techniques à forte valeur ajoutée dans le secteur de l'aéronautique et de la défense.\nVéritable interface entre les équipes techniques et les différentes parties prenantes du projet, vous assurez le suivi technique des développements et veillez au respect des exigences en matière de qualité, de coûts et de délais. Vous intervenez notamment sur des problématiques liées aux analyses vibratoires et au suivi technique des équipements.\nÀ ce titre, vos principales missions sont les suivantes :\n - Assurer le pilotage et le suivi technique des projets.\n - Coordonner les différents acteurs impliqués (équipes d'ingénierie, clients, fournisseurs et partenaires).\n - Suivre l'avancement des activités techniques et garantir le respect des jalons du projet.\n - Participer aux analyses techniques, notamment sur les problématiques liées aux vibrations et aux performances des systèmes.\n - Identifier les risques techniques et proposer les actions correctives adaptées.\n - Contribuer aux revues de projet et assurer un reporting régulier auprès d",
+      "score": 31,
+      "touches": [
+        "chef de projet (titre)",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 10,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-28",
       "nouvelle": false
     }
   ]
