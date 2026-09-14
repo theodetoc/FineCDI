@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-09-11T10:48:09.654Z",
+  "misAJour": "2026-09-14T12:06:45.933Z",
   "total": 18,
   "offres": [
     {
@@ -40,7 +40,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 45,
+      "age": 48,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -81,7 +81,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 52,
+      "age": 55,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -122,7 +122,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -165,7 +165,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 3,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -207,7 +207,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 15,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
@@ -249,7 +249,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 20,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -287,11 +287,11 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "213NWDJ",
@@ -325,7 +325,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -367,7 +367,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 20,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -407,7 +407,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 64,
+      "age": 67,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -446,90 +446,10 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 0,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
-      "nouvelle": true
-    },
-    {
-      "id": "213LPFX",
-      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
-      "entreprise": {
-        "nom": "CIMEM",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "CIMEM - M. PIERRE BOUCHER",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
-        "telephone": null,
-        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - MARSEILLE 08",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-05T22:32:47.660Z",
-      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
-      "score": 39,
-      "touches": [
-        "chef de projet (titre)",
-        "ess",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 5,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-07",
-      "nouvelle": false
-    },
-    {
-      "id": "213LPFH",
-      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
-      "entreprise": {
-        "nom": "CIMEM",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "CIMEM - M. PIERRE BOUCHER",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
-        "telephone": null,
-        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - MARSEILLE 08",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-05T21:59:27.982Z",
-      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
-      "score": 39,
-      "touches": [
-        "chef de projet (titre)",
-        "ess",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 5,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-07",
       "nouvelle": false
     },
     {
@@ -567,10 +487,90 @@
         "ess"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-21",
+      "nouvelle": false
+    },
+    {
+      "id": "213LPFX",
+      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
+      "entreprise": {
+        "nom": "CIMEM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "CIMEM - M. PIERRE BOUCHER",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
+        "telephone": null,
+        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - MARSEILLE 08",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-05T22:32:47.660Z",
+      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
+      "score": 35,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-07",
+      "nouvelle": false
+    },
+    {
+      "id": "213LPFH",
+      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
+      "entreprise": {
+        "nom": "CIMEM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "CIMEM - M. PIERRE BOUCHER",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
+        "telephone": null,
+        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - MARSEILLE 08",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-05T21:59:27.982Z",
+      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
+      "score": 35,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-07",
       "nouvelle": false
     },
     {
@@ -606,11 +606,11 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 1,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "6722690",
@@ -644,7 +644,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -682,7 +682,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 16,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-26",
@@ -721,7 +721,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
