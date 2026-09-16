@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-09-14T12:06:45.933Z",
-  "total": 18,
+  "misAJour": "2026-09-16T11:01:39.968Z",
+  "total": 17,
   "offres": [
     {
       "id": "5496380",
@@ -40,7 +40,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 48,
+      "age": 50,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -81,7 +81,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 55,
+      "age": 57,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -122,53 +122,10 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 15,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
-      "nouvelle": false
-    },
-    {
-      "id": "6698394",
-      "intitule": "Business Developer - Solution SaaS Transport - Marseille/Full Remote - H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6698394",
-      "entreprise": {
-        "nom": "skaelia",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6698394"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Marseille 1er Arrondissement",
-      "commune": "13201",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-07T23:01:18.770Z",
-      "description": "DESCRIPTION\nNotre client, un éditeur de logiciel SaaS spécialisée dans le secteur du transport, recrute un(e) Business Developer pour renforcer sa couverture commerciale sur la France.\nActeur reconnu de la télématique embarquée, cette structure indépendante, en forte croissance (+20 %/an), développe et commercialise une solution logicielle et matérielle innovante, aujourd'hui déployée dans plus de 15 000 véhicules professionnels. L'entreprise conçoit ses propres boîtiers connectés et fournit une plateforme SaaS à destination des transporteurs, industriels, logisticiens et acteurs du BTP.\nVous intégrerez une équipe de 20 personnes à taille humaine, collaborative et agile, avec une forte autonomie sur votre zone géographique. Le poste est proposé en full remote avec déplacements réguliers sur le terrain.\nVos principales missions :\n- Piloter le cycle de vente complet : prospection, prise de contact, qualification, démonstrations, élaboration de propositions, négociation et signature.\n- Assurer le suivi et le développement de votre portefeuille clients (TPE/PME du transport) : renouvellements, ventes additionnelles (upsell / cross-sell), fidélisation.\n- Comprendre les enjeux opérationn",
-      "score": 57,
-      "touches": [
-        "business developer (titre)",
-        "ess (titre)",
-        "environnement",
-        "rse (titre)"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-09",
       "nouvelle": false
     },
     {
@@ -207,7 +164,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
@@ -249,10 +206,53 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 24,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
+      "nouvelle": false
+    },
+    {
+      "id": "6698394",
+      "intitule": "Business Developer - Solution SaaS Transport - Marseille/Full Remote - H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6698394",
+      "entreprise": {
+        "nom": "skaelia",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6698394"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-07T23:01:18.770Z",
+      "description": "DESCRIPTION\nNotre client, un éditeur de logiciel SaaS spécialisée dans le secteur du transport, recrute un(e) Business Developer pour renforcer sa couverture commerciale sur la France.\nActeur reconnu de la télématique embarquée, cette structure indépendante, en forte croissance (+20 %/an), développe et commercialise une solution logicielle et matérielle innovante, aujourd'hui déployée dans plus de 15 000 véhicules professionnels. L'entreprise conçoit ses propres boîtiers connectés et fournit une plateforme SaaS à destination des transporteurs, industriels, logisticiens et acteurs du BTP.\nVous intégrerez une équipe de 20 personnes à taille humaine, collaborative et agile, avec une forte autonomie sur votre zone géographique. Le poste est proposé en full remote avec déplacements réguliers sur le terrain.\nVos principales missions :\n- Piloter le cycle de vente complet : prospection, prise de contact, qualification, démonstrations, élaboration de propositions, négociation et signature.\n- Assurer le suivi et le développement de votre portefeuille clients (TPE/PME du transport) : renouvellements, ventes additionnelles (upsell / cross-sell), fidélisation.\n- Comprendre les enjeux opérationn",
+      "score": 53,
+      "touches": [
+        "business developer (titre)",
+        "ess (titre)",
+        "environnement",
+        "rse (titre)"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-09",
       "nouvelle": false
     },
     {
@@ -287,7 +287,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -325,7 +325,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -367,7 +367,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 23,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -407,7 +407,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 67,
+      "age": 69,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -446,51 +446,10 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
-      "nouvelle": false
-    },
-    {
-      "id": "6141569",
-      "intitule": "Coordinateur Projets Installations Générales (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6141569",
-      "entreprise": {
-        "nom": "ALPHA",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6141569"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Marseille 1er Arrondissement",
-      "commune": "13201",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-08-20T11:22:12.761Z",
-      "description": "Convaincu qu'un autre modèle de production est possible, Alpha (ex Alpha Maintenance) oeuvre pour un avenir décarboné, sécurisé et respectueux, porteur d'opportunités pour les générations futures.\nDepuis près de 40 ans, nous prenons soin des installations industrielles essentielles à la Société en offrant à nos clients, acteurs majeurs des secteurs Energie, Santé, Chimie et Agroalimentaire, une expertise globale et innovante tout au long du cycle de vie de leurs sites.\n\nIngénierie de maintenance, d'inspection, contrôles non destructifs, ingénierie d'exploitation : nos solutions s'articulent pour répondre à tous les défis du monde de l'industrie.\n\nFiers des racines familiales de notre groupe Ponticelli Frères, nous cultivons un esprit convivial où l'humain est au cœur de notre projet. Inclusion, sécurité des personnes, développement des talents et cohésion sont les piliers qui nous permettent de réussir ensemble.\n\nLe poste : \n\nDans le cadre de notre développement, nous recherchons un superviseur installations générales (IG) H/F, rattaché à notre centre SUD.\n\nPoste et missions :\nDétaché au sein des services arrêt ou maintenance de nos clients, d'importants sites industriels, vous aur",
-      "score": 38,
-      "touches": [
-        "coordinateur (titre)",
-        "pedagogi",
-        "formation",
-        "ess"
-      ],
-      "alertes": [],
-      "age": 25,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-21",
       "nouvelle": false
     },
     {
@@ -527,7 +486,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-07",
@@ -567,7 +526,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-07",
@@ -606,48 +565,10 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 4,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-11",
-      "nouvelle": false
-    },
-    {
-      "id": "6722690",
-      "intitule": "Business Development Manager (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6722690",
-      "entreprise": {
-        "nom": "Media-Start",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6722690"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-08T08:06:31.630Z",
-      "description": "Vos missions :\n \nEn tant que Business Development Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et l",
-      "score": 32,
-      "touches": [
-        "business developer",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [],
       "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-09",
+      "vueLe": "2026-09-11",
       "nouvelle": false
     },
     {
@@ -682,7 +603,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-26",
@@ -721,10 +642,48 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
+      "nouvelle": false
+    },
+    {
+      "id": "6722690",
+      "intitule": "Business Development Manager (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6722690",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6722690"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-08T08:06:31.630Z",
+      "description": "Vos missions :\n \nEn tant que Business Development Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et l",
+      "score": 28,
+      "touches": [
+        "business developer",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-09",
       "nouvelle": false
     }
   ]
