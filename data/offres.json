@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-09-16T11:01:39.968Z",
+  "misAJour": "2026-09-18T10:45:13.275Z",
   "total": 17,
   "offres": [
     {
@@ -40,7 +40,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 50,
+      "age": 52,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -81,7 +81,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 57,
+      "age": 59,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -122,7 +122,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -164,7 +164,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
@@ -206,7 +206,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -249,7 +249,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 8,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -287,48 +287,10 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 5,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-11",
-      "nouvelle": false
-    },
-    {
-      "id": "213NWDJ",
-      "intitule": "Business developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213NWDJ",
-      "entreprise": {
-        "nom": "NOVA ENERGIE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213NWDJ"
-      },
-      "exigences": [],
-      "lieu": "13 - Venelles",
-      "commune": "13113",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-08T12:55:04.552Z",
-      "description": "Suite à un accroissement d'activité, nous recherchons un business developer (H/F)\n\nVOS MISSIONS:\nVotre rôle sera de développer le portefeuille client de l'entreprise par une prospection active.\n\nVous serez en charge de :\n-Identifier et prospecter des prospects et clients (BtoB) via téléphone, terrain et digital  \n-Présenter nos offres et convaincre les prospects de rejoindre notre solution énergétique\n - Suivre et relancer les prospects pour conclure les ventes\n - Fidéliser la clientèle et assurer un suivi de qualité.\n-  Travailler en synergie avec l'équipe commerciale et le service client pour garantir la satisfaction client\n\nVOTRE PROFIL :\nNous recherchons avant tout une personnalité dynamique et motivée, prête à relever des défis\nDoté(e) d'un excellent relationnel et d'un bon sens commercial\nEnthousiaste, à l'aise dans l'échange et persévérant(e).\nCapable de travailler de façon autonome tout en aimant le travail en équipe Curieux(se) et désireux(se) d'apprendre et d'évoluer dans le secteur de l'énergie\n\nVotre plus ?\nUne première expérience en vente ou en prospection serait un atout Vous avez une bonne élocution et une forte capacité de persuasion\nLa pratique d'EXCEL est bienvenu",
-      "score": 50,
-      "touches": [
-        "business developer (titre)",
-        "ess (titre)",
-        "rse"
-      ],
-      "alertes": [],
       "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-09",
+      "vueLe": "2026-09-11",
       "nouvelle": false
     },
     {
@@ -367,10 +329,48 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
+      "nouvelle": false
+    },
+    {
+      "id": "213NWDJ",
+      "intitule": "Business developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213NWDJ",
+      "entreprise": {
+        "nom": "NOVA ENERGIE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213NWDJ"
+      },
+      "exigences": [],
+      "lieu": "13 - Venelles",
+      "commune": "13113",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-08T12:55:04.552Z",
+      "description": "Suite à un accroissement d'activité, nous recherchons un business developer (H/F)\n\nVOS MISSIONS:\nVotre rôle sera de développer le portefeuille client de l'entreprise par une prospection active.\n\nVous serez en charge de :\n-Identifier et prospecter des prospects et clients (BtoB) via téléphone, terrain et digital  \n-Présenter nos offres et convaincre les prospects de rejoindre notre solution énergétique\n - Suivre et relancer les prospects pour conclure les ventes\n - Fidéliser la clientèle et assurer un suivi de qualité.\n-  Travailler en synergie avec l'équipe commerciale et le service client pour garantir la satisfaction client\n\nVOTRE PROFIL :\nNous recherchons avant tout une personnalité dynamique et motivée, prête à relever des défis\nDoté(e) d'un excellent relationnel et d'un bon sens commercial\nEnthousiaste, à l'aise dans l'échange et persévérant(e).\nCapable de travailler de façon autonome tout en aimant le travail en équipe Curieux(se) et désireux(se) d'apprendre et d'évoluer dans le secteur de l'énergie\n\nVotre plus ?\nUne première expérience en vente ou en prospection serait un atout Vous avez une bonne élocution et une forte capacité de persuasion\nLa pratique d'EXCEL est bienvenu",
+      "score": 46,
+      "touches": [
+        "business developer (titre)",
+        "ess (titre)",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 9,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-09",
       "nouvelle": false
     },
     {
@@ -407,7 +407,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 69,
+      "age": 71,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -446,7 +446,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -486,7 +486,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 10,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-07",
@@ -526,49 +526,10 @@
         "rse"
       ],
       "alertes": [],
-      "age": 10,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-07",
-      "nouvelle": false
-    },
-    {
-      "id": "6779060",
-      "intitule": "Chargé de Développement Commercial BTP (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6779060",
-      "entreprise": {
-        "nom": "CULTURE INTERIM",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6779060"
-      },
-      "exigences": [],
-      "lieu": "83 - Toulon",
-      "commune": "83137",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-10T03:31:22.565Z",
-      "description": "Description du poste :\n\nDescription\n\nDans le cadre du développement de notre agence de Toulon, nous recherchons un(e) Technico-commercial(e).\nSi tu es motivé(e), dynamique, que tu possèdes un excellent sens du relationnel, une bonne connaissance du secteur du BTP et que tu as une première expérience dans le commerce ou l'intérim, ton profil nous intéresse !\nTes missions seront Développer un portefeuille clients dans ton secteur en toute autonomie,\n- Prospecter sur le terrain et par téléphone,\n- Vérifier et demander les encours,\n- Etablir des propositions commerciales,\n- Assurer le suivi commercial et administratif,\n- Assurer la relation clientèle,\n- Être garant du prévisionnel établit en CA annuel, avec un nombre d'ouverture de comptes minimum déterminé par la direction,\n- Recruter les intérimaires à placer\nListe non exhaustive.\nSi tu souhaites intégrer une équipe soudée ou l'esprit d'équipe, la bonne humeur et le sens du travail bien fait sont les éléments clés : Ce poste est fait pour toi !\nCULTURE INTERIM, CULTIVER LA DIFFERENCE !\n\nDescription du profil :\n\nProfil\n\nBonne organisation, autonomie et sens des responsabilités\nExcellent relationnel et capacité à créer du lien avec les",
-      "score": 33,
-      "touches": [
-        "charge de developpement (titre)",
-        "ess"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-11",
       "nouvelle": false
     },
     {
@@ -603,7 +564,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-26",
@@ -642,10 +603,49 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
+      "nouvelle": false
+    },
+    {
+      "id": "6779060",
+      "intitule": "Chargé de Développement Commercial BTP (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6779060",
+      "entreprise": {
+        "nom": "CULTURE INTERIM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6779060"
+      },
+      "exigences": [],
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-10T03:31:22.565Z",
+      "description": "Description du poste :\n\nDescription\n\nDans le cadre du développement de notre agence de Toulon, nous recherchons un(e) Technico-commercial(e).\nSi tu es motivé(e), dynamique, que tu possèdes un excellent sens du relationnel, une bonne connaissance du secteur du BTP et que tu as une première expérience dans le commerce ou l'intérim, ton profil nous intéresse !\nTes missions seront Développer un portefeuille clients dans ton secteur en toute autonomie,\n- Prospecter sur le terrain et par téléphone,\n- Vérifier et demander les encours,\n- Etablir des propositions commerciales,\n- Assurer le suivi commercial et administratif,\n- Assurer la relation clientèle,\n- Être garant du prévisionnel établit en CA annuel, avec un nombre d'ouverture de comptes minimum déterminé par la direction,\n- Recruter les intérimaires à placer\nListe non exhaustive.\nSi tu souhaites intégrer une équipe soudée ou l'esprit d'équipe, la bonne humeur et le sens du travail bien fait sont les éléments clés : Ce poste est fait pour toi !\nCULTURE INTERIM, CULTIVER LA DIFFERENCE !\n\nDescription du profil :\n\nProfil\n\nBonne organisation, autonomie et sens des responsabilités\nExcellent relationnel et capacité à créer du lien avec les",
+      "score": 29,
+      "touches": [
+        "charge de developpement (titre)",
+        "ess"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-11",
       "nouvelle": false
     },
     {
@@ -680,7 +680,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
