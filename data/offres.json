@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-09-18T10:45:13.275Z",
-  "total": 17,
+  "misAJour": "2026-09-21T12:16:14.635Z",
+  "total": 16,
   "offres": [
     {
       "id": "5496380",
@@ -40,7 +40,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 52,
+      "age": 55,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -81,7 +81,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 59,
+      "age": 62,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -122,7 +122,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -164,52 +164,10 @@
         "association"
       ],
       "alertes": [],
-      "age": 22,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
-      "nouvelle": false
-    },
-    {
-      "id": "212SXTN",
-      "intitule": "Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212SXTN",
-      "entreprise": {
-        "nom": "Entreprise non nommée",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/212SXTN"
-      },
-      "exigences": [
-        "B permis exigé"
-      ],
-      "lieu": "13 - Marseille 1er Arrondissement",
-      "commune": "13201",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-08-21T11:26:45.241Z",
-      "description": "Entreprise spécialisée depuis 25 ans dans l'importation et la distribution de produits de la mer. Distribution auprès des GMS, RHD et dans les réseaux spécialisés en France et en Europe. \nDans un contexte de forte croissance, nous ouvrons un nouveau poste, basé à Marseille, avec des déplacements fréquents en France.\n\nMISSIONS\n\n1. Prospection commerciale / Développement des affaires (60%)\n\nDans le respect de la politique commerciale du service, vous prospectez et développez un nouveau portefeuille de clients sur de nouveaux marchés. Vous êtes assisté d'un ADV pour l'administration des dossiers de vente.\n- Construire un plan de prospection avec un suivi hebdomadaire de nouveaux prospects : appels, emails, visites terrain. Déplacement à prévoir dans toute la France (Exceptionnellement en Europe)\n- Identifier, cibler et qualifier de nouveaux prospects : grossistes, distributeurs, réseaux spécialisés, rétails.\n- Développer le marché asiatique / japonais. Travailler étroitement avec l'équipe achat afin d'identifier et sélectionner une gamme de produits à fort potentiel pour ce nouveau marché.\n- Mener l'ensemble du cycle de vente de ses nouveaux clients : prise de contact, analyse des bes",
-      "score": 54,
-      "touches": [
-        "business developer (titre)",
-        "formation",
-        "ess (titre)",
-        "rse",
-        "innovation"
-      ],
-      "alertes": [],
-      "age": 27,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-24",
       "nouvelle": false
     },
     {
@@ -249,7 +207,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 10,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -280,14 +238,14 @@
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-09-10T16:10:44.881Z",
       "description": "Vos Missions :\n\nVous travaillerez en collaboration avec la Direction Générale pour définir et mettre en œuvre la stratégie commerciale de l'entreprise.\nVotre objectif sera de poursuivre la dynamique de croissance des activités dans la défense et la sécurité, autant en France qu'à l'international.\n\nVos Activités Principales :\n\n- Participer en collaboration avec la Direction Générale à l'élaboration de la stratégie commerciale de l'entreprise en définissant les plans annuels d'actions commerciales et marketing sur la France et à l'Export (Promotion des produits, choix des marchés à investir, choix des salons,...)\n- Informer, susciter, démontrer et présenter les solutions aux prospects et aux clients autant en France qu'à l'Export (Salons internationaux, démonstrations, visites.)\n- Organiser et diriger les visites clients, les réunions et les démonstrations des solutions\n- Développer un réseau de partenaires et de distributeurs à l'Etranger en capacité de représenter l'entreprise auprès des segments de clientèles visés dans les pays et les opportunités commerciales détectées\n- Contribuer activement à la fidélisation des clients par le suivi des besoins techniques et de l'évolution des",
-      "score": 51,
+      "score": 47,
       "touches": [
         "business developer (titre)",
         "formation",
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 7,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -329,7 +287,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 27,
+      "age": 30,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -367,7 +325,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -407,7 +365,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 71,
+      "age": 74,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -438,7 +396,7 @@
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-09-11T08:06:31.978Z",
       "description": "Vous êtes motivé par la vente, aimez les défis et souhaitez faire partie d'une équipe dynamique, ce poste est fait pour vous !\nVotre mission (si vous l'acceptez )\n-     Vendre par téléphone\n-     Fidéliser les clients avec un suivi précis des appels : prise de rendez-vous\n-     Analyser rapidement le profil client pour un conseil-vente optimal\n-     Qualification de la base clients\n-     Prospecter pour développer des régions\nVotre profil idéal :\n-     Aisance téléphonique naturelle et goût du défi\n-     Motivé(e) par une rémunération variable non plafonnée\n-     Organisé(e), curieux(se) et déterminé(e)\n-     Capacité d'écoute et force de proposition\nCe que nous vous proposons :\n-     Rémunération motivante fixe + commissions + primes\n-     Des challenges commerciaux réguliers\n-     Des outils\n-     Carte repas (Swile) jusqu'à 25€ par jour\n-     Mutuelle individuelle\n-     Horaires fixes en journée du Lundi au vendredi\n-     Repos le week-end\n-     Poste en présentiel à Aubagne\nEnvie de tenter l'aventure avec nous ?\n Postulez dès maintenant et intégrez une équipe où vos talents sont reconnus et appréciés !\nNotre société est engagée dans la promotion de la diversité et de l'inclusio",
-      "score": 39,
+      "score": 35,
       "touches": [
         "business developer (titre)",
         "ess (titre)"
@@ -446,7 +404,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 7,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -486,7 +444,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-07",
@@ -526,7 +484,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-07",
@@ -564,7 +522,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 23,
+      "age": 26,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-26",
@@ -603,7 +561,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-28",
@@ -642,7 +600,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 8,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -680,7 +638,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 10,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
