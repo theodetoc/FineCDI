@@ -1,50 +1,55 @@
 {
-  "misAJour": "2026-09-23T10:59:14.251Z",
-  "total": 17,
+  "misAJour": "2026-09-25T11:23:35.509Z",
+  "total": 15,
   "offres": [
     {
-      "id": "5496380",
-      "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5496380",
+      "id": "209GTKZ",
+      "intitule": "Directeur de Mission périscolaire (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
       "entreprise": {
-        "nom": "PEPITE CONSEIL",
+        "nom": "LEO LAGRANGE ANIMATION",
         "url": null,
         "trancheEffectif": null,
         "siret": null
       },
       "contact": {
-        "nom": null,
+        "nom": "Agence France Travail MARSEILLE PORTE D'AIX",
         "courriel": null,
         "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5496380"
+        "coordonnees": "1 PLACE JULES GUESDE · 13002 Marseille · Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/209GTKZ"
       },
-      "exigences": [
-        "30 ans d'expérience demandés"
-      ],
-      "lieu": "13 - Marseille 7e Arrondissement",
-      "commune": "13207",
+      "exigences": [],
+      "lieu": "13 - MARSEILLE",
+      "commune": "13201",
       "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-07-28T03:19:26.000Z",
-      "description": "Description du poste :\n\nÀ propos de ENOLIS\n\nLe cabinet ENOLIS est une équipe de chasse de talents dont la spécialité est d'accompagner les professionnels des métiers des EnR.\n\nEnvie de donner une nouvelle dimension à votre carrière au sein d'un secteur d'avenir ? Nous accompagnons un acteur de référence du photovoltaïque qui connaît un fort développement sur les marchés français et européens.\n\nAlliant l'agilité d'une PME à taille humaine (-30 pers.) et la solidité d'un groupe historique (30 ans d'expertise, 25 filiales), elle s'impose par sa maîtrise opérationnelle avec plus de 2 000 projets d'envergure déployés ces 5 dernières années. Ici, l'innovation est au cœur de la stratégie : l'entreprise conçoit des solutions durables, évolutives et parfaitement adaptées aux mutations de la transition énergétique.\n\nPour soutenir cette dynamique et conquérir de nouvelles parts de marché, notre client structure aujourd'hui une division stratégique dédiée aux segments de la logistique et des grands comptes.\n\nLe poste\n\nRattaché au Directeur Business Développement / Prescription, vous intervenez au cœur du développement stratégique sur le segment de la logistique et des grands comptes. Vous trav",
-      "score": 66,
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-06-04T14:47:56.499Z",
+      "description": "Léo Lagrange Animation est une association d'éducation populaire reconnue d'utilité publique. Elle accompagne les collectivités locales dans la réalisation de leurs politiques éducatives, de la petite enfance aux séniors, en s'appuyant sur un réseau national de compétences. \nDans ce cadre, la Ville de Marseille a confié à Léo Lagrange Animation la gestion d'une partie de son service périscolaire, dans le cadre d'un marché public pluriannuel. \nCe dispositif mobilise environ 450 salariés (animateurs, directeurs d'accueil, coordinateurs) répartis sur de nombreuses écoles, principalement en zones d'éducation prioritaire. \nDans un contexte de continuité de service, de consolidation du pilotage opérationnel et de préparation du renouvellement du marché, Léo Lagrange Animation recrute un Directeur de mission périscolaire .\nSous l'autorité de la direction de Léo Lagrange Animation, vous assurez le pilotage de la mission périscolaire marseillaise -450 salariés en moyenne pour un budget d'environ 9 M€, répartis sur 12 lots couvrant près de 165 écoles et plusieurs milliers d'enfants accueillis. \nAppuyé.e par une direction adjointe et une équipe de  coordinateurs, avec l'appui des services sup",
+      "score": 94,
       "touches": [
-        "business developer (titre)",
+        "coordinateur",
+        "pedagogi",
+        "education",
         "formation",
-        "ess (titre)",
+        "scolaire (titre)",
+        "social",
+        "economie sociale",
+        "ess",
+        "solidaire",
+        "association",
         "environnement",
         "rse",
         "territoire",
         "innovation"
       ],
       "alertes": [],
-      "age": 57,
+      "age": 112,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
+      "vueLe": "2026-09-25",
+      "nouvelle": true
     },
     {
       "id": "5184468",
@@ -81,7 +86,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 64,
+      "age": 66,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -122,52 +127,10 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 24,
+      "age": 26,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
-      "nouvelle": false
-    },
-    {
-      "id": "212YNZR",
-      "intitule": "Chargé de missions partenariats (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212YNZR",
-      "entreprise": {
-        "nom": "Entreprise non nommée",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/212YNZR"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - MARSEILLE 02",
-      "commune": "13202",
-      "contrat": "CDI",
-      "romeCode": "K1802",
-      "romeLibelle": "Chargé / Chargée de développement économique et local",
-      "dateCreation": "2026-08-26T16:09:34.612Z",
-      "description": "Transitions Pro PACA (ex Fongecif PACA) est une association Loi 1901 qui bénéficie d'un agrément du Ministère du Travail notamment pour gérer avec performance le dispositif « Projet de Transition Professionnelle (PTP) », issu de la loi du 5 Septembre 2018 pour la liberté de choisir son avenir professionnel.\nSous certaines conditions, les salariés bénéficient d'un droit à congé pour changer de métier, et peuvent obtenir la prise en charge par Transitions Pro du coût de leur formation et du maintien de leur rémunération.\n\nMobilisée pour accompagner les salariés dans la réussite de leur projet de reconversion, Transitions Pro PACA recherche un/une chargé(e) de missions partenariats.\n\nPrincipales missions :\n- Prospecter, échanger et aller à la rencontre notamment de nouveaux partenaires pour concourir à développer la demande (PTP, PUR, etc.) en lien avec nos priorités, et contribuer à faire rayonner la structure ;\n- Négocier la mise en place de conventions, notamment financières, et assurer leur opérationnalisation, pilotage et suivi ;\n- Maîtriser l'animation de réunions, d'ateliers, de webinaires, la prise de parole en public, mais aussi l'animation d'un réseau de partenaires, et la c",
-      "score": 57,
-      "touches": [
-        "charge de mission (titre)",
-        "chargee de mission",
-        "formation",
-        "ess",
-        "association"
-      ],
-      "alertes": [],
-      "age": 27,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-28",
       "nouvelle": false
     },
     {
@@ -207,7 +170,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 15,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -248,11 +211,11 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "7105184",
@@ -290,11 +253,11 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "213SBYN",
@@ -328,7 +291,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -370,7 +333,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 32,
+      "age": 34,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -408,7 +371,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -448,11 +411,11 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 1,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "4711299",
@@ -488,7 +451,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 76,
+      "age": 78,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -527,50 +490,10 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
-      "nouvelle": false
-    },
-    {
-      "id": "213LPFX",
-      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
-      "entreprise": {
-        "nom": "CIMEM",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "CIMEM - M. PIERRE BOUCHER",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
-        "telephone": null,
-        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFX",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFX"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - MARSEILLE 08",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-05T22:32:47.660Z",
-      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
-      "score": 35,
-      "touches": [
-        "chef de projet (titre)",
-        "ess",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 17,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-07",
       "nouvelle": false
     },
     {
@@ -607,7 +530,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-07",
@@ -646,7 +569,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -684,7 +607,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 15,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
