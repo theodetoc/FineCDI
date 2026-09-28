@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-09-25T11:23:35.509Z",
+  "misAJour": "2026-09-28T13:12:08.014Z",
   "total": 15,
   "offres": [
     {
@@ -45,11 +45,11 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 112,
+      "age": 115,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "5184468",
@@ -86,7 +86,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 66,
+      "age": 69,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -127,7 +127,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -170,7 +170,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 17,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -211,7 +211,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -253,7 +253,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -291,7 +291,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -333,7 +333,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 34,
+      "age": 37,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -371,7 +371,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 16,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -411,7 +411,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 3,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -451,11 +451,54 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 78,
+      "age": 81,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
       "nouvelle": false
+    },
+    {
+      "id": "7404842",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7404842",
+      "entreprise": {
+        "nom": "CROIX ROUGE FRANCAISE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7404842"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "83 - Ollioules",
+      "commune": "83090",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-09-26T03:30:30.267Z",
+      "description": "Description du poste :\n\nDécouvrez votre futur poste :\n\nFormateur H/F/X\n\nSous la responsabilité du Responsable pédagogique, le formateur coordinateur assure la formation professionnelle initiale des étudiants des filières de formation en licences de travail social (DEES, DEASS et DEEJE) en référence au programme officiel d'étude et la coordination des équipes. En cohérence avec le projet pédagogique de la filière de l'établissement Vous construisez en équipe le projet de formation en cohérence avec le cadre réglementaire et les évolutions professionnelles et/ou en réponse aux besoins du secteur professionnel Vous préparez, vous animez et vous évaluez les formations ou les séquences de formation dont vous avez la charge Vous assurez le suivi pédagogique des élèves ou étudiants pendant leurs périodes de cours et durant les stages Vous collaborez au processus d'évaluation etc Date de prise de poste souhaitée : 02/11/2026\n\nType de contrat : CDI TEMPS PLEIN\n\nDescription du profil :\n\nVous êtes titulaire d'un diplôme MASTER 2 (exigé), vous avez une expérience dans le domaine universitaire et dans le domaine social, vous êtes titulaire d'un DE dans le domaine social (DEEJE, DEES, DEASS) et ",
+      "score": 40,
+      "touches": [
+        "coordinateur",
+        "pedagogi",
+        "formation",
+        "social",
+        "ess",
+        "association"
+      ],
+      "alertes": [],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-28",
+      "nouvelle": true
     },
     {
       "id": "6822782",
@@ -490,50 +533,10 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 14,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
-      "nouvelle": false
-    },
-    {
-      "id": "213LPFH",
-      "intitule": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
-      "entreprise": {
-        "nom": "CIMEM",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "CIMEM - M. PIERRE BOUCHER",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
-        "telephone": null,
-        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213LPFH",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213LPFH"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - MARSEILLE 08",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-05T21:59:27.982Z",
-      "description": "Ref SI CPM    CHEF de PROJETS TUYAUTERIE-CHAUDRONNERIE NUCLEAIRE\nFiliale d'un groupe industriel  en charge de la conception, la construction, la maintenance et le démantèlement  d'installations dans les domaines  de la tuyauterie - chaudronnerie , robinetterie, électricité, automatisme pour les secteurs du nucléaire , hydroélectrique et des industries de process.\n\nMissions :\n       Auprès du Responsable du Département Projets et en lien avec les Chargés d'affaires, les Responsables d'Agences, les services techniques, vous gérez intégralement des projets de construction ou de maintenance de tuyauterie - chaudronnerie pour le nucléaire. \nCes projets d'un montant de 3 à 50 M€ sont gérés seuls ou avec l'appui de chargé d'affiares.\nRéférent auprès du client, vos activités intègreront notamment :\n- la définition des moyens, l'organisation et la planification des projets\n- l'analyse des besoins des clients\n- l'appui au montage des offres et leur validation\n- le pilotage intégral des projets dans le strict respect de la notion de SQCD\n- le suivi de la fabrication en interne ou sous-traité \n- la gestion du budget et le reporting\n- la participation au système de management QSSE de l'entrepri",
-      "score": 35,
-      "touches": [
-        "chef de projet (titre)",
-        "ess",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 19,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-07",
       "nouvelle": false
     },
     {
@@ -569,7 +572,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 15,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -607,7 +610,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
