@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-09-28T13:12:08.014Z",
-  "total": 15,
+  "misAJour": "2026-09-30T12:06:21.345Z",
+  "total": 18,
   "offres": [
     {
       "id": "209GTKZ",
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 115,
+      "age": 117,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
@@ -86,7 +86,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 69,
+      "age": 71,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -127,7 +127,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 29,
+      "age": 31,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -170,7 +170,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -211,7 +211,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -253,7 +253,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -291,7 +291,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -333,7 +333,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 37,
+      "age": 39,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -371,50 +371,10 @@
         "rse"
       ],
       "alertes": [],
-      "age": 20,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
-      "nouvelle": false
-    },
-    {
-      "id": "7090566",
-      "intitule": "Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7090566",
-      "entreprise": {
-        "nom": "Media-Start",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7090566"
-      },
-      "exigences": [],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-22T08:06:44.654Z",
-      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
-      "score": 45,
-      "touches": [
-        "business developer (titre)",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
@@ -451,10 +411,91 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 81,
+      "age": 83,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
+      "nouvelle": false
+    },
+    {
+      "id": "7497847",
+      "intitule": "Chef de projet IT eCom H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497847",
+      "entreprise": {
+        "nom": "PONANT EXPLORATIONS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497847"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-30T04:32:03.949Z",
+      "description": "RESPONSABILITÉS : \n\nEn tant que Product Owner, vous serez responsable du delivery produit sur votre périmètre applicatif et vous contribuerez à maximiser la valeur métier en transformant les besoins des utilisateurs et des métiers en solutions performantes.\nAinsi, vos missions seront les suivantes :\n - Définir et porter la vision produit opérationnelle sur votre périmètre applicatif,\n - Recueillir, analyser et formaliser les besoins des utilisateurs et des métiers,\n - Construire, maintenir et prioriser le backlog produit en fonction de la valeur métier et des enjeux de l'activité,\n - Rédiger les User Stories et les spécifications fonctionnelles en garantissant leur clarté et leur testabilité,\n - Animer les ateliers fonctionnels et faciliter la collaboration entre les équipes métiers, techniques et les partenaires externes,\n - Piloter le delivery produit, suivre l'avancement des développements et anticiper les risques afin de garantir le respect des engagements,\n - Coordonner les phases de tests, de recette métier, de validation et de mise en production,\n - Accompagner les utilisateurs dans l'adoption des nouvelles fonctionnalités et analyser leurs retours pour identifier les axes d",
+      "score": 44,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-30",
+      "nouvelle": true
+    },
+    {
+      "id": "7090566",
+      "intitule": "Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7090566",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7090566"
+      },
+      "exigences": [],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-22T08:06:44.654Z",
+      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
+      "score": 41,
+      "touches": [
+        "business developer (titre)",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
@@ -494,10 +535,55 @@
         "association"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
+      "nouvelle": false
+    },
+    {
+      "id": "7497675",
+      "intitule": "Chef de projet ferroviaire Senior H/F - 13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497675",
+      "entreprise": {
+        "nom": "SOM Sud",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497675"
+      },
+      "exigences": [
+        "40 ans d'expérience demandés",
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Marseille 2e Arrondissement",
+      "commune": "13202",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-30T04:31:57.123Z",
+      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Sud, implantée à Martigues, met son savoir-faire au service des industriels du bassin méditerranéen pour des missions de conception, d'arrêts d'unité et de performance.\nIntégré(e) à un contrat en CDI sur projet sur le site client dans les Bouches-du-Rhône, vous assurerez une prestation d'assistance technique sur un poste de Chef de projet Senior dans le domaine Ferroviaire.\nVotre rôle en tant que Chef de projet Senior Ferroviaire, sera de mener à bien les missions suivantes :\n -  Intégration et consolidation des plannings\nConsolider les plannings des différentes opérations à l'échelle d'un département.\nConstruire une vision assemblée des projets et des interfaces.\nVérifier la cohérence entre les différents niveaux de planification.\nGarantir l'intégration des jalons stratégiques et des mises en service.\n -  Analyse des interfaces et des chemins critiques\n - Identifier les chemins critiques multi-opérations.\n - Mettre en évidence les interfaces sensibles entre opérations.\n - Analyser les impacts des décalages de planning.\n - Proposer des scénarios alternatifs et mesures correctives.\n - Réaliser des analyses multicritères permettant les arbitrages ",
+      "score": 37,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "social",
+        "ess",
+        "solidaire"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-30",
       "nouvelle": true
     },
     {
@@ -533,11 +619,54 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
       "nouvelle": false
+    },
+    {
+      "id": "7515000",
+      "intitule": "Chef de Projet Transformation Digitale / Conduite du Changement SAP (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7515000",
+      "entreprise": {
+        "nom": "STEP UP",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7515000"
+      },
+      "exigences": [
+        "courant anglais courant"
+      ],
+      "lieu": "13 - Martigues",
+      "commune": "13056",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-30T11:21:36.863Z",
+      "description": "STEP UP est une société d'ingénierie experte en pilotage de projets industriels et informatiques (+ 250 collaborateurs sur 11 agences en France), plaçant le potentiel humain comme 1er vecteur d'excellence et de performance en entreprise.\nOubliez les sociétés d'ingénierie qui ne valorisent que vos seules compétences, chez STEP UP, nous visons également l'adéquation entre votre personnalité et la culture d'entreprise de nos clients. Cela se traduit pour vous par une différence fondamentale en termes de bien être, d'épanouissement au travail et de succès dans vos missions.\n\nCe que nous vous proposons :\n - Un cadre de travail épanouissant, stimulant et collaboratif, nous sommes certifiés entreprise où il fait bon vivre !\n - Des projets innovants et variés.\n - La possibilité de se perfectionner continuellement avec des formations internes.\n - Des perspectives d'évolution de carrière.\n - Un accompagnement individualisé avec un programme de développement du potentiel humain.\n - Un programme de cooptation.\nEt bien sûr, nous prenons en charge 70% de votre mutuelle santé et encourageons financièrement la mobilité douce.\n\nLe poste : \n\nChef de Projet Transformation Digitale / Conduite du Chang",
+      "score": 32,
+      "touches": [
+        "chef de projet (titre)",
+        "formation (titre)",
+        "environnement",
+        "innovation"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-30",
+      "nouvelle": true
     },
     {
       "id": "6779060",
@@ -572,7 +701,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -610,7 +739,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
