@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-09-30T12:06:21.345Z",
-  "total": 18,
+  "misAJour": "2026-10-02T12:03:52.953Z",
+  "total": 20,
   "offres": [
     {
       "id": "209GTKZ",
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 117,
+      "age": 119,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
@@ -86,7 +86,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 71,
+      "age": 73,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -127,11 +127,50 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 31,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
       "nouvelle": false
+    },
+    {
+      "id": "214PGWX",
+      "intitule": "Consultant - Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PGWX",
+      "entreprise": {
+        "nom": "WALL STREET INSTITUTE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/214PGWX"
+      },
+      "exigences": [],
+      "lieu": "13 - AIX EN PROVENCE",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-30T08:12:00.525Z",
+      "description": "Wall Street English Provence, leader de la formation en anglais, recherche un Commercial (Sales Consultant BtoC et BtoB) pour renforcer ses équipes à Aix-en-Provence.\n\nMissions principales du poste à pourvoir :\n- Gestion d'un portefeuille de prospects qualifiés\n- Analyse des besoins et proposition de solutions personnalisées\n- Prospection active pour compléter votre portefeuille\n- Suivi pédagogique et satisfaction client\n\nCompétences requises :\n- Excellence relationnelle et commerciale\n- Capacité d'écoute et d'analyse des besoins\n- Dynamisme et orientation résultats\n- Maîtrise de l'anglais non obligatoire mais recommandée\n\nPackage attractif :\nRémunération : fixe (selon expérience) + variable (% facturation) + primes palier mensuel + prime annuelle.\nFormation initiale et continue assurée de haut niveau\nLes déplacements s'effectuent avec un véhicule personnel via un système d'indemnités kilométriques.\n \nPlan de carrière évolutif en France et à l'International (réseau WSE) avec possibilité de devenir Center Manager (= Directeur de centre) voire franchisé Wall Street English.",
+      "score": 59,
+      "touches": [
+        "business developer (titre)",
+        "pedagogi",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-02",
+      "nouvelle": true
     },
     {
       "id": "6698394",
@@ -170,131 +209,10 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 22,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
-      "nouvelle": false
-    },
-    {
-      "id": "7100662",
-      "intitule": "Responsable de Secteur Commercial H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7100662",
-      "entreprise": {
-        "nom": "GROUPAMA MEDITERRANEE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7100662"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-22T14:36:14.583Z",
-      "description": "?? Responsable de Secteur Commercial (H/F) - Secteur de Marseille\nGroupama Méditerranée recrute un(e) Responsable de Secteur Commercial pour piloter et animer son réseau d'agences sur le secteur de Marseille, territoire clé de notre développement.\n?? Votre mission\nEn tant que Responsable de Secteur, vous jouerez un rôle clé pour garantir l'excellence opérationnelle, tout en étant un manager inspirant et un coach pour vos équipes.\nVous aurez la responsabilité de piloter l'intégralité du réseau commercial du marché des particuliers ainsi que du Pôle Privilège, en veillant à la performance et à la cohérence de l'ensemble.\nMais encore :\n- Encadrer et accompagner les équipes : (conseiller commercial agence, Conseiller relation urbaine, conseiller développement urbain) pour garantir leur développement professionnel et leur montée en compétences ;\n- Insuffler une culture de la satisfaction client, en veillant à ce que chaque sociétaire bénéficie d'un accompagnement humain et réactif ;\n- Piloter et analyser les résultats commerciaux, sur les différents outils mise à disposition.\n- Veiller à maintenir et développer un accompagnement de qualité en faveur du développement des compétences de v",
-      "score": 49,
-      "touches": [
-        "responsable de secteur (titre)",
-        "formation",
-        "ess",
-        "environnement",
-        "rse",
-        "territoire"
-      ],
-      "alertes": [],
-      "age": 7,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-23",
-      "nouvelle": false
-    },
-    {
-      "id": "7105184",
-      "intitule": "Chargé de développement commercial (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7105184",
-      "entreprise": {
-        "nom": "CODA INTERIM",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7105184"
-      },
-      "exigences": [],
-      "lieu": "13 - Ciotat",
-      "commune": "13028",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-23T03:22:26.321Z",
-      "description": "Description du poste :\n\nDans le cadre du développement de nos clients Grands Comptes et afin de renforcer notre présence sur notre axe de prédilection Paris-Lyon-Marseille, nous recherchons un(e)  Responsable développement Grands Comptes H/F  en CDI.\n\nVous aimez relever des défis, développer votre portefeuille clients et évoluer dans un environnement stimulant ? Ce poste est fait pour vous !\n\nNos activités sont essentiellement orientées vers la logistique, les activités aéroportuaires, la maintenance, la restauration collective et le second œuvre.\n\nVotre mission : développer, prospecter et fidéliser\n\nVous êtes en charge de développer les Grands Comptes APRIME déjà signés.\n\nA ce titre, vous serez amenés(e) à Démarcher et rencontrer les responsables locaux;\n* Coordonner les actions des recrutements demandés avec les agences;\n* Anticiper les besoins exprimés par les responsables de site;\n* Adhérent(e) du réseau APRIME, vous participerez aux relations avec l'association afin de contribuer au développement de nouveaux accords.\n\nDescription du profil :\n\nCe qui vous permettra de réussir à ce poste Vous avez un réel goût pour le développement commercial B to B, aussi bien par téléphone que",
-      "score": 48,
-      "touches": [
-        "charge de developpement (titre)",
-        "ess",
-        "association",
-        "environnement",
-        "rse"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 7,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-23",
-      "nouvelle": false
-    },
-    {
-      "id": "213SBYN",
-      "intitule": "Business developer France / Export (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SBYN",
-      "entreprise": {
-        "nom": "Entreprise non nommée",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "Agence France Travail AIX VALLEE ARC",
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": "95 CHEMIN Roger MARTIN\nCS · 13097 Aix-en-Provence · Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213SBYN",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213SBYN"
-      },
-      "exigences": [],
-      "lieu": "13 - AIX EN PROVENCE",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-10T16:10:44.881Z",
-      "description": "Vos Missions :\n\nVous travaillerez en collaboration avec la Direction Générale pour définir et mettre en œuvre la stratégie commerciale de l'entreprise.\nVotre objectif sera de poursuivre la dynamique de croissance des activités dans la défense et la sécurité, autant en France qu'à l'international.\n\nVos Activités Principales :\n\n- Participer en collaboration avec la Direction Générale à l'élaboration de la stratégie commerciale de l'entreprise en définissant les plans annuels d'actions commerciales et marketing sur la France et à l'Export (Promotion des produits, choix des marchés à investir, choix des salons,...)\n- Informer, susciter, démontrer et présenter les solutions aux prospects et aux clients autant en France qu'à l'Export (Salons internationaux, démonstrations, visites.)\n- Organiser et diriger les visites clients, les réunions et les démonstrations des solutions\n- Développer un réseau de partenaires et de distributeurs à l'Etranger en capacité de représenter l'entreprise auprès des segments de clientèles visés dans les pays et les opportunités commerciales détectées\n- Contribuer activement à la fidélisation des clients par le suivi des besoins techniques et de l'évolution des",
-      "score": 47,
-      "touches": [
-        "business developer (titre)",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [],
-      "age": 19,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-11",
       "nouvelle": false
     },
     {
@@ -333,7 +251,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 39,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -371,10 +289,51 @@
         "rse"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
+      "nouvelle": false
+    },
+    {
+      "id": "7100662",
+      "intitule": "Responsable de Secteur Commercial H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7100662",
+      "entreprise": {
+        "nom": "GROUPAMA MEDITERRANEE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7100662"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-22T14:36:14.583Z",
+      "description": "?? Responsable de Secteur Commercial (H/F) - Secteur de Marseille\nGroupama Méditerranée recrute un(e) Responsable de Secteur Commercial pour piloter et animer son réseau d'agences sur le secteur de Marseille, territoire clé de notre développement.\n?? Votre mission\nEn tant que Responsable de Secteur, vous jouerez un rôle clé pour garantir l'excellence opérationnelle, tout en étant un manager inspirant et un coach pour vos équipes.\nVous aurez la responsabilité de piloter l'intégralité du réseau commercial du marché des particuliers ainsi que du Pôle Privilège, en veillant à la performance et à la cohérence de l'ensemble.\nMais encore :\n- Encadrer et accompagner les équipes : (conseiller commercial agence, Conseiller relation urbaine, conseiller développement urbain) pour garantir leur développement professionnel et leur montée en compétences ;\n- Insuffler une culture de la satisfaction client, en veillant à ce que chaque sociétaire bénéficie d'un accompagnement humain et réactif ;\n- Piloter et analyser les résultats commerciaux, sur les différents outils mise à disposition.\n- Veiller à maintenir et développer un accompagnement de qualité en faveur du développement des compétences de v",
+      "score": 45,
+      "touches": [
+        "responsable de secteur (titre)",
+        "formation",
+        "ess",
+        "environnement",
+        "rse",
+        "territoire"
+      ],
+      "alertes": [],
+      "age": 9,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
@@ -411,10 +370,52 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 83,
+      "age": 85,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
+      "nouvelle": false
+    },
+    {
+      "id": "7105184",
+      "intitule": "Chargé de développement commercial (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7105184",
+      "entreprise": {
+        "nom": "CODA INTERIM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7105184"
+      },
+      "exigences": [],
+      "lieu": "13 - Ciotat",
+      "commune": "13028",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-23T03:22:26.321Z",
+      "description": "Description du poste :\n\nDans le cadre du développement de nos clients Grands Comptes et afin de renforcer notre présence sur notre axe de prédilection Paris-Lyon-Marseille, nous recherchons un(e)  Responsable développement Grands Comptes H/F  en CDI.\n\nVous aimez relever des défis, développer votre portefeuille clients et évoluer dans un environnement stimulant ? Ce poste est fait pour vous !\n\nNos activités sont essentiellement orientées vers la logistique, les activités aéroportuaires, la maintenance, la restauration collective et le second œuvre.\n\nVotre mission : développer, prospecter et fidéliser\n\nVous êtes en charge de développer les Grands Comptes APRIME déjà signés.\n\nA ce titre, vous serez amenés(e) à Démarcher et rencontrer les responsables locaux;\n* Coordonner les actions des recrutements demandés avec les agences;\n* Anticiper les besoins exprimés par les responsables de site;\n* Adhérent(e) du réseau APRIME, vous participerez aux relations avec l'association afin de contribuer au développement de nouveaux accords.\n\nDescription du profil :\n\nCe qui vous permettra de réussir à ce poste Vous avez un réel goût pour le développement commercial B to B, aussi bien par téléphone que",
+      "score": 44,
+      "touches": [
+        "charge de developpement (titre)",
+        "ess",
+        "association",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 9,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
@@ -452,11 +453,11 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "7090566",
@@ -492,7 +493,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 8,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -535,7 +536,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -580,11 +581,11 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "6822782",
@@ -619,11 +620,54 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
       "nouvelle": false
+    },
+    {
+      "id": "7572574",
+      "intitule": "Chef de projet HVAC H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7572574",
+      "entreprise": {
+        "nom": "SOM Méditérranée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7572574"
+      },
+      "exigences": [
+        "40 ans d'expérience demandés"
+      ],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-02T04:32:00.226Z",
+      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Méditerranée, implantée à Marseille, intervient au plus près des sites EDF sur des projets complexes en mécanique, électricité, fluides et génie civil, avec une forte expertise en Sûreté des REP.\nIntégré(e) au sein du bureau d'études, vous interviendrez sur les activités ventilation de l'agence\n\nVotre rôle en tant que Chef de projet HVAC H/F, sera de mener à bien les missions suivantes :\n - Piloter techniquement une équipe d'ingénieurs et de techniciens d'études\n - Garantir le respect des plannings et l'adéquation des charges au sein de l'équipe\n - Assurer le suivi du budget de l'activité et des objectifs de chiffre d'affaires associés\n - Valider et contrôler la qualité technique des études produites dans le domaine HVAC/CVC\n - Participer à l'élaboration des offres techniques et commerciales\n - Assurer le pilotage de la relation client, notamment sur les aspects avancement, qualité et satisfaction\n - Contribuer au développement et à la diversification de l'activité auprès de nouveaux acteurs industriels\n#SOM #LI-CC2\n\nPROFIL RECHERCHÉ : \n\nDiplômé(e) d'une école d'ingénieurs, vous justifiez d' au moins 10 ans d'expérience dans les métiers du HVAC/",
+      "score": 34,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-02",
+      "nouvelle": true
     },
     {
       "id": "7515000",
@@ -662,11 +706,11 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "6779060",
@@ -701,7 +745,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -739,11 +783,50 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 22,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
       "nouvelle": false
+    },
+    {
+      "id": "214PWRS",
+      "intitule": "RESPONSABLE DE SECTEUR PACA H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PWRS",
+      "entreprise": {
+        "nom": "GROUPE AIRWELL",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "GROUPE AIRWELL - X AURORE TRAVERS",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/828983?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/828983?utm_source=NQ=="
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 13e Arrondissement",
+      "commune": "13213",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-09-30T14:31:01.213Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nRejoignez nous en tant que Responsable de secteur PACA (H/F)\n\n\nDans le cadre de notre croissance, nous recherchons un(e) Responsable de secteur PACA pour développer et animer notre activité commerciale sur un secteur stratégique.\n\n\nVéritable ambassadeur(drice) de nos solutions, vous jouez un rôle clé dans la croissance de notre chiffre d'affaires et la satisfaction de nos partenaires.\n\n\nVotre mission :\n\n\n- Développer et fidéliser un portefeuille clients (installateurs et distributeurs) grâce à une prospection ciblée et performante\n\n\n- Élaborer et piloter le plan d'action commercial annuel de votre secteur, en cohérence avec notre stratégie et notre mix produits\n\n\n- Promouvoir nos gammes de solutions en chauffage, ventilation et solaire sur les marchés résidentiels, collectifs et tertiaires\n\n\n- Animer votre réseau clients à travers des rendez-vous technico-commerciaux à forte valeur ajoutée\n\n\n- Être à l'écoute du marché et assurer une veille concurrentielle active\n\n\n- Assurer un reporting régulier de votre activité et mettre à jour le CRM\n\n\n- Participer au suivi des encaissements liés à votre activité\n\n\n- D",
+      "score": 19,
+      "touches": [
+        "responsable de secteur (titre)",
+        "rse"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-02",
+      "nouvelle": true
     }
   ]
 }
