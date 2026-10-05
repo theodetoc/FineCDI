@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-10-02T12:03:52.953Z",
+  "misAJour": "2026-10-05T13:54:44.470Z",
   "total": 20,
   "offres": [
     {
@@ -45,11 +45,55 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 119,
+      "age": 122,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
       "nouvelle": false
+    },
+    {
+      "id": "7604082",
+      "intitule": "Chargé de Projet Data RH H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7604082",
+      "entreprise": {
+        "nom": "DRH SIRH",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7604082"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-03T04:31:35.664Z",
+      "description": "RESPONSABILITÉS : \n\nDans le cadre de son programme de transformation du SIRH, ORTEC construit et développe son pôle DATA RH. Pour accompagner cette évolution, nous recherchons notre futur Chargé de Projet DATA RH (H/F).\nVous serez rattaché(e) à Mikael, Responsable du Lab RH, et interviendrez au cœur des enjeux data liés au SIRH.\nVous aurez pour objectif de structurer et fiabiliser les indicateurs RH, développer des outils de reporting performants et fournir des analyses à forte valeur ajoutée pour éclairer la prise de décision, tout en accompagnant la transformation et l'amélioration continue du SIRH.\nVotre poste est basé au siège social du Groupe Ortec situé dans le technopôle d'Aix-les-Milles\n\nVos missions clés consisteront notamment à :\nData & Reporting\n - Concevoir, développer et maintenir des tableaux de bord Power BI\n - Garantir la fiabilité, la cohérence et la lisibilité des données\n - Structurer et optimiser les modèles de données\nAnalyse & Pilotage\n - Produire des analyses approfondies des indicateurs RH\n - Identifier anomalies, tendances et axes d'amélioration\n - Traduire les données en impacts financiers et en recommandations opérationnelles\nPrédictif & Aide à la décisio",
+      "score": 68,
+      "touches": [
+        "charge de projet (titre)",
+        "formation",
+        "social",
+        "ess",
+        "solidaire",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-05",
+      "nouvelle": true
     },
     {
       "id": "5184468",
@@ -86,7 +130,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 73,
+      "age": 76,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -127,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 33,
+      "age": 36,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -166,53 +210,10 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
-      "nouvelle": true
-    },
-    {
-      "id": "6698394",
-      "intitule": "Business Developer - Solution SaaS Transport - Marseille/Full Remote - H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6698394",
-      "entreprise": {
-        "nom": "skaelia",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6698394"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Marseille 1er Arrondissement",
-      "commune": "13201",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-07T23:01:18.770Z",
-      "description": "DESCRIPTION\nNotre client, un éditeur de logiciel SaaS spécialisée dans le secteur du transport, recrute un(e) Business Developer pour renforcer sa couverture commerciale sur la France.\nActeur reconnu de la télématique embarquée, cette structure indépendante, en forte croissance (+20 %/an), développe et commercialise une solution logicielle et matérielle innovante, aujourd'hui déployée dans plus de 15 000 véhicules professionnels. L'entreprise conçoit ses propres boîtiers connectés et fournit une plateforme SaaS à destination des transporteurs, industriels, logisticiens et acteurs du BTP.\nVous intégrerez une équipe de 20 personnes à taille humaine, collaborative et agile, avec une forte autonomie sur votre zone géographique. Le poste est proposé en full remote avec déplacements réguliers sur le terrain.\nVos principales missions :\n- Piloter le cycle de vente complet : prospection, prise de contact, qualification, démonstrations, élaboration de propositions, négociation et signature.\n- Assurer le suivi et le développement de votre portefeuille clients (TPE/PME du transport) : renouvellements, ventes additionnelles (upsell / cross-sell), fidélisation.\n- Comprendre les enjeux opérationn",
-      "score": 53,
-      "touches": [
-        "business developer (titre)",
-        "ess (titre)",
-        "environnement",
-        "rse (titre)"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 24,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-09",
       "nouvelle": false
     },
     {
@@ -251,7 +252,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 41,
+      "age": 44,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -289,7 +290,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 23,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -330,7 +331,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -370,7 +371,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 85,
+      "age": 88,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -412,7 +413,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -453,7 +454,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -493,53 +494,10 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 10,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
-      "nouvelle": false
-    },
-    {
-      "id": "7404842",
-      "intitule": "Formateur / Formatrice (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7404842",
-      "entreprise": {
-        "nom": "CROIX ROUGE FRANCAISE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7404842"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "83 - Ollioules",
-      "commune": "83090",
-      "contrat": "CDI",
-      "romeCode": "K2111",
-      "romeLibelle": "Formateur / Formatrice",
-      "dateCreation": "2026-09-26T03:30:30.267Z",
-      "description": "Description du poste :\n\nDécouvrez votre futur poste :\n\nFormateur H/F/X\n\nSous la responsabilité du Responsable pédagogique, le formateur coordinateur assure la formation professionnelle initiale des étudiants des filières de formation en licences de travail social (DEES, DEASS et DEEJE) en référence au programme officiel d'étude et la coordination des équipes. En cohérence avec le projet pédagogique de la filière de l'établissement Vous construisez en équipe le projet de formation en cohérence avec le cadre réglementaire et les évolutions professionnelles et/ou en réponse aux besoins du secteur professionnel Vous préparez, vous animez et vous évaluez les formations ou les séquences de formation dont vous avez la charge Vous assurez le suivi pédagogique des élèves ou étudiants pendant leurs périodes de cours et durant les stages Vous collaborez au processus d'évaluation etc Date de prise de poste souhaitée : 02/11/2026\n\nType de contrat : CDI TEMPS PLEIN\n\nDescription du profil :\n\nVous êtes titulaire d'un diplôme MASTER 2 (exigé), vous avez une expérience dans le domaine universitaire et dans le domaine social, vous êtes titulaire d'un DE dans le domaine social (DEEJE, DEES, DEASS) et ",
-      "score": 40,
-      "touches": [
-        "coordinateur",
-        "pedagogi",
-        "formation",
-        "social",
-        "ess",
-        "association"
-      ],
-      "alertes": [],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-28",
       "nouvelle": false
     },
     {
@@ -581,10 +539,53 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
+      "nouvelle": false
+    },
+    {
+      "id": "7404842",
+      "intitule": "Formateur / Formatrice (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7404842",
+      "entreprise": {
+        "nom": "CROIX ROUGE FRANCAISE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7404842"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "83 - Ollioules",
+      "commune": "83090",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-09-26T03:30:30.267Z",
+      "description": "Description du poste :\n\nDécouvrez votre futur poste :\n\nFormateur H/F/X\n\nSous la responsabilité du Responsable pédagogique, le formateur coordinateur assure la formation professionnelle initiale des étudiants des filières de formation en licences de travail social (DEES, DEASS et DEEJE) en référence au programme officiel d'étude et la coordination des équipes. En cohérence avec le projet pédagogique de la filière de l'établissement Vous construisez en équipe le projet de formation en cohérence avec le cadre réglementaire et les évolutions professionnelles et/ou en réponse aux besoins du secteur professionnel Vous préparez, vous animez et vous évaluez les formations ou les séquences de formation dont vous avez la charge Vous assurez le suivi pédagogique des élèves ou étudiants pendant leurs périodes de cours et durant les stages Vous collaborez au processus d'évaluation etc Date de prise de poste souhaitée : 02/11/2026\n\nType de contrat : CDI TEMPS PLEIN\n\nDescription du profil :\n\nVous êtes titulaire d'un diplôme MASTER 2 (exigé), vous avez une expérience dans le domaine universitaire et dans le domaine social, vous êtes titulaire d'un DE dans le domaine social (DEEJE, DEES, DEASS) et ",
+      "score": 36,
+      "touches": [
+        "coordinateur",
+        "pedagogi",
+        "formation",
+        "social",
+        "ess",
+        "association"
+      ],
+      "alertes": [],
+      "age": 9,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-09-28",
       "nouvelle": false
     },
     {
@@ -620,7 +621,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 21,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -663,11 +664,11 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 0,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "7515000",
@@ -706,7 +707,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -745,7 +746,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 22,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -783,7 +784,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 24,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -822,11 +823,11 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 1,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
-      "nouvelle": true
+      "nouvelle": false
     }
   ]
 }
