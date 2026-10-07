@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-10-05T13:54:44.470Z",
-  "total": 20,
+  "misAJour": "2026-10-07T12:51:21.382Z",
+  "total": 21,
   "offres": [
     {
       "id": "209GTKZ",
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 122,
+      "age": 124,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
@@ -89,11 +89,11 @@
         "rse"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-05",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "5184468",
@@ -130,7 +130,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 76,
+      "age": 78,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -171,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 36,
+      "age": 38,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -210,7 +210,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -252,7 +252,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 44,
+      "age": 46,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -290,7 +290,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 27,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -331,7 +331,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -371,7 +371,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 88,
+      "age": 90,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -413,7 +413,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -454,11 +454,51 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
       "nouvelle": false
+    },
+    {
+      "id": "7700091",
+      "intitule": "Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7700091",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7700091"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-10-06T08:06:13.130Z",
+      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
+      "score": 42,
+      "touches": [
+        "business developer (titre)",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-07",
+      "nouvelle": true
     },
     {
       "id": "7090566",
@@ -494,7 +534,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -539,7 +579,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -582,7 +622,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -621,7 +661,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 24,
+      "age": 26,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -664,7 +704,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -707,7 +747,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -746,7 +786,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -784,7 +824,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 27,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-09",
@@ -823,7 +863,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
