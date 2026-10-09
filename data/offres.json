@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-10-07T12:51:21.382Z",
-  "total": 21,
+  "misAJour": "2026-10-09T12:46:23.051Z",
+  "total": 20,
   "offres": [
     {
       "id": "209GTKZ",
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 124,
+      "age": 126,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
@@ -89,7 +89,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-05",
@@ -130,7 +130,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 78,
+      "age": 80,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -171,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 38,
+      "age": 40,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -202,7 +202,7 @@
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-09-30T08:12:00.525Z",
       "description": "Wall Street English Provence, leader de la formation en anglais, recherche un Commercial (Sales Consultant BtoC et BtoB) pour renforcer ses équipes à Aix-en-Provence.\n\nMissions principales du poste à pourvoir :\n- Gestion d'un portefeuille de prospects qualifiés\n- Analyse des besoins et proposition de solutions personnalisées\n- Prospection active pour compléter votre portefeuille\n- Suivi pédagogique et satisfaction client\n\nCompétences requises :\n- Excellence relationnelle et commerciale\n- Capacité d'écoute et d'analyse des besoins\n- Dynamisme et orientation résultats\n- Maîtrise de l'anglais non obligatoire mais recommandée\n\nPackage attractif :\nRémunération : fixe (selon expérience) + variable (% facturation) + primes palier mensuel + prime annuelle.\nFormation initiale et continue assurée de haut niveau\nLes déplacements s'effectuent avec un véhicule personnel via un système d'indemnités kilométriques.\n \nPlan de carrière évolutif en France et à l'International (réseau WSE) avec possibilité de devenir Center Manager (= Directeur de centre) voire franchisé Wall Street English.",
-      "score": 59,
+      "score": 55,
       "touches": [
         "business developer (titre)",
         "pedagogi",
@@ -210,90 +210,10 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 7,
+      "age": 9,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
-      "nouvelle": false
-    },
-    {
-      "id": "6187542",
-      "intitule": "Chef de projets travaux neufs H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6187542",
-      "entreprise": {
-        "nom": "ORTEC INDUSTRIE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6187542"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-08-22T04:31:33.840Z",
-      "description": "RESPONSABILITÉS : \n\nParticipez à la transformation industrielle au service de l'économie circulaire Dans le cadre de notre développement, nous recherchons un Chef de Projet Travaux Neufs H/F pour piloter des projets d'investissement stratégiques sur nos installations de traitement et de valorisation des déchets.\nBasé au siège du Groupe ORTEC (Aix-Les-Milles, 13), véritable chef d'orchestre, vous assurez la coordination stratégique de l'ensemble des acteurs du projet. Vous êtes garant de la sécurité, la qualité des réalisations, le respect des délais et la maîtrise des budgets\nVous prenez en charge la gestion complète de projets de travaux neufs, depuis l'identification du besoin jusqu'à la réception des ouvrages et la mise en service des équipements. Vous êtes rattaché au directeur de Projet Travaux.\nVos missions ?  - Identifier et analyser les besoins techniques avec les équipes d'exploitation, de maintenance, de production et les directions de sites.\n - Définir les solutions techniques les plus adaptées et rédiger les cahiers des charges.\n - Piloter les consultations fournisseurs et sélectionner les entreprises partenaires.\n - Concevoir l'intégration de nouveaux équipements indus",
-      "score": 47,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess",
-        "environnement",
-        "innovation"
-      ],
-      "alertes": [],
-      "age": 46,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-24",
-      "nouvelle": false
-    },
-    {
-      "id": "213NWDJ",
-      "intitule": "Business developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213NWDJ",
-      "entreprise": {
-        "nom": "NOVA ENERGIE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/213NWDJ"
-      },
-      "exigences": [],
-      "lieu": "13 - Venelles",
-      "commune": "13113",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-08T12:55:04.552Z",
-      "description": "Suite à un accroissement d'activité, nous recherchons un business developer (H/F)\n\nVOS MISSIONS:\nVotre rôle sera de développer le portefeuille client de l'entreprise par une prospection active.\n\nVous serez en charge de :\n-Identifier et prospecter des prospects et clients (BtoB) via téléphone, terrain et digital  \n-Présenter nos offres et convaincre les prospects de rejoindre notre solution énergétique\n - Suivre et relancer les prospects pour conclure les ventes\n - Fidéliser la clientèle et assurer un suivi de qualité.\n-  Travailler en synergie avec l'équipe commerciale et le service client pour garantir la satisfaction client\n\nVOTRE PROFIL :\nNous recherchons avant tout une personnalité dynamique et motivée, prête à relever des défis\nDoté(e) d'un excellent relationnel et d'un bon sens commercial\nEnthousiaste, à l'aise dans l'échange et persévérant(e).\nCapable de travailler de façon autonome tout en aimant le travail en équipe Curieux(se) et désireux(se) d'apprendre et d'évoluer dans le secteur de l'énergie\n\nVotre plus ?\nUne première expérience en vente ou en prospection serait un atout Vous avez une bonne élocution et une forte capacité de persuasion\nLa pratique d'EXCEL est bienvenu",
-      "score": 46,
-      "touches": [
-        "business developer (titre)",
-        "ess (titre)",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 28,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-09",
       "nouvelle": false
     },
     {
@@ -331,7 +251,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -371,7 +291,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 90,
+      "age": 92,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -413,18 +333,18 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 14,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
-      "id": "7497847",
-      "intitule": "Chef de projet IT eCom H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497847",
+      "id": "6187542",
+      "intitule": "Chef de projets travaux neufs H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6187542",
       "entreprise": {
-        "nom": "PONANT EXPLORATIONS",
+        "nom": "ORTEC INDUSTRIE",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -434,19 +354,19 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497847"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6187542"
       },
       "exigences": [
         "Bac+5 exigé"
       ],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
       "contrat": "CDI",
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-30T04:32:03.949Z",
-      "description": "RESPONSABILITÉS : \n\nEn tant que Product Owner, vous serez responsable du delivery produit sur votre périmètre applicatif et vous contribuerez à maximiser la valeur métier en transformant les besoins des utilisateurs et des métiers en solutions performantes.\nAinsi, vos missions seront les suivantes :\n - Définir et porter la vision produit opérationnelle sur votre périmètre applicatif,\n - Recueillir, analyser et formaliser les besoins des utilisateurs et des métiers,\n - Construire, maintenir et prioriser le backlog produit en fonction de la valeur métier et des enjeux de l'activité,\n - Rédiger les User Stories et les spécifications fonctionnelles en garantissant leur clarté et leur testabilité,\n - Animer les ateliers fonctionnels et faciliter la collaboration entre les équipes métiers, techniques et les partenaires externes,\n - Piloter le delivery produit, suivre l'avancement des développements et anticiper les risques afin de garantir le respect des engagements,\n - Coordonner les phases de tests, de recette métier, de validation et de mise en production,\n - Accompagner les utilisateurs dans l'adoption des nouvelles fonctionnalités et analyser leurs retours pour identifier les axes d",
-      "score": 44,
+      "dateCreation": "2026-08-22T04:31:33.840Z",
+      "description": "RESPONSABILITÉS : \n\nParticipez à la transformation industrielle au service de l'économie circulaire Dans le cadre de notre développement, nous recherchons un Chef de Projet Travaux Neufs H/F pour piloter des projets d'investissement stratégiques sur nos installations de traitement et de valorisation des déchets.\nBasé au siège du Groupe ORTEC (Aix-Les-Milles, 13), véritable chef d'orchestre, vous assurez la coordination stratégique de l'ensemble des acteurs du projet. Vous êtes garant de la sécurité, la qualité des réalisations, le respect des délais et la maîtrise des budgets\nVous prenez en charge la gestion complète de projets de travaux neufs, depuis l'identification du besoin jusqu'à la réception des ouvrages et la mise en service des équipements. Vous êtes rattaché au directeur de Projet Travaux.\nVos missions ?  - Identifier et analyser les besoins techniques avec les équipes d'exploitation, de maintenance, de production et les directions de sites.\n - Définir les solutions techniques les plus adaptées et rédiger les cahiers des charges.\n - Piloter les consultations fournisseurs et sélectionner les entreprises partenaires.\n - Concevoir l'intégration de nouveaux équipements indus",
+      "score": 43,
       "touches": [
         "chef de projet (titre)",
         "formation",
@@ -454,10 +374,10 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 7,
+      "age": 48,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-30",
+      "vueLe": "2026-08-24",
       "nouvelle": false
     },
     {
@@ -494,11 +414,11 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 1,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "7090566",
@@ -534,18 +454,18 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 15,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
-      "id": "7497675",
-      "intitule": "Chef de projet ferroviaire Senior H/F - 13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497675",
+      "id": "7497847",
+      "intitule": "Chef de projet IT eCom H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497847",
       "entreprise": {
-        "nom": "SOM Sud",
+        "nom": "PONANT EXPLORATIONS",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -555,31 +475,27 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497675"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497847"
       },
       "exigences": [
-        "40 ans d'expérience demandés",
         "Bac+5 exigé"
       ],
-      "lieu": "13 - Marseille 2e Arrondissement",
-      "commune": "13202",
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
       "contrat": "CDI",
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-30T04:31:57.123Z",
-      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Sud, implantée à Martigues, met son savoir-faire au service des industriels du bassin méditerranéen pour des missions de conception, d'arrêts d'unité et de performance.\nIntégré(e) à un contrat en CDI sur projet sur le site client dans les Bouches-du-Rhône, vous assurerez une prestation d'assistance technique sur un poste de Chef de projet Senior dans le domaine Ferroviaire.\nVotre rôle en tant que Chef de projet Senior Ferroviaire, sera de mener à bien les missions suivantes :\n -  Intégration et consolidation des plannings\nConsolider les plannings des différentes opérations à l'échelle d'un département.\nConstruire une vision assemblée des projets et des interfaces.\nVérifier la cohérence entre les différents niveaux de planification.\nGarantir l'intégration des jalons stratégiques et des mises en service.\n -  Analyse des interfaces et des chemins critiques\n - Identifier les chemins critiques multi-opérations.\n - Mettre en évidence les interfaces sensibles entre opérations.\n - Analyser les impacts des décalages de planning.\n - Proposer des scénarios alternatifs et mesures correctives.\n - Réaliser des analyses multicritères permettant les arbitrages ",
-      "score": 37,
+      "dateCreation": "2026-09-30T04:32:03.949Z",
+      "description": "RESPONSABILITÉS : \n\nEn tant que Product Owner, vous serez responsable du delivery produit sur votre périmètre applicatif et vous contribuerez à maximiser la valeur métier en transformant les besoins des utilisateurs et des métiers en solutions performantes.\nAinsi, vos missions seront les suivantes :\n - Définir et porter la vision produit opérationnelle sur votre périmètre applicatif,\n - Recueillir, analyser et formaliser les besoins des utilisateurs et des métiers,\n - Construire, maintenir et prioriser le backlog produit en fonction de la valeur métier et des enjeux de l'activité,\n - Rédiger les User Stories et les spécifications fonctionnelles en garantissant leur clarté et leur testabilité,\n - Animer les ateliers fonctionnels et faciliter la collaboration entre les équipes métiers, techniques et les partenaires externes,\n - Piloter le delivery produit, suivre l'avancement des développements et anticiper les risques afin de garantir le respect des engagements,\n - Coordonner les phases de tests, de recette métier, de validation et de mise en production,\n - Accompagner les utilisateurs dans l'adoption des nouvelles fonctionnalités et analyser leurs retours pour identifier les axes d",
+      "score": 40,
       "touches": [
         "chef de projet (titre)",
         "formation",
-        "social",
         "ess",
-        "solidaire"
+        "environnement"
       ],
-      "alertes": [
-        "10 ans d'experience"
-      ],
-      "age": 7,
+      "alertes": [],
+      "age": 9,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -622,7 +538,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -661,7 +577,7 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -704,18 +620,18 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
       "nouvelle": false
     },
     {
-      "id": "7515000",
-      "intitule": "Chef de Projet Transformation Digitale / Conduite du Changement SAP (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7515000",
+      "id": "7497675",
+      "intitule": "Chef de projet ferroviaire Senior H/F - 13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497675",
       "entreprise": {
-        "nom": "STEP UP",
+        "nom": "SOM Sud",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -725,33 +641,73 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7515000"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497675"
       },
       "exigences": [
-        "courant anglais courant"
+        "40 ans d'expérience demandés",
+        "Bac+5 exigé"
       ],
-      "lieu": "13 - Martigues",
-      "commune": "13056",
+      "lieu": "13 - Marseille 2e Arrondissement",
+      "commune": "13202",
       "contrat": "CDI",
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-30T11:21:36.863Z",
-      "description": "STEP UP est une société d'ingénierie experte en pilotage de projets industriels et informatiques (+ 250 collaborateurs sur 11 agences en France), plaçant le potentiel humain comme 1er vecteur d'excellence et de performance en entreprise.\nOubliez les sociétés d'ingénierie qui ne valorisent que vos seules compétences, chez STEP UP, nous visons également l'adéquation entre votre personnalité et la culture d'entreprise de nos clients. Cela se traduit pour vous par une différence fondamentale en termes de bien être, d'épanouissement au travail et de succès dans vos missions.\n\nCe que nous vous proposons :\n - Un cadre de travail épanouissant, stimulant et collaboratif, nous sommes certifiés entreprise où il fait bon vivre !\n - Des projets innovants et variés.\n - La possibilité de se perfectionner continuellement avec des formations internes.\n - Des perspectives d'évolution de carrière.\n - Un accompagnement individualisé avec un programme de développement du potentiel humain.\n - Un programme de cooptation.\nEt bien sûr, nous prenons en charge 70% de votre mutuelle santé et encourageons financièrement la mobilité douce.\n\nLe poste : \n\nChef de Projet Transformation Digitale / Conduite du Chang",
-      "score": 32,
+      "dateCreation": "2026-09-30T04:31:57.123Z",
+      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Sud, implantée à Martigues, met son savoir-faire au service des industriels du bassin méditerranéen pour des missions de conception, d'arrêts d'unité et de performance.\nIntégré(e) à un contrat en CDI sur projet sur le site client dans les Bouches-du-Rhône, vous assurerez une prestation d'assistance technique sur un poste de Chef de projet Senior dans le domaine Ferroviaire.\nVotre rôle en tant que Chef de projet Senior Ferroviaire, sera de mener à bien les missions suivantes :\n -  Intégration et consolidation des plannings\nConsolider les plannings des différentes opérations à l'échelle d'un département.\nConstruire une vision assemblée des projets et des interfaces.\nVérifier la cohérence entre les différents niveaux de planification.\nGarantir l'intégration des jalons stratégiques et des mises en service.\n -  Analyse des interfaces et des chemins critiques\n - Identifier les chemins critiques multi-opérations.\n - Mettre en évidence les interfaces sensibles entre opérations.\n - Analyser les impacts des décalages de planning.\n - Proposer des scénarios alternatifs et mesures correctives.\n - Réaliser des analyses multicritères permettant les arbitrages ",
+      "score": 33,
       "touches": [
         "chef de projet (titre)",
-        "formation (titre)",
-        "environnement",
-        "innovation"
+        "formation",
+        "social",
+        "ess",
+        "solidaire"
       ],
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 7,
+      "age": 9,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
       "nouvelle": false
+    },
+    {
+      "id": "7766792",
+      "intitule": "Business Development Manager (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7766792",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7766792"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-10-08T08:06:06.196Z",
+      "description": "Vos missions :\n \nEn tant que Business Development Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et l",
+      "score": 32,
+      "touches": [
+        "business developer",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-09",
+      "nouvelle": true
     },
     {
       "id": "6779060",
@@ -786,18 +742,18 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 27,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
       "nouvelle": false
     },
     {
-      "id": "6722690",
-      "intitule": "Business Development Manager (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6722690",
+      "id": "7515000",
+      "intitule": "Chef de Projet Transformation Digitale / Conduite du Changement SAP (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7515000",
       "entreprise": {
-        "nom": "Media-Start",
+        "nom": "STEP UP",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -807,27 +763,32 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6722690"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7515000"
       },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
+      "exigences": [
+        "courant anglais courant"
+      ],
+      "lieu": "13 - Martigues",
+      "commune": "13056",
       "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-08T08:06:31.630Z",
-      "description": "Vos missions :\n \nEn tant que Business Development Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et l",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-09-30T11:21:36.863Z",
+      "description": "STEP UP est une société d'ingénierie experte en pilotage de projets industriels et informatiques (+ 250 collaborateurs sur 11 agences en France), plaçant le potentiel humain comme 1er vecteur d'excellence et de performance en entreprise.\nOubliez les sociétés d'ingénierie qui ne valorisent que vos seules compétences, chez STEP UP, nous visons également l'adéquation entre votre personnalité et la culture d'entreprise de nos clients. Cela se traduit pour vous par une différence fondamentale en termes de bien être, d'épanouissement au travail et de succès dans vos missions.\n\nCe que nous vous proposons :\n - Un cadre de travail épanouissant, stimulant et collaboratif, nous sommes certifiés entreprise où il fait bon vivre !\n - Des projets innovants et variés.\n - La possibilité de se perfectionner continuellement avec des formations internes.\n - Des perspectives d'évolution de carrière.\n - Un accompagnement individualisé avec un programme de développement du potentiel humain.\n - Un programme de cooptation.\nEt bien sûr, nous prenons en charge 70% de votre mutuelle santé et encourageons financièrement la mobilité douce.\n\nLe poste : \n\nChef de Projet Transformation Digitale / Conduite du Chang",
       "score": 28,
       "touches": [
-        "business developer",
-        "formation",
-        "ess (titre)"
+        "chef de projet (titre)",
+        "formation (titre)",
+        "environnement",
+        "innovation"
       ],
-      "alertes": [],
-      "age": 29,
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 9,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-09",
+      "vueLe": "2026-09-30",
       "nouvelle": false
     },
     {
@@ -855,7 +816,7 @@
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-09-30T14:31:01.213Z",
       "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nRejoignez nous en tant que Responsable de secteur PACA (H/F)\n\n\nDans le cadre de notre croissance, nous recherchons un(e) Responsable de secteur PACA pour développer et animer notre activité commerciale sur un secteur stratégique.\n\n\nVéritable ambassadeur(drice) de nos solutions, vous jouez un rôle clé dans la croissance de notre chiffre d'affaires et la satisfaction de nos partenaires.\n\n\nVotre mission :\n\n\n- Développer et fidéliser un portefeuille clients (installateurs et distributeurs) grâce à une prospection ciblée et performante\n\n\n- Élaborer et piloter le plan d'action commercial annuel de votre secteur, en cohérence avec notre stratégie et notre mix produits\n\n\n- Promouvoir nos gammes de solutions en chauffage, ventilation et solaire sur les marchés résidentiels, collectifs et tertiaires\n\n\n- Animer votre réseau clients à travers des rendez-vous technico-commerciaux à forte valeur ajoutée\n\n\n- Être à l'écoute du marché et assurer une veille concurrentielle active\n\n\n- Assurer un reporting régulier de votre activité et mettre à jour le CRM\n\n\n- Participer au suivi des encaissements liés à votre activité\n\n\n- D",
-      "score": 19,
+      "score": 15,
       "touches": [
         "responsable de secteur (titre)",
         "rse"
@@ -863,7 +824,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 6,
+      "age": 8,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
