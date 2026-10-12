@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-10-09T12:46:23.051Z",
+  "misAJour": "2026-10-12T14:43:17.283Z",
   "total": 20,
   "offres": [
     {
@@ -45,54 +45,10 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 126,
+      "age": 129,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
-      "nouvelle": false
-    },
-    {
-      "id": "7604082",
-      "intitule": "Chargé de Projet Data RH H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7604082",
-      "entreprise": {
-        "nom": "DRH SIRH",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7604082"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-03T04:31:35.664Z",
-      "description": "RESPONSABILITÉS : \n\nDans le cadre de son programme de transformation du SIRH, ORTEC construit et développe son pôle DATA RH. Pour accompagner cette évolution, nous recherchons notre futur Chargé de Projet DATA RH (H/F).\nVous serez rattaché(e) à Mikael, Responsable du Lab RH, et interviendrez au cœur des enjeux data liés au SIRH.\nVous aurez pour objectif de structurer et fiabiliser les indicateurs RH, développer des outils de reporting performants et fournir des analyses à forte valeur ajoutée pour éclairer la prise de décision, tout en accompagnant la transformation et l'amélioration continue du SIRH.\nVotre poste est basé au siège social du Groupe Ortec situé dans le technopôle d'Aix-les-Milles\n\nVos missions clés consisteront notamment à :\nData & Reporting\n - Concevoir, développer et maintenir des tableaux de bord Power BI\n - Garantir la fiabilité, la cohérence et la lisibilité des données\n - Structurer et optimiser les modèles de données\nAnalyse & Pilotage\n - Produire des analyses approfondies des indicateurs RH\n - Identifier anomalies, tendances et axes d'amélioration\n - Traduire les données en impacts financiers et en recommandations opérationnelles\nPrédictif & Aide à la décisio",
-      "score": 68,
-      "touches": [
-        "charge de projet (titre)",
-        "formation",
-        "social",
-        "ess",
-        "solidaire",
-        "environnement",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-05",
       "nouvelle": false
     },
     {
@@ -130,10 +86,54 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 80,
+      "age": 83,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
+      "nouvelle": false
+    },
+    {
+      "id": "7604082",
+      "intitule": "Chargé de Projet Data RH H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7604082",
+      "entreprise": {
+        "nom": "DRH SIRH",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7604082"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-03T04:31:35.664Z",
+      "description": "RESPONSABILITÉS : \n\nDans le cadre de son programme de transformation du SIRH, ORTEC construit et développe son pôle DATA RH. Pour accompagner cette évolution, nous recherchons notre futur Chargé de Projet DATA RH (H/F).\nVous serez rattaché(e) à Mikael, Responsable du Lab RH, et interviendrez au cœur des enjeux data liés au SIRH.\nVous aurez pour objectif de structurer et fiabiliser les indicateurs RH, développer des outils de reporting performants et fournir des analyses à forte valeur ajoutée pour éclairer la prise de décision, tout en accompagnant la transformation et l'amélioration continue du SIRH.\nVotre poste est basé au siège social du Groupe Ortec situé dans le technopôle d'Aix-les-Milles\n\nVos missions clés consisteront notamment à :\nData & Reporting\n - Concevoir, développer et maintenir des tableaux de bord Power BI\n - Garantir la fiabilité, la cohérence et la lisibilité des données\n - Structurer et optimiser les modèles de données\nAnalyse & Pilotage\n - Produire des analyses approfondies des indicateurs RH\n - Identifier anomalies, tendances et axes d'amélioration\n - Traduire les données en impacts financiers et en recommandations opérationnelles\nPrédictif & Aide à la décisio",
+      "score": 64,
+      "touches": [
+        "charge de projet (titre)",
+        "formation",
+        "social",
+        "ess",
+        "solidaire",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 9,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-05",
       "nouvelle": false
     },
     {
@@ -171,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 40,
+      "age": 43,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -210,11 +210,49 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
       "nouvelle": false
+    },
+    {
+      "id": "215CQWZ",
+      "intitule": "Business developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CQWZ",
+      "entreprise": {
+        "nom": "NOVA ENERGIE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "NOVA ENERGIE - Mme FATHIA DESCHAMPS",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215CQWZ",
+        "telephone": null,
+        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215CQWZ",
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/215CQWZ"
+      },
+      "exigences": [],
+      "lieu": "13 - Venelles",
+      "commune": "13113",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-10-12T15:24:07.172Z",
+      "description": "Suite à un accroissement d'activité, nous recherchons un business developer (H/F)\n\nVOS MISSIONS:\nVotre rôle sera de développer le portefeuille client de l'entreprise par une prospection active.\n\nVous serez en charge de :\n-Identifier et prospecter des prospects et clients (BtoB) via téléphone, terrain et digital  \n-Présenter nos offres et convaincre les prospects de rejoindre notre solution énergétique\n - Suivre et relancer les prospects pour conclure les ventes\n - Fidéliser la clientèle et assurer un suivi de qualité.\n-  Travailler en synergie avec l'équipe commerciale et le service client pour garantir la satisfaction client\n\nVOTRE PROFIL :\nNous recherchons avant tout une personnalité dynamique et motivée, prête à relever des défis\nDoté(e) d'un excellent relationnel et d'un bon sens commercial\nEnthousiaste, à l'aise dans l'échange et persévérant(e).\nCapable de travailler de façon autonome tout en aimant le travail en équipe Curieux(se) et désireux(se) d'apprendre et d'évoluer dans le secteur de l'énergie\n\nVotre plus ?\nUne première expérience en vente ou en prospection serait un atout Vous avez une bonne élocution et une forte capacité de persuasion\nLa pratique d'EXCEL est bienvenu",
+      "score": 50,
+      "touches": [
+        "business developer (titre)",
+        "ess (titre)",
+        "rse"
+      ],
+      "alertes": [],
+      "age": -1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-12",
+      "nouvelle": true
     },
     {
       "id": "7100662",
@@ -251,7 +289,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 16,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -291,7 +329,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 92,
+      "age": 95,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -333,7 +371,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 16,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -374,7 +412,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 48,
+      "age": 51,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -414,7 +452,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 3,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
@@ -454,7 +492,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 17,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -495,7 +533,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -538,92 +576,10 @@
         "association"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
-      "nouvelle": false
-    },
-    {
-      "id": "6822782",
-      "intitule": "Business Developer H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6822782",
-      "entreprise": {
-        "nom": "ISIS SANTE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6822782"
-      },
-      "exigences": [],
-      "lieu": "13 - Aubagne",
-      "commune": "13005",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-11T08:06:31.978Z",
-      "description": "Vous êtes motivé par la vente, aimez les défis et souhaitez faire partie d'une équipe dynamique, ce poste est fait pour vous !\nVotre mission (si vous l'acceptez )\n-     Vendre par téléphone\n-     Fidéliser les clients avec un suivi précis des appels : prise de rendez-vous\n-     Analyser rapidement le profil client pour un conseil-vente optimal\n-     Qualification de la base clients\n-     Prospecter pour développer des régions\nVotre profil idéal :\n-     Aisance téléphonique naturelle et goût du défi\n-     Motivé(e) par une rémunération variable non plafonnée\n-     Organisé(e), curieux(se) et déterminé(e)\n-     Capacité d'écoute et force de proposition\nCe que nous vous proposons :\n-     Rémunération motivante fixe + commissions + primes\n-     Des challenges commerciaux réguliers\n-     Des outils\n-     Carte repas (Swile) jusqu'à 25€ par jour\n-     Mutuelle individuelle\n-     Horaires fixes en journée du Lundi au vendredi\n-     Repos le week-end\n-     Poste en présentiel à Aubagne\nEnvie de tenter l'aventure avec nous ?\n Postulez dès maintenant et intégrez une équipe où vos talents sont reconnus et appréciés !\nNotre société est engagée dans la promotion de la diversité et de l'inclusio",
-      "score": 35,
-      "touches": [
-        "business developer (titre)",
-        "ess (titre)"
-      ],
-      "alertes": [
-        "variable non plafonne"
-      ],
-      "age": 28,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-11",
-      "nouvelle": false
-    },
-    {
-      "id": "7572574",
-      "intitule": "Chef de projet HVAC H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7572574",
-      "entreprise": {
-        "nom": "SOM Méditérranée",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7572574"
-      },
-      "exigences": [
-        "40 ans d'expérience demandés"
-      ],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-02T04:32:00.226Z",
-      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Méditerranée, implantée à Marseille, intervient au plus près des sites EDF sur des projets complexes en mécanique, électricité, fluides et génie civil, avec une forte expertise en Sûreté des REP.\nIntégré(e) au sein du bureau d'études, vous interviendrez sur les activités ventilation de l'agence\n\nVotre rôle en tant que Chef de projet HVAC H/F, sera de mener à bien les missions suivantes :\n - Piloter techniquement une équipe d'ingénieurs et de techniciens d'études\n - Garantir le respect des plannings et l'adéquation des charges au sein de l'équipe\n - Assurer le suivi du budget de l'activité et des objectifs de chiffre d'affaires associés\n - Valider et contrôler la qualité technique des études produites dans le domaine HVAC/CVC\n - Participer à l'élaboration des offres techniques et commerciales\n - Assurer le pilotage de la relation client, notamment sur les aspects avancement, qualité et satisfaction\n - Contribuer au développement et à la diversification de l'activité auprès de nouveaux acteurs industriels\n#SOM #LI-CC2\n\nPROFIL RECHERCHÉ : \n\nDiplômé(e) d'une école d'ingénieurs, vous justifiez d' au moins 10 ans d'expérience dans les métiers du HVAC/",
-      "score": 34,
-      "touches": [
-        "chef de projet (titre)",
-        "ess",
-        "environnement",
-        "rse"
-      ],
-      "alertes": [
-        "10 ans d'experience"
-      ],
-      "age": 7,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-02",
       "nouvelle": false
     },
     {
@@ -665,7 +621,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -703,11 +659,54 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 1,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
-      "nouvelle": true
+      "nouvelle": false
+    },
+    {
+      "id": "7572574",
+      "intitule": "Chef de projet HVAC H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7572574",
+      "entreprise": {
+        "nom": "SOM Méditérranée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7572574"
+      },
+      "exigences": [
+        "40 ans d'expérience demandés"
+      ],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-02T04:32:00.226Z",
+      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Méditerranée, implantée à Marseille, intervient au plus près des sites EDF sur des projets complexes en mécanique, électricité, fluides et génie civil, avec une forte expertise en Sûreté des REP.\nIntégré(e) au sein du bureau d'études, vous interviendrez sur les activités ventilation de l'agence\n\nVotre rôle en tant que Chef de projet HVAC H/F, sera de mener à bien les missions suivantes :\n - Piloter techniquement une équipe d'ingénieurs et de techniciens d'études\n - Garantir le respect des plannings et l'adéquation des charges au sein de l'équipe\n - Assurer le suivi du budget de l'activité et des objectifs de chiffre d'affaires associés\n - Valider et contrôler la qualité technique des études produites dans le domaine HVAC/CVC\n - Participer à l'élaboration des offres techniques et commerciales\n - Assurer le pilotage de la relation client, notamment sur les aspects avancement, qualité et satisfaction\n - Contribuer au développement et à la diversification de l'activité auprès de nouveaux acteurs industriels\n#SOM #LI-CC2\n\nPROFIL RECHERCHÉ : \n\nDiplômé(e) d'une école d'ingénieurs, vous justifiez d' au moins 10 ans d'expérience dans les métiers du HVAC/",
+      "score": 30,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 10,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-02",
+      "nouvelle": false
     },
     {
       "id": "6779060",
@@ -742,7 +741,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 29,
+      "age": 32,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -785,7 +784,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 9,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -824,7 +823,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 8,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
