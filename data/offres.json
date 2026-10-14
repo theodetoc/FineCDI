@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-10-12T14:43:17.283Z",
+  "misAJour": "2026-10-14T11:23:59.119Z",
   "total": 20,
   "offres": [
     {
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 129,
+      "age": 131,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
@@ -86,7 +86,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 83,
+      "age": 85,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -130,7 +130,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-05",
@@ -171,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 43,
+      "age": 45,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -210,7 +210,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -248,11 +248,11 @@
         "rse"
       ],
       "alertes": [],
-      "age": -1,
+      "age": 1,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "7100662",
@@ -289,7 +289,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 20,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -329,7 +329,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 95,
+      "age": 97,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -371,7 +371,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -412,50 +412,10 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 51,
+      "age": 53,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
-      "nouvelle": false
-    },
-    {
-      "id": "7700091",
-      "intitule": "Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7700091",
-      "entreprise": {
-        "nom": "Media-Start",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7700091"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-10-06T08:06:13.130Z",
-      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
-      "score": 42,
-      "touches": [
-        "business developer (titre)",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-07",
       "nouvelle": false
     },
     {
@@ -492,7 +452,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -533,10 +493,50 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
+      "nouvelle": false
+    },
+    {
+      "id": "7700091",
+      "intitule": "Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7700091",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7700091"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-10-06T08:06:13.130Z",
+      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
+      "score": 38,
+      "touches": [
+        "business developer (titre)",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-07",
       "nouvelle": false
     },
     {
@@ -576,7 +576,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 16,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -621,7 +621,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -659,7 +659,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -702,7 +702,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 10,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -741,7 +741,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 32,
+      "age": 34,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -784,7 +784,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -823,7 +823,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 12,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
