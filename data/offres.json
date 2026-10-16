@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-10-14T11:23:59.119Z",
-  "total": 20,
+  "misAJour": "2026-10-16T10:56:22.912Z",
+  "total": 21,
   "offres": [
     {
       "id": "209GTKZ",
@@ -45,7 +45,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 131,
+      "age": 133,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-25",
@@ -86,7 +86,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 85,
+      "age": 87,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -130,7 +130,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-05",
@@ -171,7 +171,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 45,
+      "age": 47,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -210,7 +210,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -248,7 +248,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 1,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
@@ -289,7 +289,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -329,7 +329,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 97,
+      "age": 99,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -371,7 +371,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -412,7 +412,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 53,
+      "age": 55,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -452,11 +452,51 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 22,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
       "nouvelle": false
+    },
+    {
+      "id": "7930520",
+      "intitule": "Chef de projet H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7930520",
+      "entreprise": {
+        "nom": "SEBIM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7930520"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Saint-Victoret",
+      "commune": "13102",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-15T01:01:57.445Z",
+      "description": "Rattaché(e) au Responsable département Projet, il/elle est l'interlocuteur privilégié du client dans l'entreprise, il/elle s'assure de l'atteinte des objectifs Coût/Qualité/Délai/Sécurité des projets dont il/elle se charge, de la prise de commande à la fin de la période de garantie.\n\n\nPlus précisément, ses missions sont :\n\n\n-         Analyser et formaliser le scope,\n\n\n-         Organiser et animer des réunions de lancement (internes et externes),\n\n\n-         Lancer la commande et diffuser le FSA,\n\n\n-         Vérifier l'acceptabilité de la commande,\n\n\n-         Etablir le planning macro des activités et les jalons du projet (inclues livrables documentaires),\n\n\n-         Planifier l'échéancier de facturation et de paiement,\n\n\n-         Optimiser les couts et établir le budget,\n\n\n-         Gérer les risques (identification, analyse qualitative/quantitative, réponses,.),\n\n\n-         Assurer la gestion des avenants des commandes,\n\n\n-         Gérer les visites clients et inspecteurs,\n\n\n-         Faire un reporting client et hiérarchique sur l'avancement des contrats,\n\n\n-         Conduire un REX (SQCD),\n\n\n-         Assurer un suivi de l'avancement de facturation et paiement,\n\n\n-         C",
+      "score": 40,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-16",
+      "nouvelle": true
     },
     {
       "id": "7497847",
@@ -493,7 +533,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -533,7 +573,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 8,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
@@ -576,7 +616,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -621,48 +661,10 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 14,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
-      "nouvelle": false
-    },
-    {
-      "id": "7766792",
-      "intitule": "Business Development Manager (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7766792",
-      "entreprise": {
-        "nom": "Media-Start",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7766792"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-10-08T08:06:06.196Z",
-      "description": "Vos missions :\n \nEn tant que Business Development Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et l",
-      "score": 32,
-      "touches": [
-        "business developer",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-09",
       "nouvelle": false
     },
     {
@@ -702,7 +704,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -741,10 +743,48 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 34,
+      "age": 36,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
+      "nouvelle": false
+    },
+    {
+      "id": "7766792",
+      "intitule": "Business Development Manager (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7766792",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7766792"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-10-08T08:06:06.196Z",
+      "description": "Vos missions :\n \nEn tant que Business Development Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et l",
+      "score": 28,
+      "touches": [
+        "business developer",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-09",
       "nouvelle": false
     },
     {
@@ -784,7 +824,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 14,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -823,7 +863,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
