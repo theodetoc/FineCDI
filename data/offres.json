@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-10-19T12:28:08.158Z",
+  "misAJour": "2026-10-21T11:21:37.500Z",
   "total": 21,
   "offres": [
     {
@@ -37,7 +37,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 90,
+      "age": 92,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -81,7 +81,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 16,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-05",
@@ -122,7 +122,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 50,
+      "age": 52,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -161,7 +161,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -192,14 +192,14 @@
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-10-12T15:24:07.172Z",
       "description": "Suite à un accroissement d'activité, nous recherchons un business developer (H/F)\n\nVOS MISSIONS:\nVotre rôle sera de développer le portefeuille client de l'entreprise par une prospection active.\n\nVous serez en charge de :\n-Identifier et prospecter des prospects et clients (BtoB) via téléphone, terrain et digital  \n-Présenter nos offres et convaincre les prospects de rejoindre notre solution énergétique\n - Suivre et relancer les prospects pour conclure les ventes\n - Fidéliser la clientèle et assurer un suivi de qualité.\n-  Travailler en synergie avec l'équipe commerciale et le service client pour garantir la satisfaction client\n\nVOTRE PROFIL :\nNous recherchons avant tout une personnalité dynamique et motivée, prête à relever des défis\nDoté(e) d'un excellent relationnel et d'un bon sens commercial\nEnthousiaste, à l'aise dans l'échange et persévérant(e).\nCapable de travailler de façon autonome tout en aimant le travail en équipe Curieux(se) et désireux(se) d'apprendre et d'évoluer dans le secteur de l'énergie\n\nVotre plus ?\nUne première expérience en vente ou en prospection serait un atout Vous avez une bonne élocution et une forte capacité de persuasion\nLa pratique d'EXCEL est bienvenu",
-      "score": 50,
+      "score": 46,
       "touches": [
         "business developer (titre)",
         "ess (titre)",
         "rse"
       ],
       "alertes": [],
-      "age": 6,
+      "age": 8,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
@@ -240,7 +240,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -280,7 +280,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 102,
+      "age": 104,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -322,7 +322,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -363,7 +363,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 58,
+      "age": 60,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -403,7 +403,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 27,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -443,7 +443,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-16",
@@ -484,7 +484,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -524,7 +524,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
@@ -565,11 +565,11 @@
         "ess"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-19",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "7404842",
@@ -608,7 +608,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 23,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -653,7 +653,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -696,7 +696,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -735,7 +735,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 39,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -773,7 +773,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -816,7 +816,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 19,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -855,7 +855,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
