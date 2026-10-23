@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-10-21T11:21:37.500Z",
-  "total": 21,
+  "misAJour": "2026-10-23T11:11:13.475Z",
+  "total": 25,
   "offres": [
     {
       "id": "5184468",
@@ -37,7 +37,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 92,
+      "age": 94,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -81,7 +81,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-05",
@@ -122,7 +122,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 52,
+      "age": 54,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
@@ -161,7 +161,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -199,51 +199,10 @@
         "rse"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
-      "nouvelle": false
-    },
-    {
-      "id": "7100662",
-      "intitule": "Responsable de Secteur Commercial H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7100662",
-      "entreprise": {
-        "nom": "GROUPAMA MEDITERRANEE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7100662"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-22T14:36:14.583Z",
-      "description": "?? Responsable de Secteur Commercial (H/F) - Secteur de Marseille\nGroupama Méditerranée recrute un(e) Responsable de Secteur Commercial pour piloter et animer son réseau d'agences sur le secteur de Marseille, territoire clé de notre développement.\n?? Votre mission\nEn tant que Responsable de Secteur, vous jouerez un rôle clé pour garantir l'excellence opérationnelle, tout en étant un manager inspirant et un coach pour vos équipes.\nVous aurez la responsabilité de piloter l'intégralité du réseau commercial du marché des particuliers ainsi que du Pôle Privilège, en veillant à la performance et à la cohérence de l'ensemble.\nMais encore :\n- Encadrer et accompagner les équipes : (conseiller commercial agence, Conseiller relation urbaine, conseiller développement urbain) pour garantir leur développement professionnel et leur montée en compétences ;\n- Insuffler une culture de la satisfaction client, en veillant à ce que chaque sociétaire bénéficie d'un accompagnement humain et réactif ;\n- Piloter et analyser les résultats commerciaux, sur les différents outils mise à disposition.\n- Veiller à maintenir et développer un accompagnement de qualité en faveur du développement des compétences de v",
-      "score": 45,
-      "touches": [
-        "responsable de secteur (titre)",
-        "formation",
-        "ess",
-        "environnement",
-        "rse",
-        "territoire"
-      ],
-      "alertes": [],
-      "age": 28,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
@@ -280,53 +239,176 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 104,
+      "age": 106,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
       "nouvelle": false
     },
     {
-      "id": "7105184",
-      "intitule": "Chargé de développement commercial (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7105184",
+      "id": "215PFPY",
+      "intitule": "Chef de projet Act terrestre H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PFPY",
       "entreprise": {
-        "nom": "CODA INTERIM",
+        "nom": "CNIM SYSTEMES INDUSTRIELS",
         "url": null,
         "trancheEffectif": null,
         "siret": null
       },
       "contact": {
-        "nom": null,
+        "nom": "CNIM SYSTEMES INDUSTRIELS - X ELISE PAYOT",
         "courriel": null,
         "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7105184"
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/820994?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/820994?utm_source=NQ=="
+      },
+      "exigences": [
+        "Bac+5 exigé",
+        "courant anglais courant"
+      ],
+      "lieu": "83 - Seyne-sur-Mer",
+      "commune": "83126",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-23T01:03:06.106Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nVous souhaitez piloter un projet d'envergure internationale, stratégique pour l'entreprise et à fort impact opérationnel ? Rejoignez une équipe engagée sur le programme des Ponts Flottants Motorisés destinés à l'armée polonaise.\n\n\nSuite à une évolution interne, nous recherchons notre nouveau Chef de Projet pour prendre les commandes de ce programme majeur.\n\n\n \n\n\nVos défis\n\n\nÀ la tête d'un projet à plusieurs millions d'euros, vous serez responsable du pilotage global de l'affaire, de la maîtrise des enjeux techniques, contractuels, financiers et relationnels.\n\n\nAccompagné(e) d'un Chef de projet adjoint, vous devrez être capable de passer d'une vision opérationnelle, au plus près du terrain et de la résolution des problématiques techniques, à une vision stratégique afin d'anticiper les prochaines étapes du programme.\n\n\nVous évoluerez au cœur d'un environnement international en coordonnant de nombreux interlocuteurs : bureaux d'études, ateliers de production, essais, ordonnancement, contrôle export, sous-traitants, autorités étatiques et militaires, en France comme en Pologne.\n\n\nVotre expertise en contract ma",
+      "score": 44,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-23",
+      "nouvelle": true
+    },
+    {
+      "id": "215MQSC",
+      "intitule": "Chef de projets offres / contrats  H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MQSC",
+      "entreprise": {
+        "nom": "CNIM SYSTEMES INDUSTRIELS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "CNIM SYSTEMES INDUSTRIELS - X ELISE PAYOT",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/825077?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/825077?utm_source=NQ=="
+      },
+      "exigences": [
+        "Bac+5 exigé",
+        "courant anglais courant"
+      ],
+      "lieu": "83 - Seyne-sur-Mer",
+      "commune": "83126",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-21T14:24:30.817Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Défense, rattaché(e) au Responsable de l'activité franchissement, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements militaires terrestres destinés aux forces françaises et à l'export.\n\n\n\nPour mener à bien votre mission, vous devrez :\n\n\nSur la phase offre, vous devrez :\n\n\n\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à partir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risques",
+      "score": 44,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-23",
+      "nouvelle": true
+    },
+    {
+      "id": "215MQMB",
+      "intitule": "CHEF DE PROJETS OFFRES CONTRATS NUCLEAIRE H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MQMB",
+      "entreprise": {
+        "nom": "CNIM SYSTEMES INDUSTRIELS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "CNIM SYSTEMES INDUSTRIELS - X ELISE PAYOT",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/824938?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/824938?utm_source=NQ=="
+      },
+      "exigences": [
+        "Bac+5 exigé",
+        "courant anglais courant"
+      ],
+      "lieu": "83 - Seyne-sur-Mer",
+      "commune": "83126",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-21T14:24:27.389Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Nucléaire, rattaché(e) au Responsable de l'activité Nucléaire, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements destinés à\nl'industrie Nucléaire, pour les grands donneurs d'ordre français ou internationaux.\n\n\n\nPour mener à bien votre mission sur la phase offre, vous devrez :\n\n\n\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à\npartir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n\n\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n\n\n\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n\n\n\n- Etablir le make-or-buy et le montage industriel.\n\n\n\n- Monter les éventuels partenariats appropriés.\n\n\n\n- Établir et optimiser un prix de revient robuste.\n\n\n\n- Identifier e",
+      "score": 44,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-23",
+      "nouvelle": true
+    },
+    {
+      "id": "215PGDP",
+      "intitule": "Chef de Projet Nouvelle Usine H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PGDP",
+      "entreprise": {
+        "nom": "EUROS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "EUROS - X Diana NIRISSIAN",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/826601?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/826601?utm_source=NQ=="
       },
       "exigences": [],
       "lieu": "13 - Ciotat",
       "commune": "13028",
       "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-23T03:22:26.321Z",
-      "description": "Description du poste :\n\nDans le cadre du développement de nos clients Grands Comptes et afin de renforcer notre présence sur notre axe de prédilection Paris-Lyon-Marseille, nous recherchons un(e)  Responsable développement Grands Comptes H/F  en CDI.\n\nVous aimez relever des défis, développer votre portefeuille clients et évoluer dans un environnement stimulant ? Ce poste est fait pour vous !\n\nNos activités sont essentiellement orientées vers la logistique, les activités aéroportuaires, la maintenance, la restauration collective et le second œuvre.\n\nVotre mission : développer, prospecter et fidéliser\n\nVous êtes en charge de développer les Grands Comptes APRIME déjà signés.\n\nA ce titre, vous serez amenés(e) à Démarcher et rencontrer les responsables locaux;\n* Coordonner les actions des recrutements demandés avec les agences;\n* Anticiper les besoins exprimés par les responsables de site;\n* Adhérent(e) du réseau APRIME, vous participerez aux relations avec l'association afin de contribuer au développement de nouveaux accords.\n\nDescription du profil :\n\nCe qui vous permettra de réussir à ce poste Vous avez un réel goût pour le développement commercial B to B, aussi bien par téléphone que",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-23T01:03:11.520Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nMISSION :\n\n\nPiloter la conception, la construction et la mise en service de la nouvelle usine, dans le respect du planning, du budget et des exigences réglementaires et qualité, en assurant l'interface avec l'architecte, la maîtrise d'œuvre (MOE) et l'ensemble des parties prenantes internes et externes.\n\n\n1.Missions principales\n\n\n- Pilotage du planning global du projet - élaboration, suivi et mise à jour du planning directeur (études, autorisations, travaux, réception), coordination des jalons avec l'ensemble des intervenants. Le planning intègre l'ensemble du chantier : bâtiment, équipements et investissements machines, qualification/validation et organisation.\n\n\n-Recueil des besoins métiers et co-construction de l'organisation physique - animation de réunions avec l'ensemble des responsables de service (production, qualité, logistique, maintenance, HSE, R&D, industrialisation, IT) pour recueillir leurs contraintes, leurs volumes cibles et leur vision, et traduire ces éléments dans les scénarios d'implantation, de flux et de dimensionnement soumis à la direction et à l'architecte.\n\n\n-Relation avec l'archi",
       "score": 44,
       "touches": [
-        "charge de developpement (titre)",
+        "chef de projet (titre)",
+        "formation",
         "ess",
-        "association",
-        "environnement",
-        "rse"
+        "environnement"
       ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 28,
+      "alertes": [],
+      "age": 0,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-23",
-      "nouvelle": false
+      "vueLe": "2026-10-23",
+      "nouvelle": true
     },
     {
       "id": "6187542",
@@ -363,7 +445,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 60,
+      "age": 62,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -403,16 +485,16 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 29,
+      "age": 31,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
-      "id": "7930520",
+      "id": "215MPBS",
       "intitule": "Chef de projet H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7930520",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MPBS",
       "entreprise": {
         "nom": "SEBIM",
         "url": null,
@@ -420,11 +502,11 @@
         "siret": null
       },
       "contact": {
-        "nom": null,
+        "nom": "SEBIM - X Jessica VIVIER",
         "courriel": null,
         "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7930520"
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/835905?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/835905?utm_source=NQ=="
       },
       "exigences": [
         "Bac+5 exigé"
@@ -434,8 +516,8 @@
       "contrat": "CDI",
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-15T01:01:57.445Z",
-      "description": "Rattaché(e) au Responsable département Projet, il/elle est l'interlocuteur privilégié du client dans l'entreprise, il/elle s'assure de l'atteinte des objectifs Coût/Qualité/Délai/Sécurité des projets dont il/elle se charge, de la prise de commande à la fin de la période de garantie.\n\n\nPlus précisément, ses missions sont :\n\n\n-         Analyser et formaliser le scope,\n\n\n-         Organiser et animer des réunions de lancement (internes et externes),\n\n\n-         Lancer la commande et diffuser le FSA,\n\n\n-         Vérifier l'acceptabilité de la commande,\n\n\n-         Etablir le planning macro des activités et les jalons du projet (inclues livrables documentaires),\n\n\n-         Planifier l'échéancier de facturation et de paiement,\n\n\n-         Optimiser les couts et établir le budget,\n\n\n-         Gérer les risques (identification, analyse qualitative/quantitative, réponses,.),\n\n\n-         Assurer la gestion des avenants des commandes,\n\n\n-         Gérer les visites clients et inspecteurs,\n\n\n-         Faire un reporting client et hiérarchique sur l'avancement des contrats,\n\n\n-         Conduire un REX (SQCD),\n\n\n-         Assurer un suivi de l'avancement de facturation et paiement,\n\n\n-         C",
+      "dateCreation": "2026-10-21T14:24:04.785Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nRattaché(e) au Responsable département Projet, il/elle est l'interlocuteur privilégié du client dans l'entreprise, il/elle s'assure de l'atteinte des objectifs Coût/Qualité/Délai/Sécurité des projets dont il/elle se charge, de la prise de commande à la fin de la période de garantie.\n\n\nPlus précisément, ses missions sont :\n\n\n-         Analyser et formaliser le scope,\n\n\n-         Organiser et animer des réunions de lancement (internes et externes),\n\n\n-         Lancer la commande et diffuser le FSA,\n\n\n-         Vérifier l'acceptabilité de la commande,\n\n\n-         Etablir le planning macro des activités et les jalons du projet (inclues livrables documentaires),\n\n\n-         Planifier l'échéancier de facturation et de paiement,\n\n\n-         Optimiser les couts et établir le budget,\n\n\n-         Gérer les risques (identification, analyse qualitative/quantitative, réponses,.),\n\n\n-         Assurer la gestion des avenants des commandes,\n\n\n-         Gérer les visites clients et inspecteurs,\n\n\n-         Faire un reporting client et hiérarchique sur l'avancement des contrats,\n\n\n-         Conduire un REX (SQCD),\n\n\n-      ",
       "score": 40,
       "touches": [
         "chef de projet (titre)",
@@ -443,11 +525,11 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 6,
+      "age": 1,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-16",
-      "nouvelle": false
+      "vueLe": "2026-10-23",
+      "nouvelle": true
     },
     {
       "id": "7497847",
@@ -484,7 +566,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -524,11 +606,52 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 15,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
       "nouvelle": false
+    },
+    {
+      "id": "215MMYB",
+      "intitule": "Chef de Projet HVAC - Aéraulique & Thermique (F/H) H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MMYB",
+      "entreprise": {
+        "nom": "EUREVIA",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "EUREVIA - X Sera DUFOI",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/836473?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/836473?utm_source=NQ=="
+      },
+      "exigences": [
+        "Bac+5 exigé",
+        "professionnel anglais courant"
+      ],
+      "lieu": "13 - Ciotat",
+      "commune": "13028",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-21T14:23:47.497Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nRattaché(e) au Directeur Général, vous pilotez des projets HVAC de l'analyse du besoin client jusqu'à la livraison, en assurant la définition des solutions techniques et la vérification de leurs performances.\n\n\nVotre activité s'équilibre entre pilotage de projets et d'affaires (50 %) et études techniques, dimensionnement et vérification des performances (50 %).\n\n\nVous intervenez notamment sur les ventilo-convecteurs et leurs batteries d'échange, en lien avec les équipes internes, les clients et les partenaires techniques.\n\n\nVos responsabilités\n\n\nPilotage de projets et d'affaires - 50 %\n\n\nAnalyser les cahiers des charges et les besoins clients, puis définir les solutions techniques adaptées.\nPiloter les projets de bout en bout : planning, coûts, risques, coordination des intervenants et livrables.\nAssurer l'interface technique avec les clients, les fournisseurs et les partenaires.\nÉlaborer les propositions techniques et assurer le suivi des affaires jusqu'à leur livraison.\nCoordonner les essais, les validations et les démarches de certification nécessaires.\nPréparer et mettre à jour les spécifications, noti",
+      "score": 37,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-23",
+      "nouvelle": true
     },
     {
       "id": "8034297",
@@ -565,7 +688,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-19",
@@ -608,10 +731,50 @@
         "association"
       ],
       "alertes": [],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
+      "nouvelle": false
+    },
+    {
+      "id": "7930520",
+      "intitule": "Chef de projet H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7930520",
+      "entreprise": {
+        "nom": "SEBIM",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7930520"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Saint-Victoret",
+      "commune": "13102",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-15T01:01:57.445Z",
+      "description": "Rattaché(e) au Responsable département Projet, il/elle est l'interlocuteur privilégié du client dans l'entreprise, il/elle s'assure de l'atteinte des objectifs Coût/Qualité/Délai/Sécurité des projets dont il/elle se charge, de la prise de commande à la fin de la période de garantie.\n\n\nPlus précisément, ses missions sont :\n\n\n-         Analyser et formaliser le scope,\n\n\n-         Organiser et animer des réunions de lancement (internes et externes),\n\n\n-         Lancer la commande et diffuser le FSA,\n\n\n-         Vérifier l'acceptabilité de la commande,\n\n\n-         Etablir le planning macro des activités et les jalons du projet (inclues livrables documentaires),\n\n\n-         Planifier l'échéancier de facturation et de paiement,\n\n\n-         Optimiser les couts et établir le budget,\n\n\n-         Gérer les risques (identification, analyse qualitative/quantitative, réponses,.),\n\n\n-         Assurer la gestion des avenants des commandes,\n\n\n-         Gérer les visites clients et inspecteurs,\n\n\n-         Faire un reporting client et hiérarchique sur l'avancement des contrats,\n\n\n-         Conduire un REX (SQCD),\n\n\n-         Assurer un suivi de l'avancement de facturation et paiement,\n\n\n-         C",
+      "score": 36,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-16",
       "nouvelle": false
     },
     {
@@ -653,7 +816,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 21,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -696,7 +859,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -735,7 +898,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 41,
+      "age": 43,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -773,7 +936,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -816,7 +979,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -855,7 +1018,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
