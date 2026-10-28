@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-10-26T12:27:15.704Z",
-  "total": 26,
+  "misAJour": "2026-10-28T12:19:04.064Z",
+  "total": 25,
   "offres": [
     {
       "id": "5184468",
@@ -37,7 +37,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 97,
+      "age": 99,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -81,7 +81,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 23,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-05",
@@ -92,7 +92,7 @@
       "intitule": "Responsable développement / Business Developer (H/F)",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6425671",
       "entreprise": {
-        "nom": "ELOCE",
+        "nom": "WALTER LEARNING",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -122,11 +122,53 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 57,
+      "age": 59,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-31",
       "nouvelle": false
+    },
+    {
+      "id": "215RWPP",
+      "intitule": "Chargé de missions partenariats (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RWPP",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/215RWPP"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - MARSEILLE 02",
+      "commune": "13202",
+      "contrat": "CDI",
+      "romeCode": "K1802",
+      "romeLibelle": "Chargé / Chargée de développement économique et local",
+      "dateCreation": "2026-10-27T09:54:10.290Z",
+      "description": "Transitions Pro PACA (ex Fongecif PACA) est une association Loi 1901 qui bénéficie d'un agrément du Ministère du Travail notamment pour gérer avec performance le dispositif « Projet de Transition Professionnelle (PTP) », issu de la loi du 5 Septembre 2018 pour la liberté de choisir son avenir professionnel.\nSous certaines conditions, les salariés bénéficient d'un droit à congé pour changer de métier, et peuvent obtenir la prise en charge par Transitions Pro du coût de leur formation et du maintien de leur rémunération.\n\nMobilisée pour accompagner les salariés dans la réussite de leur projet de reconversion, Transitions Pro PACA recherche un/une chargé(e) de missions partenariats.\n\nPrincipales missions :\n- Prospecter, échanger et aller à la rencontre notamment de nouveaux partenaires pour concourir à développer la demande (PTP, PUR, etc.) en lien avec nos priorités, et contribuer à faire rayonner la structure ;\n- Négocier la mise en place de conventions, notamment financières, et assurer leur opérationnalisation, pilotage et suivi ;\n- Maîtriser l'animation de réunions, d'ateliers, de webinaires, la prise de parole en public, mais aussi l'animation d'un réseau de partenaires, et la c",
+      "score": 61,
+      "touches": [
+        "charge de mission (titre)",
+        "chargee de mission",
+        "formation",
+        "ess",
+        "association"
+      ],
+      "alertes": [],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-28",
+      "nouvelle": true
     },
     {
       "id": "214PGWX",
@@ -161,7 +203,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -205,11 +247,11 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-26",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "215CQWZ",
@@ -243,7 +285,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
@@ -283,7 +325,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 109,
+      "age": 111,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -316,7 +358,7 @@
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
       "dateCreation": "2026-10-23T01:03:06.106Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nVous souhaitez piloter un projet d'envergure internationale, stratégique pour l'entreprise et à fort impact opérationnel ? Rejoignez une équipe engagée sur le programme des Ponts Flottants Motorisés destinés à l'armée polonaise.\n\nSuite à une évolution interne, nous recherchons notre nouveau Chef de Projet pour prendre les commandes de ce programme majeur.\n\nVos défis\n\nÀ la tête d'un projet à plusieurs millions d'euros, vous serez responsable du pilotage global de l'affaire, de la maîtrise des enjeux techniques, contractuels, financiers et relationnels.\nAccompagné(e) d'un Chef de projet adjoint, vous devrez être capable de passer d'une vision opérationnelle, au plus près du terrain et de la résolution des problématiques techniques, à une vision stratégique afin d'anticiper les prochaines étapes du programme.\nVous évoluerez au cœur d'un environnement international en coordonnant de nombreux interlocuteurs : bureaux d'études, ateliers de production, essais, ordonnancement, contrôle export, sous-traitants, autorités étatiques et militaires, en France comme en Pologne.\nVotre expertise en contrat management vous ",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nVous souhaitez piloter un projet d'envergure internationale, stratégique pour l'entreprise et à fort impact opérationnel ? Rejoignez une équipe engagée sur le programme des Ponts Flottants Motorisés destinés à l'armée polonaise.\n\nSuite à une évolution interne, nous recherchons notre nouveau Chef de Projet pour prendre les commandes de ce programme majeur.\n\nVos défis\n\nÀ la tête d'un projet à plusieurs millions d'euros, vous serez responsable du pilotage global de l'affaire, de la maîtrise des enjeux techniques, contractuels, financiers et relationnels.\n\nAccompagné(e) d'un Chef de projet adjoint, vous devrez être capable de passer d'une vision opérationnelle, au plus près du terrain et de la résolution des problématiques techniques, à une vision stratégique afin d'anticiper les prochaines étapes du programme.\n\nVous évoluerez au cœur d'un environnement international en coordonnant de nombreux interlocuteurs : bureaux d'études, ateliers de production, essais, ordonnancement, contrôle export, sous-traitants, autorités étatiques et militaires, en France comme en Pologne.\n\nVotre expertise en contrat management vo",
       "score": 44,
       "touches": [
         "chef de projet (titre)",
@@ -325,7 +367,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -358,7 +400,7 @@
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
       "dateCreation": "2026-10-21T14:24:30.817Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Défense, rattaché(e) au Responsable de l'activité franchissement, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements militaires terrestres destinés aux forces françaises et à l'export.\n\nPour mener à bien votre mission, vous devrez :\n\nSur la phase offre, vous devrez :\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à partir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risques et op",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Défense, rattaché(e) au Responsable de l'activité franchissement, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements militaires terrestres destinés aux forces françaises et à l'export.\n\nPour mener à bien votre mission,  :\n\nSur la phase offre, vous devrez :\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à partir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risques et opportunités ",
       "score": 44,
       "touches": [
         "chef de projet (titre)",
@@ -367,7 +409,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -400,7 +442,7 @@
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
       "dateCreation": "2026-10-21T14:24:27.389Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Nucléaire, rattaché(e) au Responsable de l'activité Nucléaire, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements destinés à\nl'industrie Nucléaire, pour les grands donneurs d'ordre français ou internationaux.\n\nPour mener à bien votre mission sur la phase offre, vous devrez :\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à\npartir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appr- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risques et op",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Nucléaire, rattaché(e) au Responsable de l'activité Nucléaire, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements destinés à\nl'industrie Nucléaire, pour les grands donneurs d'ordre français ou internationaux.\n\nPour mener à bien votre mission sur la phase offre, vous devrez :\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à\npartir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risqu",
       "score": 44,
       "touches": [
         "chef de projet (titre)",
@@ -409,7 +451,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -448,7 +490,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -489,7 +531,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 65,
+      "age": 67,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -529,7 +571,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 34,
+      "age": 36,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -569,51 +611,10 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
-      "nouvelle": false
-    },
-    {
-      "id": "7497847",
-      "intitule": "Chef de projet IT eCom H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497847",
-      "entreprise": {
-        "nom": "PONANT EXPLORATIONS",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497847"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-30T04:32:03.949Z",
-      "description": "RESPONSABILITÉS : \n\nEn tant que Product Owner, vous serez responsable du delivery produit sur votre périmètre applicatif et vous contribuerez à maximiser la valeur métier en transformant les besoins des utilisateurs et des métiers en solutions performantes.\nAinsi, vos missions seront les suivantes :\n - Définir et porter la vision produit opérationnelle sur votre périmètre applicatif,\n - Recueillir, analyser et formaliser les besoins des utilisateurs et des métiers,\n - Construire, maintenir et prioriser le backlog produit en fonction de la valeur métier et des enjeux de l'activité,\n - Rédiger les User Stories et les spécifications fonctionnelles en garantissant leur clarté et leur testabilité,\n - Animer les ateliers fonctionnels et faciliter la collaboration entre les équipes métiers, techniques et les partenaires externes,\n - Piloter le delivery produit, suivre l'avancement des développements et anticiper les risques afin de garantir le respect des engagements,\n - Coordonner les phases de tests, de recette métier, de validation et de mise en production,\n - Accompagner les utilisateurs dans l'adoption des nouvelles fonctionnalités et analyser leurs retours pour identifier les axes d",
-      "score": 40,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess",
-        "environnement"
-      ],
-      "alertes": [],
-      "age": 26,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-30",
       "nouvelle": false
     },
     {
@@ -650,7 +651,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
@@ -668,10 +669,10 @@
       },
       "contact": {
         "nom": "EUREVIA - X Sera DUFOI",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215MMYB",
+        "courriel": null,
         "telephone": null,
-        "coordonnees": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215MMYB",
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/215MMYB"
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/836473?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/836473?utm_source=NQ=="
       },
       "exigences": [
         "Bac+5 exigé",
@@ -691,51 +692,10 @@
         "ess"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
-      "nouvelle": false
-    },
-    {
-      "id": "8034297",
-      "intitule": "Chef de Projet HVAC - Aéraulique & Thermique (F/H) H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8034297",
-      "entreprise": {
-        "nom": "EUREVIA",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8034297"
-      },
-      "exigences": [
-        "Bac+5 exigé",
-        "professionnel anglais courant"
-      ],
-      "lieu": "13 - Ciotat",
-      "commune": "13028",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-19T01:02:05.807Z",
-      "description": "Rattaché(e) au Directeur Général, vous pilotez des projets HVAC de l'analyse du besoin client jusqu'à la livraison, en assurant la définition des solutions techniques et la vérification de leurs performances.\n\n\nVotre activité s'équilibre entre pilotage de projets et d'affaires (50 %) et études techniques, dimensionnement et vérification des performances (50 %).\n\n\nVous intervenez notamment sur les ventilo-convecteurs et leurs batteries d'échange, en lien avec les équipes internes, les clients et les partenaires techniques.\n\n\nVos responsabilités\n\n\nPilotage de projets et d'affaires - 50 %\n\n\nAnalyser les cahiers des charges et les besoins clients, puis définir les solutions techniques adaptées.\nPiloter les projets de bout en bout : planning, coûts, risques, coordination des intervenants et livrables.\nAssurer l'interface technique avec les clients, les fournisseurs et les partenaires.\nÉlaborer les propositions techniques et assurer le suivi des affaires jusqu'à leur livraison.\nCoordonner les essais, les validations et les démarches de certification nécessaires.\nPréparer et mettre à jour les spécifications, notices et dossiers techniques.\n\n\nÉtudes aérauliques et thermiques - 50 %\n\n\nRéali",
-      "score": 37,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess"
-      ],
-      "alertes": [],
-      "age": 7,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-19",
       "nouvelle": false
     },
     {
@@ -743,7 +703,7 @@
       "intitule": "Formateur / Formatrice (H/F)",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7404842",
       "entreprise": {
-        "nom": "CROIX ROUGE FRANCAISE",
+        "nom": "Croix-rouge française",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -775,7 +735,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 30,
+      "age": 32,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -815,18 +775,18 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-16",
       "nouvelle": false
     },
     {
-      "id": "7497675",
-      "intitule": "Chef de projet ferroviaire Senior H/F - 13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7497675",
+      "id": "8034297",
+      "intitule": "Chef de Projet HVAC - Aéraulique & Thermique (F/H) H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8034297",
       "entreprise": {
-        "nom": "SOM Sud",
+        "nom": "EUREVIA",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -836,34 +796,30 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7497675"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8034297"
       },
       "exigences": [
-        "40 ans d'expérience demandés",
-        "Bac+5 exigé"
+        "Bac+5 exigé",
+        "professionnel anglais courant"
       ],
-      "lieu": "13 - Marseille 2e Arrondissement",
-      "commune": "13202",
+      "lieu": "13 - Ciotat",
+      "commune": "13028",
       "contrat": "CDI",
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-30T04:31:57.123Z",
-      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Sud, implantée à Martigues, met son savoir-faire au service des industriels du bassin méditerranéen pour des missions de conception, d'arrêts d'unité et de performance.\nIntégré(e) à un contrat en CDI sur projet sur le site client dans les Bouches-du-Rhône, vous assurerez une prestation d'assistance technique sur un poste de Chef de projet Senior dans le domaine Ferroviaire.\nVotre rôle en tant que Chef de projet Senior Ferroviaire, sera de mener à bien les missions suivantes :\n -  Intégration et consolidation des plannings\nConsolider les plannings des différentes opérations à l'échelle d'un département.\nConstruire une vision assemblée des projets et des interfaces.\nVérifier la cohérence entre les différents niveaux de planification.\nGarantir l'intégration des jalons stratégiques et des mises en service.\n -  Analyse des interfaces et des chemins critiques\n - Identifier les chemins critiques multi-opérations.\n - Mettre en évidence les interfaces sensibles entre opérations.\n - Analyser les impacts des décalages de planning.\n - Proposer des scénarios alternatifs et mesures correctives.\n - Réaliser des analyses multicritères permettant les arbitrages ",
+      "dateCreation": "2026-10-19T01:02:05.807Z",
+      "description": "Rattaché(e) au Directeur Général, vous pilotez des projets HVAC de l'analyse du besoin client jusqu'à la livraison, en assurant la définition des solutions techniques et la vérification de leurs performances.\n\n\nVotre activité s'équilibre entre pilotage de projets et d'affaires (50 %) et études techniques, dimensionnement et vérification des performances (50 %).\n\n\nVous intervenez notamment sur les ventilo-convecteurs et leurs batteries d'échange, en lien avec les équipes internes, les clients et les partenaires techniques.\n\n\nVos responsabilités\n\n\nPilotage de projets et d'affaires - 50 %\n\n\nAnalyser les cahiers des charges et les besoins clients, puis définir les solutions techniques adaptées.\nPiloter les projets de bout en bout : planning, coûts, risques, coordination des intervenants et livrables.\nAssurer l'interface technique avec les clients, les fournisseurs et les partenaires.\nÉlaborer les propositions techniques et assurer le suivi des affaires jusqu'à leur livraison.\nCoordonner les essais, les validations et les démarches de certification nécessaires.\nPréparer et mettre à jour les spécifications, notices et dossiers techniques.\n\n\nÉtudes aérauliques et thermiques - 50 %\n\n\nRéali",
       "score": 33,
       "touches": [
         "chef de projet (titre)",
         "formation",
-        "social",
-        "ess",
-        "solidaire"
+        "ess"
       ],
-      "alertes": [
-        "10 ans d'experience"
-      ],
-      "age": 26,
+      "alertes": [],
+      "age": 9,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-30",
+      "vueLe": "2026-10-19",
       "nouvelle": false
     },
     {
@@ -903,7 +859,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 24,
+      "age": 26,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
@@ -942,7 +898,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 46,
+      "age": 48,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -980,7 +936,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -1023,7 +979,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -1062,7 +1018,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
