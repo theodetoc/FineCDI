@@ -1,48 +1,7 @@
 {
-  "misAJour": "2026-10-30T12:20:27.877Z",
-  "total": 21,
+  "misAJour": "2026-11-02T15:00:07.954Z",
+  "total": 20,
   "offres": [
-    {
-      "id": "5184468",
-      "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5184468",
-      "entreprise": {
-        "nom": "ELOCE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5184468"
-      },
-      "exigences": [],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-07-21T03:18:46.000Z",
-      "description": "Description du poste :\n\nNotre bureau de Marseille se développe et nous recherchons notre nouveau Business Developer B2B au sein du département Alternance. Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning.En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission ",
-      "score": 66,
-      "touches": [
-        "business developer (titre)",
-        "pedagogi",
-        "formation",
-        "ess (titre)",
-        "rse",
-        "territoire"
-      ],
-      "alertes": [],
-      "age": 101,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
-    },
     {
       "id": "215VPQD",
       "intitule": "Business Developer (H/F)",
@@ -78,137 +37,10 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 0,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-30",
-      "nouvelle": true
-    },
-    {
-      "id": "7604082",
-      "intitule": "Chargé de Projet Data RH H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7604082",
-      "entreprise": {
-        "nom": "DRH SIRH",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7604082"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-03T04:31:35.664Z",
-      "description": "RESPONSABILITÉS : \n\nDans le cadre de son programme de transformation du SIRH, ORTEC construit et développe son pôle DATA RH. Pour accompagner cette évolution, nous recherchons notre futur Chargé de Projet DATA RH (H/F).\nVous serez rattaché(e) à Mikael, Responsable du Lab RH, et interviendrez au cœur des enjeux data liés au SIRH.\nVous aurez pour objectif de structurer et fiabiliser les indicateurs RH, développer des outils de reporting performants et fournir des analyses à forte valeur ajoutée pour éclairer la prise de décision, tout en accompagnant la transformation et l'amélioration continue du SIRH.\nVotre poste est basé au siège social du Groupe Ortec situé dans le technopôle d'Aix-les-Milles\n\nVos missions clés consisteront notamment à :\nData & Reporting\n - Concevoir, développer et maintenir des tableaux de bord Power BI\n - Garantir la fiabilité, la cohérence et la lisibilité des données\n - Structurer et optimiser les modèles de données\nAnalyse & Pilotage\n - Produire des analyses approfondies des indicateurs RH\n - Identifier anomalies, tendances et axes d'amélioration\n - Traduire les données en impacts financiers et en recommandations opérationnelles\nPrédictif & Aide à la décisio",
-      "score": 64,
-      "touches": [
-        "charge de projet (titre)",
-        "formation",
-        "social",
-        "ess",
-        "solidaire",
-        "environnement",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 27,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-05",
-      "nouvelle": false
-    },
-    {
-      "id": "6425671",
-      "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6425671",
-      "entreprise": {
-        "nom": "WALTER LEARNING",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6425671"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 7e Arrondissement",
-      "commune": "13207",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-08-30T03:19:25.967Z",
-      "description": "Description du poste :\n\nNotre bureau dans le 8ème arrondissement de Marseille se développe et nous recherchons un(e) Commercial(e) BtoB Un portefeuille de candidats vous sera attribué, votre objectif sera de leur trouver une structure d'accueil où effectuer leur alternance. Vous vous occuperez de toutes les formalités administratives et négocierez un reste à charge pour l'Entreprise en travaillant conjointement avec le Responsable Admission & Placement.\n\nNos publics cibles - vos futurs interlocuteurs - sont des entreprises ayant des besoins de recrutement en alternance. Cela implique de devenir rapidement expert de tous nos produits et des problématiques rencontrées fréquemment par nos entreprises partenaires, pour développer notre marque sur les territoires qui vous seront confiés.\n\nVous serez ainsi au cœur de l'action, en représentant Walter Learning. En d'autres termes vous endossez un rôle de 'closer' pour nos apprenants et vos principales missions en tant que Business Developer B2B seront De prospecter activement sur la zone définie avec nos apprenants pour leur trouver des entretiens d'embauche***De travailler main dans la main avec le Responsable Admission & Placement pour s",
-      "score": 63,
-      "touches": [
-        "business developer (titre)",
-        "pedagogi",
-        "formation",
-        "ess (titre)",
-        "rse",
-        "territoire"
-      ],
-      "alertes": [],
-      "age": 61,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-31",
-      "nouvelle": false
-    },
-    {
-      "id": "215RWPP",
-      "intitule": "Chargé de missions partenariats (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RWPP",
-      "entreprise": {
-        "nom": "Entreprise non nommée",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/215RWPP"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - MARSEILLE 02",
-      "commune": "13202",
-      "contrat": "CDI",
-      "romeCode": "K1802",
-      "romeLibelle": "Chargé / Chargée de développement économique et local",
-      "dateCreation": "2026-10-27T09:54:10.290Z",
-      "description": "Transitions Pro PACA (ex Fongecif PACA) est une association Loi 1901 qui bénéficie d'un agrément du Ministère du Travail notamment pour gérer avec performance le dispositif « Projet de Transition Professionnelle (PTP) », issu de la loi du 5 Septembre 2018 pour la liberté de choisir son avenir professionnel.\nSous certaines conditions, les salariés bénéficient d'un droit à congé pour changer de métier, et peuvent obtenir la prise en charge par Transitions Pro du coût de leur formation et du maintien de leur rémunération.\n\nMobilisée pour accompagner les salariés dans la réussite de leur projet de reconversion, Transitions Pro PACA recherche un/une chargé(e) de missions partenariats.\n\nPrincipales missions :\n- Prospecter, échanger et aller à la rencontre notamment de nouveaux partenaires pour concourir à développer la demande (PTP, PUR, etc.) en lien avec nos priorités, et contribuer à faire rayonner la structure ;\n- Négocier la mise en place de conventions, notamment financières, et assurer leur opérationnalisation, pilotage et suivi ;\n- Maîtriser l'animation de réunions, d'ateliers, de webinaires, la prise de parole en public, mais aussi l'animation d'un réseau de partenaires, et la c",
-      "score": 61,
-      "touches": [
-        "charge de mission (titre)",
-        "chargee de mission",
-        "formation",
-        "ess",
-        "association"
-      ],
-      "alertes": [],
       "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-28",
+      "vueLe": "2026-10-30",
       "nouvelle": false
     },
     {
@@ -243,7 +75,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
@@ -283,16 +115,16 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 113,
+      "age": 116,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
       "nouvelle": false
     },
     {
-      "id": "215PFPY",
-      "intitule": "Chef de projet Act terrestre H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PFPY",
+      "id": "215WZPV",
+      "intitule": "Chef de projets offres / contrats  H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215WZPV",
       "entreprise": {
         "nom": "CNIM SYSTEMES INDUSTRIELS",
         "url": null,
@@ -303,8 +135,8 @@
         "nom": "CNIM SYSTEMES INDUSTRIELS - X ELISE PAYOT",
         "courriel": null,
         "telephone": null,
-        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/820994?utm_source=NQ==",
-        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/820994?utm_source=NQ=="
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/821597?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/821597?utm_source=NQ=="
       },
       "exigences": [
         "Bac+5 exigé",
@@ -315,8 +147,8 @@
       "contrat": "CDI",
       "romeCode": "M1402",
       "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-23T01:03:06.106Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nVous souhaitez piloter un projet d'envergure internationale, stratégique pour l'entreprise et à fort impact opérationnel ? Rejoignez une équipe engagée sur le programme des Ponts Flottants Motorisés destinés à l'armée polonaise.\n\nSuite à une évolution interne, nous recherchons notre nouveau Chef de Projet pour prendre les commandes de ce programme majeur.\n\nVos défis\n\nÀ la tête d'un projet à plusieurs millions d'euros, vous serez responsable du pilotage global de l'affaire, de la maîtrise des enjeux techniques, contractuels, financiers et relationnels.\n\nAccompagné(e) d'un Chef de projet adjoint, vous devrez être capable de passer d'une vision opérationnelle, au plus près du terrain et de la résolution des problématiques techniques, à une vision stratégique afin d'anticiper les prochaines étapes du programme.\n\nVous évoluerez au cœur d'un environnement international en coordonnant de nombreux interlocuteurs : bureaux d'études, ateliers de production, essais, ordonnancement, contrôle export, sous-traitants, autorités étatiques et militaires, en France comme en Pologne.\n\nVotre expertise en contrat management vo",
+      "dateCreation": "2026-10-31T00:01:46.326Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Nucléaire, rattaché(e) au Responsable des activités terrestres, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements militaires terrestres destinés aux forces françaises et à l'export.\n\n\n\nPour mener à bien votre mission, vous devrez :\n\n\nSur la phase offre, vous devrez :\n\n\n\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à partir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risques e",
       "score": 44,
       "touches": [
         "chef de projet (titre)",
@@ -325,50 +157,11 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 7,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-23",
-      "nouvelle": false
-    },
-    {
-      "id": "215PGDP",
-      "intitule": "Chef de Projet Nouvelle Usine H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PGDP",
-      "entreprise": {
-        "nom": "EUROS",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "EUROS - X Diana NIRISSIAN",
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/826601?utm_source=NQ==",
-        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/826601?utm_source=NQ=="
-      },
-      "exigences": [],
-      "lieu": "13 - Ciotat",
-      "commune": "13028",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-23T01:03:11.520Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nMISSION :\n\n\nPiloter la conception, la construction et la mise en service de la nouvelle usine, dans le respect du planning, du budget et des exigences réglementaires et qualité, en assurant l'interface avec l'architecte, la maîtrise d'œuvre (MOE) et l'ensemble des parties prenantes internes et externes.\n\n\n1.Missions principales\n\n\n- Pilotage du planning global du projet - élaboration, suivi et mise à jour du planning directeur (études, autorisations, travaux, réception), coordination des jalons avec l'ensemble des intervenants. Le planning intègre l'ensemble du chantier : bâtiment, équipements et investissements machines, qualification/validation et organisation.\n\n\n-Recueil des besoins métiers et co-construction de l'organisation physique - animation de réunions avec l'ensemble des responsables de service (production, qualité, logistique, maintenance, HSE, R&D, industrialisation, IT) pour recueillir leurs contraintes, leurs volumes cibles et leur vision, et traduire ces éléments dans les scénarios d'implantation, de flux et de dimensionnement soumis à la direction et à l'architecte.\n\n\n-Relation avec l'archi",
-      "score": 44,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess",
-        "environnement"
-      ],
-      "alertes": [],
-      "age": 7,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-23",
-      "nouvelle": false
+      "vueLe": "2026-11-02",
+      "nouvelle": true
     },
     {
       "id": "6187542",
@@ -405,7 +198,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 69,
+      "age": 72,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -445,10 +238,52 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 38,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
+      "nouvelle": false
+    },
+    {
+      "id": "215PFPY",
+      "intitule": "Chef de projet Act terrestre H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PFPY",
+      "entreprise": {
+        "nom": "CNIM SYSTEMES INDUSTRIELS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "CNIM SYSTEMES INDUSTRIELS - X ELISE PAYOT",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/820994?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/820994?utm_source=NQ=="
+      },
+      "exigences": [
+        "Bac+5 exigé",
+        "courant anglais courant"
+      ],
+      "lieu": "83 - Seyne-sur-Mer",
+      "commune": "83126",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-23T01:03:06.106Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nVous souhaitez piloter un projet d'envergure internationale, stratégique pour l'entreprise et à fort impact opérationnel ? Rejoignez une équipe engagée sur le programme des Ponts Flottants Motorisés destinés à l'armée polonaise.\n\nSuite à une évolution interne, nous recherchons notre nouveau Chef de Projet pour prendre les commandes de ce programme majeur.\n\nVos défis\n\nÀ la tête d'un projet à plusieurs millions d'euros, vous serez responsable du pilotage global de l'affaire, de la maîtrise des enjeux techniques, contractuels, financiers et relationnels.\n\nAccompagné(e) d'un Chef de projet adjoint, vous devrez être capable de passer d'une vision opérationnelle, au plus près du terrain et de la résolution des problématiques techniques, à une vision stratégique afin d'anticiper les prochaines étapes du programme.\n\nVous évoluerez au cœur d'un environnement international en coordonnant de nombreux interlocuteurs : bureaux d'études, ateliers de production, essais, ordonnancement, contrôle export, sous-traitants, autorités étatiques et militaires, en France comme en Pologne.\n\nVotre expertise en contrat management vo",
+      "score": 40,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 10,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-23",
       "nouvelle": false
     },
     {
@@ -487,7 +322,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -529,7 +364,46 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 12,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-10-23",
+      "nouvelle": false
+    },
+    {
+      "id": "215PGDP",
+      "intitule": "Chef de Projet Nouvelle Usine H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PGDP",
+      "entreprise": {
+        "nom": "EUROS",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": "EUROS - X Diana NIRISSIAN",
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/826601?utm_source=NQ==",
+        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/826601?utm_source=NQ=="
+      },
+      "exigences": [],
+      "lieu": "13 - Ciotat",
+      "commune": "13028",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-23T01:03:11.520Z",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nMISSION :\n\n\nPiloter la conception, la construction et la mise en service de la nouvelle usine, dans le respect du planning, du budget et des exigences réglementaires et qualité, en assurant l'interface avec l'architecte, la maîtrise d'œuvre (MOE) et l'ensemble des parties prenantes internes et externes.\n\n\n1.Missions principales\n\n\n- Pilotage du planning global du projet - élaboration, suivi et mise à jour du planning directeur (études, autorisations, travaux, réception), coordination des jalons avec l'ensemble des intervenants. Le planning intègre l'ensemble du chantier : bâtiment, équipements et investissements machines, qualification/validation et organisation.\n\n\n-Recueil des besoins métiers et co-construction de l'organisation physique - animation de réunions avec l'ensemble des responsables de service (production, qualité, logistique, maintenance, HSE, R&D, industrialisation, IT) pour recueillir leurs contraintes, leurs volumes cibles et leur vision, et traduire ces éléments dans les scénarios d'implantation, de flux et de dimensionnement soumis à la direction et à l'architecte.\n\n\n-Relation avec l'archi",
+      "score": 40,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -569,11 +443,96 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 24,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
       "nouvelle": false
+    },
+    {
+      "id": "5184468",
+      "intitule": "Chargé / Chargée de relations entreprises (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5184468",
+      "entreprise": {
+        "nom": "WALTER LEARNING",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/5184468"
+      },
+      "exigences": [],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-07-21T03:18:46.000Z",
+      "description": "Description du poste :\n\nNotre bureau d'Aix se développe et nous recherchons notre nouveau Business Developer au sein du Pôle Alternance.\n\n\nSur ce pôle, nos leads sont les candidats-élèves souhaitant rejoindre notre formation. Une fois les candidats qualifiés, nos commerciaux prennent le relais - soit auprès des candidats, soit auprès des entreprises partenaires - pour les accompagner jusqu'à la signature du contrat d'alternance.\nNous adressons donc deux process de vente complémentaires. Selon les besoins business, vous pourrez être positionné sur un process Candidats ou un process Entreprise.\nDans ce contexte, vos missions pourront consister à Organiser et animer des jurys d'admission pour valider profil et projet professionnel***Imposer un cadre directif à vos candidats (nombre d'entreprises à démarcher, de CV à envoyer.) et les coacher via des entretiens blancs***Prospecter et convaincre les entreprises de recruter vos candidats, grâce à un discours commercial carré***Négocier le montant du reste à charge pour l'entreprise, en lien avec le Responsable Admission & Placement***Suivre le dossier administratif du candidat jusqu'à la signature***Assurer le matching candidat / entrepri",
+      "score": 37,
+      "touches": [
+        "business developer",
+        "pedagogi",
+        "formation",
+        "ess",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 104,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-08-19",
+      "nouvelle": false
+    },
+    {
+      "id": "8432300",
+      "intitule": "Chef de projet ferroviaire Senior H/F - 13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8432300",
+      "entreprise": {
+        "nom": "SOM Sud",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8432300"
+      },
+      "exigences": [
+        "40 ans d'expérience demandés",
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Marseille 2e Arrondissement",
+      "commune": "13202",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-31T03:31:42.396Z",
+      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Sud, implantée à Martigues, met son savoir-faire au service des industriels du bassin méditerranéen pour des missions de conception, d'arrêts d'unité et de performance.\nIntégré(e) à un contrat en CDI sur projet sur le site client dans les Bouches-du-Rhône, vous assurerez une prestation d'assistance technique sur un poste de Chef de projet Senior dans le domaine Ferroviaire.\nVotre rôle en tant que Chef de projet Senior Ferroviaire, sera de mener à bien les missions suivantes :\n -  Intégration et consolidation des plannings\nConsolider les plannings des différentes opérations à l'échelle d'un département.\nConstruire une vision assemblée des projets et des interfaces.\nVérifier la cohérence entre les différents niveaux de planification.\nGarantir l'intégration des jalons stratégiques et des mises en service.\n -  Analyse des interfaces et des chemins critiques\n - Identifier les chemins critiques multi-opérations.\n - Mettre en évidence les interfaces sensibles entre opérations.\n - Analyser les impacts des décalages de planning.\n - Proposer des scénarios alternatifs et mesures correctives.\n - Réaliser des analyses multicritères permettant les arbitrages ",
+      "score": 37,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "social",
+        "ess",
+        "solidaire"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-02",
+      "nouvelle": true
     },
     {
       "id": "7404842",
@@ -612,7 +571,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 34,
+      "age": 37,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -652,7 +611,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -693,7 +652,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -732,7 +691,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 50,
+      "age": 53,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -770,7 +729,7 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 22,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -813,7 +772,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 30,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -852,7 +811,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 29,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
