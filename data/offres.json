@@ -1,7 +1,48 @@
 {
-  "misAJour": "2026-11-02T15:00:07.954Z",
-  "total": 20,
+  "misAJour": "2026-11-04T13:55:56.028Z",
+  "total": 22,
   "offres": [
+    {
+      "id": "8520176",
+      "intitule": "Business Developer B2B (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8520176",
+      "entreprise": {
+        "nom": "Green Score Capital",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8520176"
+      },
+      "exigences": [],
+      "lieu": "83 - Toulon",
+      "commune": "83137",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-11-03T18:31:04.858Z",
+      "description": "Créée en 2019, Green Score Capital est une entreprise spécialisée dans la mesure et l'analyse des impacts environnementaux et des risques climatiques et physiques.\n\nNous développons des solutions permettant aux entreprises de transformer les données environnementales complexes en informations directement exploitables pour décider, anticiper et agir.\n\nNos solutions s'adressent notamment à deux marchés :\n\n- Banque & Assurance : pour identifier et mesurer leur exposition aux risques climatiques, physiques et environnementaux, à prioriser les actifs et territoires vulnérables et à intégrer ces données dans leurs décisions.\n\n- Agriculture & Agroalimentaire : pour comprendre les risques environnementaux et climatiques auxquels sont exposées leurs activités, leurs exploitations ou leurs chaînes d'approvisionnement et construire des plans d'actions adaptés.\n\nNotre approche combine sciences de l'environnement, données et technologies de visualisation pour apporter des réponses concrètes à ces enjeux.\n\nL'équipe réunit aujourd'hui des ingénieurs et docteurs en sciences de l'environnement, des data analysts, des développeurs.\n\nGreen Score Capital est une entreprise reconnue par plusieurs label",
+      "score": 69,
+      "touches": [
+        "business developer (titre)",
+        "formation",
+        "ess (titre)",
+        "environnement",
+        "rse",
+        "territoire"
+      ],
+      "alertes": [],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-04",
+      "nouvelle": true
+    },
     {
       "id": "215VPQD",
       "intitule": "Business Developer (H/F)",
@@ -37,7 +78,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
@@ -75,7 +116,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 20,
+      "age": 22,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
@@ -115,7 +156,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 116,
+      "age": 118,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -157,11 +198,11 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "6187542",
@@ -198,7 +239,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 72,
+      "age": 74,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-24",
@@ -238,7 +279,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 41,
+      "age": 43,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-23",
@@ -280,7 +321,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 10,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -322,7 +363,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -364,7 +405,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -403,7 +444,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 10,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -443,7 +484,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 27,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-07",
@@ -483,7 +524,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 104,
+      "age": 106,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -528,11 +569,11 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "7404842",
@@ -571,7 +612,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 37,
+      "age": 39,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -611,11 +652,54 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
       "nouvelle": false
+    },
+    {
+      "id": "8488022",
+      "intitule": "Chef de projet HVAC H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8488022",
+      "entreprise": {
+        "nom": "SOM Méditérranée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8488022"
+      },
+      "exigences": [
+        "40 ans d'expérience demandés"
+      ],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-11-03T03:32:00.103Z",
+      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Méditerranée, implantée à Marseille, intervient au plus près des sites EDF sur des projets complexes en mécanique, électricité, fluides et génie civil, avec une forte expertise en Sûreté des REP.\nIntégré(e) au sein du bureau d'études, vous interviendrez sur les activités ventilation de l'agence\n\nVotre rôle en tant que Chef de projet Ventilation H/F, sera de mener à bien les missions suivantes :\n - Piloter techniquement une équipe d'ingénieurs et de techniciens d'études\n - Garantir le respect des plannings et l'adéquation des charges au sein de l'équipe\n - Assurer le suivi du budget de l'activité et des objectifs de chiffre d'affaires associés\n - Valider et contrôler la qualité technique des études produites dans le domaine HVAC/CVC\n - Participer à l'élaboration des offres techniques et commerciales\n - Assurer le pilotage de la relation client, notamment sur les aspects avancement, qualité et satisfaction\n - Contribuer au développement et à la diversification de l'activité auprès de nouveaux acteurs industriels\n#SOM #LI-CC2\n\nPROFIL RECHERCHÉ : \n\nDiplômé(e) d'une école d'ingénieurs, vous justifiez d' au moins 10 ans d'expérience dans les métiers d",
+      "score": 34,
+      "touches": [
+        "chef de projet (titre)",
+        "ess",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-04",
+      "nouvelle": true
     },
     {
       "id": "215MMYB",
@@ -652,7 +736,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -691,7 +775,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 53,
+      "age": 55,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -699,7 +783,7 @@
     },
     {
       "id": "7766792",
-      "intitule": "Business Development Manager (H/F)",
+      "intitule": "Sales Manager H/F",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7766792",
       "entreprise": {
         "nom": "Media-Start",
@@ -721,15 +805,16 @@
       "romeCode": "M1707",
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-10-08T08:06:06.196Z",
-      "description": "Vos missions :\n \nEn tant que Business Development Manager, vous serez Responsable d'une équipe au sein de Média Start et de son expansion. Vous aurez donc un rôle double et participerez à la fois à l la montée en compétences de votre équipe mais également au développement du chiffre d'affaires de Média-Start .\nVotre quotidien consistera à : \n Participer au recrutement et à la montée en compétences de l'équipe de Business Developers\n Monitorer la performance collective et être un véritable pilier de l'équipe afin d'impulser de vraies dynamique de ventes\n Mettre en place des stratégies d'acquisition de prospects et de développement du chiffre d'affaire de votre équipe\n  Vous êtes le garant du respect des process internes liés aux ventes (mise à jour du CRM, règles liées aux paiements...)\nChez Média-Start, nous croyons que la réussite collective passe par la réussite individuelle. Vous aurez ainsi un objectif de chiffre d'affaires mensuel à faire atteindre à votre équipe. \nCe à quoi vous pouvez vous attendre : \nPremier mois : \nNous mettons un point d'honneur à la formation de nos équipes. Dès votre arrivée, vous bénéficierez d'une formation complète sur l'entreprise, nos produits et l",
-      "score": 28,
+      "description": "En tant que Sales Manager, vous aurez une double responsabilité : piloter la performance de votre équipe et contribuer activement au développement du chiffre d'affaires de Media-Start.\nVous disposerez d'une réelle autonomie pour développer votre périmètre, proposer de nouvelles stratégies et accompagner votre équipe vers des résultats ambitieux.\nDévelopper votre business\n - Définir et déployer une stratégie commerciale ambitieuse pour accélérer le chiffre d'affaires de votre équipe.\n - Identifier de nouvelles opportunités de développement et optimiser les leviers d'acquisition.\n - Piloter les objectifs commerciaux, analyser les performances et mettre en place des actions concrètes pour améliorer les résultats.\n - Participer activement aux réflexions stratégiques autour du développement de l'activité.\nManager et faire grandir votre équipe\n - Participer au recrutement et à la construction d'une équipe de Business Developers performante.\n - Accompagner vos commerciaux au quotidien : coaching, montée en compétences, négociation et closing.\n - Instaurer une véritable culture de la performance, de l'engagement et du dépassement de soi.\n - Fédérer votre équipe autour d'objectifs communs e",
+      "score": 29,
       "touches": [
         "business developer",
-        "formation",
-        "ess (titre)"
+        "ess",
+        "environnement",
+        "rse"
       ],
       "alertes": [],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -772,7 +857,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 33,
+      "age": 35,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -811,7 +896,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 33,
+      "age": 34,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
