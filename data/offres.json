@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-11-04T13:55:56.028Z",
-  "total": 22,
+  "misAJour": "2026-11-06T13:53:21.114Z",
+  "total": 19,
   "offres": [
     {
       "id": "8520176",
@@ -37,11 +37,11 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-04",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "215VPQD",
@@ -78,11 +78,53 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
       "nouvelle": false
+    },
+    {
+      "id": "8591352",
+      "intitule": "Business Developer H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8591352",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8591352"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "commune": "13208",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-11-06T07:15:26.082Z",
+      "description": "Ton rôle sera de développer un portefeuille d'annonceurs en direct, de la prospection jusqu'à la signature, puis de les accompagner dans la durée.\nC'est un poste résolument orienté chasse commerciale, avec de l'autonomie et un cycle de vente complet.\nAu quotidien, tu seras amené(e) à :\n - Identifier et prospecter de nouveaux annonceurs B2B.\n - Échanger avec des dirigeants et responsables marketing pour comprendre leurs enjeux de communication.\n - Construire et présenter des propositions commerciales adaptées à leurs besoins.\n - Négocier et conclure de nouveaux contrats.\n - Assurer le suivi des campagnes et développer la relation client.\n - Fidéliser ton portefeuille et identifier de nouvelles opportunités commerciales.\n - Suivre ton activité et tes performances dans notre CRM.\nL'objectif est simple : développer ton portefeuille, signer de nouveaux clients et contribuer directement à la croissance de Media Start TV.\nProfil recherché:\nTon rôle sera de développer un portefeuille d'annonceurs en direct, de la prospection jusqu'à la signature, puis de les accompagner dans la durée.\nC'est un poste résolument orienté chasse commerciale, avec de l'autonomie et un cycle de vente complet.\nAu",
+      "score": 55,
+      "touches": [
+        "business developer (titre)",
+        "formation",
+        "ess (titre)",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-06",
+      "nouvelle": true
     },
     {
       "id": "215CQWZ",
@@ -116,7 +158,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 22,
+      "age": 24,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
@@ -156,7 +198,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 118,
+      "age": 120,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -198,91 +240,10 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
-      "nouvelle": false
-    },
-    {
-      "id": "6187542",
-      "intitule": "Chef de projets travaux neufs H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6187542",
-      "entreprise": {
-        "nom": "ORTEC INDUSTRIE",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/6187542"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-08-22T04:31:33.840Z",
-      "description": "RESPONSABILITÉS : \n\nParticipez à la transformation industrielle au service de l'économie circulaire Dans le cadre de notre développement, nous recherchons un Chef de Projet Travaux Neufs H/F pour piloter des projets d'investissement stratégiques sur nos installations de traitement et de valorisation des déchets.\nBasé au siège du Groupe ORTEC (Aix-Les-Milles, 13), véritable chef d'orchestre, vous assurez la coordination stratégique de l'ensemble des acteurs du projet. Vous êtes garant de la sécurité, la qualité des réalisations, le respect des délais et la maîtrise des budgets\nVous prenez en charge la gestion complète de projets de travaux neufs, depuis l'identification du besoin jusqu'à la réception des ouvrages et la mise en service des équipements. Vous êtes rattaché au directeur de Projet Travaux.\nVos missions ?  - Identifier et analyser les besoins techniques avec les équipes d'exploitation, de maintenance, de production et les directions de sites.\n - Définir les solutions techniques les plus adaptées et rédiger les cahiers des charges.\n - Piloter les consultations fournisseurs et sélectionner les entreprises partenaires.\n - Concevoir l'intégration de nouveaux équipements indus",
-      "score": 43,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess",
-        "environnement"
-      ],
-      "alertes": [],
-      "age": 74,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-24",
-      "nouvelle": false
-    },
-    {
-      "id": "7090566",
-      "intitule": "Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7090566",
-      "entreprise": {
-        "nom": "Media-Start",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7090566"
-      },
-      "exigences": [],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-22T08:06:44.654Z",
-      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
-      "score": 41,
-      "touches": [
-        "business developer (titre)",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 43,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-23",
       "nouvelle": false
     },
     {
@@ -321,7 +282,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -363,7 +324,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -405,7 +366,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -444,50 +405,10 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 12,
+      "age": 14,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
-      "nouvelle": false
-    },
-    {
-      "id": "7700091",
-      "intitule": "Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7700091",
-      "entreprise": {
-        "nom": "Media-Start",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7700091"
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-10-06T08:06:13.130Z",
-      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
-      "score": 38,
-      "touches": [
-        "business developer (titre)",
-        "formation",
-        "ess (titre)"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 29,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-07",
       "nouvelle": false
     },
     {
@@ -524,7 +445,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 106,
+      "age": 108,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -569,7 +490,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -612,7 +533,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 39,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -652,54 +573,11 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
       "nouvelle": false
-    },
-    {
-      "id": "8488022",
-      "intitule": "Chef de projet HVAC H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8488022",
-      "entreprise": {
-        "nom": "SOM Méditérranée",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8488022"
-      },
-      "exigences": [
-        "40 ans d'expérience demandés"
-      ],
-      "lieu": "13 - Marseille 8e Arrondissement",
-      "commune": "13208",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-11-03T03:32:00.103Z",
-      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Méditerranée, implantée à Marseille, intervient au plus près des sites EDF sur des projets complexes en mécanique, électricité, fluides et génie civil, avec une forte expertise en Sûreté des REP.\nIntégré(e) au sein du bureau d'études, vous interviendrez sur les activités ventilation de l'agence\n\nVotre rôle en tant que Chef de projet Ventilation H/F, sera de mener à bien les missions suivantes :\n - Piloter techniquement une équipe d'ingénieurs et de techniciens d'études\n - Garantir le respect des plannings et l'adéquation des charges au sein de l'équipe\n - Assurer le suivi du budget de l'activité et des objectifs de chiffre d'affaires associés\n - Valider et contrôler la qualité technique des études produites dans le domaine HVAC/CVC\n - Participer à l'élaboration des offres techniques et commerciales\n - Assurer le pilotage de la relation client, notamment sur les aspects avancement, qualité et satisfaction\n - Contribuer au développement et à la diversification de l'activité auprès de nouveaux acteurs industriels\n#SOM #LI-CC2\n\nPROFIL RECHERCHÉ : \n\nDiplômé(e) d'une école d'ingénieurs, vous justifiez d' au moins 10 ans d'expérience dans les métiers d",
-      "score": 34,
-      "touches": [
-        "chef de projet (titre)",
-        "ess",
-        "environnement",
-        "rse"
-      ],
-      "alertes": [
-        "10 ans d'experience"
-      ],
-      "age": 1,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-11-04",
-      "nouvelle": true
     },
     {
       "id": "215MMYB",
@@ -736,7 +614,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -775,7 +653,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 55,
+      "age": 57,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -814,7 +692,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 27,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -857,7 +735,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 35,
+      "age": 37,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-30",
@@ -896,7 +774,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 34,
+      "age": 36,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
