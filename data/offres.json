@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-11-06T13:53:21.114Z",
-  "total": 19,
+  "misAJour": "2026-11-09T15:29:57.309Z",
+  "total": 22,
   "offres": [
     {
       "id": "8520176",
@@ -37,7 +37,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-04",
@@ -68,7 +68,7 @@
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-10-29T15:45:51.748Z",
       "description": "Savez-vous faire le pont ? Celui entre les innovations technologiques qui vous passionnent et les besoins concrets des clients ? L'univers du numérique et des ESN vous attire tout particulièrement ?\n\nL'environnement qui vous correspond\nUne entreprise à taille humaine en plein déploiement, un cadre dynamique qui favorise le développement professionnel, une équipe animée par l'enthousiasme et l'expertise, des défis larges et variés, et des objectifs ambitieux à construire et à atteindre ensemble.\nDans le cadre de notre développement, nous recherchons notre Business Developer, qui sera au cœur de notre agence de La Garde.\n\nCe qui vous attend\nAu sein du pôle Commerce vous jouerez un rôle clé dans le renforcement de notre présence et de nos activités sur le territoire.\n\nDéveloppement commercial et relation client\n- Développer et entretenir des relations durables avec les décideurs clés de Grands Groupes, ETI et PME\n- Accompagner nos clients dans leur transformation digitale en proposant des solutions sur mesure, adaptées à leurs besoins spécifiques\n- Suivre les besoins projets et, en coordination avec les équipes, apporter des réponses pertinentes\n\nStratégie et écosystème\n- Participer à",
-      "score": 64,
+      "score": 60,
       "touches": [
         "business developer (titre)",
         "formation",
@@ -78,11 +78,52 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 7,
+      "age": 10,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
       "nouvelle": false
+    },
+    {
+      "id": "8638285",
+      "intitule": "Business Developer - Marché Allemand (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8638285",
+      "entreprise": {
+        "nom": "Charly / Recrutement & Intérim",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8638285"
+      },
+      "exigences": [
+        "professionnel anglais courant"
+      ],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-11-07T11:21:41.646Z",
+      "description": "Charly est un cabinet de recrutement indépendant, créé en 2009 à Marseille. Nous accompagnons des entreprises de toutes tailles, partout en France, dans le recrutement de leurs spécialistes, managers et fonctions clés, en CDI, CDD et intérim.\nNotre conviction : réussir un recrutement ne devrait pas être une question de chance. Chaque poste est cadré en détail avec l'entreprise avant le lancement, et chaque candidat est évalué sur ce qui fait réussir dans le poste. Pas au feeling.\nNous travaillons en transparence avec les entreprises comme avec les candidats : un suivi régulier, des retours clairs, une réponse à chaque candidature. Nos consultants ont tous le même objectif, et c'est aussi celui de nos clients et de nos candidats : un recrutement qui dure.\n\n\nLe poste : \n\nVous aimez ouvrir des portes et transformer un premier contact en rendez-vous qualifié - Ouvrir un nouveau marché en Allemagne, avec tout à construire ne vous fait pas peur ?\nAlors rejoignez notre client, éditeur d'une solution SaaS dédiée au transport maritime, en tant que Business Developer Allemagne H/F, en CDI à Aix-en-Provence.\nCette entreprise française commercialise déjà son logiciel en France et aux Pays-Bas.",
+      "score": 60,
+      "touches": [
+        "business developer (titre)",
+        "ess (titre)",
+        "environnement",
+        "rse"
+      ],
+      "alertes": [],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-09",
+      "nouvelle": true
     },
     {
       "id": "8591352",
@@ -120,10 +161,51 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 0,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-06",
+      "nouvelle": false
+    },
+    {
+      "id": "8631452",
+      "intitule": "Chef de projets travaux neufs H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8631452",
+      "entreprise": {
+        "nom": "ORTEC INDUSTRIE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8631452"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-11-07T03:32:51.406Z",
+      "description": "RESPONSABILITÉS : \n\nParticipez à la transformation industrielle au service de l'économie circulaire Dans le cadre de notre développement, nous recherchons un Chef de Projet Travaux Neufs H/F pour piloter des projets d'investissement stratégiques sur nos installations de traitement et de valorisation des déchets.\nBasé au siège du Groupe ORTEC (Aix-Les-Milles, 13), véritable chef d'orchestre, vous assurez la coordination stratégique de l'ensemble des acteurs du projet. Vous êtes garant de la sécurité, la qualité des réalisations, le respect des délais et la maîtrise des budgets\nVous prenez en charge la gestion complète de projets de travaux neufs, depuis l'identification du besoin jusqu'à la réception des ouvrages et la mise en service des équipements. Vous êtes rattaché au directeur de Projet Travaux.\nVos missions ?  - Identifier et analyser les besoins techniques avec les équipes d'exploitation, de maintenance, de production et les directions de sites.\n - Définir les solutions techniques les plus adaptées et rédiger les cahiers des charges.\n - Piloter les consultations fournisseurs et sélectionner les entreprises partenaires.\n - Concevoir l'intégration de nouveaux équipements indus",
+      "score": 47,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement"
+      ],
+      "alertes": [],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-09",
       "nouvelle": true
     },
     {
@@ -158,11 +240,51 @@
         "rse"
       ],
       "alertes": [],
-      "age": 24,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
       "nouvelle": false
+    },
+    {
+      "id": "8634427",
+      "intitule": "Business Developer (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8634427",
+      "entreprise": {
+        "nom": "Media-Start",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8634427"
+      },
+      "exigences": [],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-11-07T07:06:13.383Z",
+      "description": "En tant que Business Developer, votre mission principale sera d'identifier et prospecter de nouveaux clients par téléphone afin de leur proposer nos solutions de communication : Articles sponsorisés, émissions webTV sponsorisées, sponsoring TV.\nVous évoluerez selon un double flux de prospection :\n - 50% de RDV qualifiés fournis par notre équipe Leadgen : présente au sein de l'agence, elle vous alimente en rendez-vous qualifiés afin de vous permettre de vous concentrer sur la vente et la conversion.\n - 50% de prospection en autonomie (\"chasse\") : le reste du temps, vous devrez activement identifier et générer vos propres opportunités. Un profil chasseur est donc un plus pour ce poste.\nVotre quotidien consistera à :\n - Traiter et convertir les RDV qualifiés transmis par l'équipe Leadgen.\n - Effectuer une veille active sur le marché pour identifier de nouveaux prospects\n - Trouver les coordonnées de vos cibles et les contacter par téléphone pour développer votre portefeuille clients.\n - Concevoir et envoyer des campagnes d'e-mails automatisées pour générer et relancer vos prospects.\n - Mettre à jour et gérer rigoureusement le CRM (HubSpot) avec les informations recueillies, et suivre ",
+      "score": 45,
+      "touches": [
+        "business developer (titre)",
+        "formation",
+        "ess (titre)"
+      ],
+      "alertes": [
+        "portefeuille clients"
+      ],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-09",
+      "nouvelle": true
     },
     {
       "id": "4711299",
@@ -198,7 +320,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 120,
+      "age": 123,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -232,7 +354,7 @@
       "romeLibelle": "Responsable en organisation en entreprise",
       "dateCreation": "2026-10-31T00:01:46.326Z",
       "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Nucléaire, rattaché(e) au Responsable des activités terrestres, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements militaires terrestres destinés aux forces françaises et à l'export.\n\n\n\nPour mener à bien votre mission, vous devrez :\n\n\nSur la phase offre, vous devrez :\n\n\n\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à partir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risques e",
-      "score": 44,
+      "score": 40,
       "touches": [
         "chef de projet (titre)",
         "formation",
@@ -240,7 +362,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 6,
+      "age": 9,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -282,7 +404,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -324,7 +446,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 15,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -366,7 +488,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 15,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -405,7 +527,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 14,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -445,55 +567,10 @@
         "rse"
       ],
       "alertes": [],
-      "age": 108,
+      "age": 111,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
-      "nouvelle": false
-    },
-    {
-      "id": "8432300",
-      "intitule": "Chef de projet ferroviaire Senior H/F - 13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8432300",
-      "entreprise": {
-        "nom": "SOM Sud",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8432300"
-      },
-      "exigences": [
-        "40 ans d'expérience demandés",
-        "Bac+5 exigé"
-      ],
-      "lieu": "13 - Marseille 2e Arrondissement",
-      "commune": "13202",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-31T03:31:42.396Z",
-      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Sud, implantée à Martigues, met son savoir-faire au service des industriels du bassin méditerranéen pour des missions de conception, d'arrêts d'unité et de performance.\nIntégré(e) à un contrat en CDI sur projet sur le site client dans les Bouches-du-Rhône, vous assurerez une prestation d'assistance technique sur un poste de Chef de projet Senior dans le domaine Ferroviaire.\nVotre rôle en tant que Chef de projet Senior Ferroviaire, sera de mener à bien les missions suivantes :\n -  Intégration et consolidation des plannings\nConsolider les plannings des différentes opérations à l'échelle d'un département.\nConstruire une vision assemblée des projets et des interfaces.\nVérifier la cohérence entre les différents niveaux de planification.\nGarantir l'intégration des jalons stratégiques et des mises en service.\n -  Analyse des interfaces et des chemins critiques\n - Identifier les chemins critiques multi-opérations.\n - Mettre en évidence les interfaces sensibles entre opérations.\n - Analyser les impacts des décalages de planning.\n - Proposer des scénarios alternatifs et mesures correctives.\n - Réaliser des analyses multicritères permettant les arbitrages ",
-      "score": 37,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "social",
-        "ess",
-        "solidaire"
-      ],
-      "alertes": [
-        "10 ans d'experience"
-      ],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-11-02",
       "nouvelle": false
     },
     {
@@ -533,7 +610,7 @@
         "association"
       ],
       "alertes": [],
-      "age": 41,
+      "age": 44,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-28",
@@ -573,7 +650,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 15,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -614,10 +691,55 @@
         "ess"
       ],
       "alertes": [],
-      "age": 15,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
+      "nouvelle": false
+    },
+    {
+      "id": "8432300",
+      "intitule": "Chef de projet ferroviaire Senior H/F - 13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8432300",
+      "entreprise": {
+        "nom": "SOM Sud",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8432300"
+      },
+      "exigences": [
+        "40 ans d'expérience demandés",
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - Marseille 2e Arrondissement",
+      "commune": "13202",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-10-31T03:31:42.396Z",
+      "description": "RESPONSABILITÉS : \n\nNotre agence SOM Sud, implantée à Martigues, met son savoir-faire au service des industriels du bassin méditerranéen pour des missions de conception, d'arrêts d'unité et de performance.\nIntégré(e) à un contrat en CDI sur projet sur le site client dans les Bouches-du-Rhône, vous assurerez une prestation d'assistance technique sur un poste de Chef de projet Senior dans le domaine Ferroviaire.\nVotre rôle en tant que Chef de projet Senior Ferroviaire, sera de mener à bien les missions suivantes :\n -  Intégration et consolidation des plannings\nConsolider les plannings des différentes opérations à l'échelle d'un département.\nConstruire une vision assemblée des projets et des interfaces.\nVérifier la cohérence entre les différents niveaux de planification.\nGarantir l'intégration des jalons stratégiques et des mises en service.\n -  Analyse des interfaces et des chemins critiques\n - Identifier les chemins critiques multi-opérations.\n - Mettre en évidence les interfaces sensibles entre opérations.\n - Analyser les impacts des décalages de planning.\n - Proposer des scénarios alternatifs et mesures correctives.\n - Réaliser des analyses multicritères permettant les arbitrages ",
+      "score": 33,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "social",
+        "ess",
+        "solidaire"
+      ],
+      "alertes": [
+        "10 ans d'experience"
+      ],
+      "age": 9,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-02",
       "nouvelle": false
     },
     {
@@ -653,7 +775,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 57,
+      "age": 60,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -692,18 +814,18 @@
         "rse"
       ],
       "alertes": [],
-      "age": 29,
+      "age": 32,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
       "nouvelle": false
     },
     {
-      "id": "7515000",
-      "intitule": "Chef de Projet Transformation Digitale / Conduite du Changement SAP (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7515000",
+      "id": "8647242",
+      "intitule": "Responsable Développement Commercial Zone SUD FRANCE (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8647242",
       "entreprise": {
-        "nom": "STEP UP",
+        "nom": "ACE EMPLOI PONTCHARRA",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -713,33 +835,31 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7515000"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8647242"
       },
-      "exigences": [
-        "courant anglais courant"
-      ],
-      "lieu": "13 - Martigues",
-      "commune": "13056",
+      "exigences": [],
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
       "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-09-30T11:21:36.863Z",
-      "description": "STEP UP est une société d'ingénierie experte en pilotage de projets industriels et informatiques (+ 250 collaborateurs sur 11 agences en France), plaçant le potentiel humain comme 1er vecteur d'excellence et de performance en entreprise.\nOubliez les sociétés d'ingénierie qui ne valorisent que vos seules compétences, chez STEP UP, nous visons également l'adéquation entre votre personnalité et la culture d'entreprise de nos clients. Cela se traduit pour vous par une différence fondamentale en termes de bien être, d'épanouissement au travail et de succès dans vos missions.\n\nCe que nous vous proposons :\n - Un cadre de travail épanouissant, stimulant et collaboratif, nous sommes certifiés entreprise où il fait bon vivre !\n - Des projets innovants et variés.\n - La possibilité de se perfectionner continuellement avec des formations internes.\n - Des perspectives d'évolution de carrière.\n - Un accompagnement individualisé avec un programme de développement du potentiel humain.\n - Un programme de cooptation.\nEt bien sûr, nous prenons en charge 70% de votre mutuelle santé et encourageons financièrement la mobilité douce.\n\nLe poste : \n\nChef de Projet Transformation Digitale / Conduite du Chang",
-      "score": 28,
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-11-07T14:34:34.345Z",
+      "description": "Notre client est un acteur incontournable dans la commercialisation de solutions techniques auprès d'une clientèle professionnelle\n\nRattaché(e) au Directeur Commercial France, vous êtes responsable du développement commercial de votre secteur géographique, à définir,  et du pilotage des équipes commerciales afin d'atteindre les objectifs de croissance, de chiffre d'affaires et de rentabilité.\nVéritable relais de la stratégie commerciale de l'entreprise sur votre périmètre, vous contribuez activement à la conquête de nouveaux marchés et à la fidélisation des clients existants.\nVos missions\nDévelopper l'activité commerciale de votre zone\n- Déployer la stratégie commerciale définie par la Direction.\n- Organiser et animer la force commerciale sur votre secteur.\n- Développer et fidéliser un portefeuille clients existants.\n- Identifier de nouvelles opportunités d'affaires auprès des clients et prospects.\n- Assurer le suivi régulier de votre clientèle.\n- Analyser les évolutions du marché et de la concurrence.\n- Définir et mettre en oeuvre des actions commerciales adaptées.\n- Participer aux négociations stratégiques et aux appels d'offres majeurs.\n- Garantir l'atteinte des objectifs de chi",
+      "score": 23,
       "touches": [
-        "chef de projet (titre)",
-        "formation (titre)",
-        "environnement",
-        "innovation"
+        "business developer",
+        "formation",
+        "social",
+        "ess"
       ],
       "alertes": [
-        "10 ans d'experience"
+        "portefeuille clients"
       ],
-      "age": 37,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-30",
-      "nouvelle": false
+      "vueLe": "2026-11-09",
+      "nouvelle": true
     },
     {
       "id": "214PWRS",
@@ -774,7 +894,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 36,
+      "age": 40,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
