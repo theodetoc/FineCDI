@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-11-09T15:29:57.309Z",
+  "misAJour": "2026-11-11T13:44:35.198Z",
   "total": 22,
   "offres": [
     {
@@ -37,7 +37,7 @@
         "territoire"
       ],
       "alertes": [],
-      "age": 5,
+      "age": 7,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-04",
@@ -78,7 +78,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 10,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
@@ -119,11 +119,11 @@
         "rse"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "8591352",
@@ -161,7 +161,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 3,
+      "age": 5,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-06",
@@ -202,11 +202,11 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "215CQWZ",
@@ -240,7 +240,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 28,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-12",
@@ -280,11 +280,11 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "4711299",
@@ -320,7 +320,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 123,
+      "age": 125,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -362,7 +362,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -404,7 +404,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -446,7 +446,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -488,7 +488,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -527,7 +527,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -567,53 +567,10 @@
         "rse"
       ],
       "alertes": [],
-      "age": 111,
+      "age": 113,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
-      "nouvelle": false
-    },
-    {
-      "id": "7404842",
-      "intitule": "Formateur / Formatrice (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7404842",
-      "entreprise": {
-        "nom": "Croix-rouge française",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/7404842"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "83 - Ollioules",
-      "commune": "83090",
-      "contrat": "CDI",
-      "romeCode": "K2111",
-      "romeLibelle": "Formateur / Formatrice",
-      "dateCreation": "2026-09-26T03:30:30.267Z",
-      "description": "Description du poste :\n\nDécouvrez votre futur poste :\n\nFormateur H/F/X\n\nSous la responsabilité du Responsable pédagogique, le formateur coordinateur assure la formation professionnelle initiale des étudiants des filières de formation en licences de travail social (DEES, DEASS et DEEJE) en référence au programme officiel d'étude et la coordination des équipes. En cohérence avec le projet pédagogique de la filière de l'établissement Vous construisez en équipe le projet de formation en cohérence avec le cadre réglementaire et les évolutions professionnelles et/ou en réponse aux besoins du secteur professionnel Vous préparez, vous animez et vous évaluez les formations ou les séquences de formation dont vous avez la charge Vous assurez le suivi pédagogique des élèves ou étudiants pendant leurs périodes de cours et durant les stages Vous collaborez au processus d'évaluation etc Date de prise de poste souhaitée : 02/11/2026\n\nType de contrat : CDI TEMPS PLEIN\n\nDescription du profil :\n\nVous êtes titulaire d'un diplôme MASTER 2 (exigé), vous avez une expérience dans le domaine universitaire et dans le domaine social, vous êtes titulaire d'un DE dans le domaine social (DEEJE, DEES, DEASS) et ",
-      "score": 36,
-      "touches": [
-        "coordinateur",
-        "pedagogi",
-        "formation",
-        "social",
-        "ess",
-        "association"
-      ],
-      "alertes": [],
-      "age": 44,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-09-28",
       "nouvelle": false
     },
     {
@@ -650,11 +607,55 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
       "nouvelle": false
+    },
+    {
+      "id": "8687599",
+      "intitule": "Chef de Projet - Services à l'Environnement International H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8687599",
+      "entreprise": {
+        "nom": "ORTEC SERVICES",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8687599"
+      },
+      "exigences": [
+        "courant anglais courant"
+      ],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-11-10T03:31:36.661Z",
+      "description": "RESPONSABILITÉS : \n\nVous souhaitez mettre votre expertise technique et votre sens de la gestion de projet au service de la transition environnementale ? Rejoignez-nous !\nNous recrutons un(e) Chef de Projet chargé d'accompagner le développement et la réalisation de projets stratégiques dans le domaine des services à l'environnement  :\n - Gestion des déchets :\nCréation et développement d'unités et de centres de traitement, support à l'exploitation d'installations existantes, gestion et organisation des opérations d'export de déchets.\n - Dépollution :\nTraitement de sites et sols pollués (landfarming, biopiles, désorption thermique, etc.).\n - Autres activités environnementales :\nNettoyage industriel (onshore / offshore), gestion des arrêts d'unités, actions liées à la transition énergétique (diagnostic carbone, amélioration de la performance énergétique, solutions de réduction de l'empreinte carbone...).\nAu cœur d'une activité en pleine évolution, vous interviendrez sur des missions variées mêlant gestion de projet, pilotage opérationnel & développement d'affaires.\nVos principales missions :\nPilotage des projets\n - Définition des solutions techniques et des moyens nécessaires.\n - Élabo",
+      "score": 36,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement (titre)"
+      ],
+      "alertes": [
+        "10 ans d'experience",
+        "portefeuille clients"
+      ],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-11",
+      "nouvelle": true
     },
     {
       "id": "215MMYB",
@@ -691,7 +692,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 19,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -736,7 +737,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -775,7 +776,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 60,
+      "age": 62,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -814,7 +815,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 32,
+      "age": 34,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -855,11 +856,11 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 2,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "214PWRS",
@@ -894,7 +895,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 40,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-02",
