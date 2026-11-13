@@ -1,5 +1,6 @@
-**1 nouvelle(s) offre(s)** au-dessus du seuil de 25.
+**2 nouvelle(s) offre(s)** au-dessus du seuil de 25.
 
-- **36** · [Chef de Projet - Services à l'Environnement International H/F](https://candidat.francetravail.fr/offres/recherche/detail/8687599) — ORTEC SERVICES, 13 - Aix-en-Provence
-  canal conseillé : linkedin · touches : chef de projet (titre), formation, ess, environnement (titre)
-  ⚠︎ 10 ans d'experience, portefeuille clients
+- **42** · [Coordinateur Projets Installations Générales (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/8763117) — ALPHA, 13 - Marseille 1er Arrondissement
+  canal conseillé : linkedin · touches : coordinateur (titre), pedagogi, formation, ess
+- **40** · [Enseignant / formateur (H/F)](https://candidat.francetravail.fr/offres/recherche/detail/8769367) — Entreprise non nommée, 83 - Ollioules
+  canal conseillé : linkedin · touches : coordinateur, pedagogi, formation, social, ess, association
