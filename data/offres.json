@@ -1,6 +1,6 @@
 {
-  "misAJour": "2026-11-16T15:07:40.277Z",
-  "total": 22,
+  "misAJour": "2026-11-18T15:17:36.473Z",
+  "total": 19,
   "offres": [
     {
       "id": "215VPQD",
@@ -37,51 +37,10 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
-      "nouvelle": false
-    },
-    {
-      "id": "8638285",
-      "intitule": "Business Developer - Marché Allemand (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8638285",
-      "entreprise": {
-        "nom": "Charly / Recrutement & Intérim",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8638285"
-      },
-      "exigences": [
-        "professionnel anglais courant"
-      ],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-11-07T11:21:41.646Z",
-      "description": "Charly est un cabinet de recrutement indépendant, créé en 2009 à Marseille. Nous accompagnons des entreprises de toutes tailles, partout en France, dans le recrutement de leurs spécialistes, managers et fonctions clés, en CDI, CDD et intérim.\nNotre conviction : réussir un recrutement ne devrait pas être une question de chance. Chaque poste est cadré en détail avec l'entreprise avant le lancement, et chaque candidat est évalué sur ce qui fait réussir dans le poste. Pas au feeling.\nNous travaillons en transparence avec les entreprises comme avec les candidats : un suivi régulier, des retours clairs, une réponse à chaque candidature. Nos consultants ont tous le même objectif, et c'est aussi celui de nos clients et de nos candidats : un recrutement qui dure.\n\n\nLe poste : \n\nVous aimez ouvrir des portes et transformer un premier contact en rendez-vous qualifié - Ouvrir un nouveau marché en Allemagne, avec tout à construire ne vous fait pas peur ?\nAlors rejoignez notre client, éditeur d'une solution SaaS dédiée au transport maritime, en tant que Business Developer Allemagne H/F, en CDI à Aix-en-Provence.\nCette entreprise française commercialise déjà son logiciel en France et aux Pays-Bas.",
-      "score": 56,
-      "touches": [
-        "business developer (titre)",
-        "ess (titre)",
-        "environnement",
-        "rse"
-      ],
-      "alertes": [],
-      "age": 9,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-11-09",
       "nouvelle": false
     },
     {
@@ -120,7 +79,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 10,
+      "age": 12,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-06",
@@ -160,7 +119,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 130,
+      "age": 132,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -201,7 +160,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
@@ -242,7 +201,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-13",
@@ -282,53 +241,10 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
-      "nouvelle": false
-    },
-    {
-      "id": "8769367",
-      "intitule": "Enseignant / formateur (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8769367",
-      "entreprise": {
-        "nom": "Entreprise non nommée",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8769367"
-      },
-      "exigences": [
-        "Bac+5 exigé"
-      ],
-      "lieu": "83 - Ollioules",
-      "commune": "83090",
-      "contrat": "CDI",
-      "romeCode": "K2111",
-      "romeLibelle": "Formateur / Formatrice",
-      "dateCreation": "2026-11-12T19:06:06.067Z",
-      "description": "Poste\n\nDécouvrez votre futur poste : \n\nFormateur H/F/X\n\nSous la responsabilité du Responsable pédagogique, le formateur coordinateur assure la formation professionnelle initiale des étudiants des filières de formation en licences de travail social (DEES, DEASS et DEEJE) en référence au programme officiel d'étude et la coordination des équipes. En cohérence avec le projet pédagogique de la filière de l'établissement :\n\n * Vous construisez en équipe le projet de formation en cohérence avec le cadre réglementaire et les évolutions professionnelles et/ou en réponse aux besoins du secteur professionnel ;\n * Vous préparez, vous animez et vous évaluez les formations ou les séquences de formation dont vous avez la charge ;\n * Vous assurez le suivi pédagogique des élèves ou étudiants pendant leurs périodes de cours et durant les stages ;\n * Vous collaborez au processus d'évaluation ;\n * etc...\n\nDate de prise de poste souhaitée : 02/11/2026\n\nType de contrat : CDI TEMPS PLEIN \n\nRejoignez-nous\n\nForte de ses 66 275 bénévoles et 16 700 salariés engagés en France comme à l'étranger, la Croix-Rouge française, (650 établissements et services pour 1,5 milliards de CA annuel) c'est à la fois une asso",
-      "score": 40,
-      "touches": [
-        "coordinateur",
-        "pedagogi",
-        "formation",
-        "social",
-        "ess",
-        "association"
-      ],
-      "alertes": [],
-      "age": 3,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-11-13",
       "nouvelle": false
     },
     {
@@ -367,7 +283,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 16,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -409,7 +325,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 24,
+      "age": 26,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -451,7 +367,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -493,7 +409,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -532,7 +448,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 24,
+      "age": 26,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -572,7 +488,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 118,
+      "age": 120,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -612,54 +528,10 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
-      "nouvelle": false
-    },
-    {
-      "id": "8687599",
-      "intitule": "Chef de Projet - Services à l'Environnement International H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8687599",
-      "entreprise": {
-        "nom": "ORTEC SERVICES",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": null,
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8687599"
-      },
-      "exigences": [
-        "courant anglais courant"
-      ],
-      "lieu": "13 - Aix-en-Provence",
-      "commune": "13001",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-11-10T03:31:36.661Z",
-      "description": "RESPONSABILITÉS : \n\nVous souhaitez mettre votre expertise technique et votre sens de la gestion de projet au service de la transition environnementale ? Rejoignez-nous !\nNous recrutons un(e) Chef de Projet chargé d'accompagner le développement et la réalisation de projets stratégiques dans le domaine des services à l'environnement  :\n - Gestion des déchets :\nCréation et développement d'unités et de centres de traitement, support à l'exploitation d'installations existantes, gestion et organisation des opérations d'export de déchets.\n - Dépollution :\nTraitement de sites et sols pollués (landfarming, biopiles, désorption thermique, etc.).\n - Autres activités environnementales :\nNettoyage industriel (onshore / offshore), gestion des arrêts d'unités, actions liées à la transition énergétique (diagnostic carbone, amélioration de la performance énergétique, solutions de réduction de l'empreinte carbone...).\nAu cœur d'une activité en pleine évolution, vous interviendrez sur des missions variées mêlant gestion de projet, pilotage opérationnel & développement d'affaires.\nVos principales missions :\nPilotage des projets\n - Définition des solutions techniques et des moyens nécessaires.\n - Élabo",
-      "score": 36,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess",
-        "environnement (titre)"
-      ],
-      "alertes": [
-        "10 ans d'experience",
-        "portefeuille clients"
-      ],
-      "age": 6,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-11-11",
       "nouvelle": false
     },
     {
@@ -697,7 +569,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 26,
+      "age": 28,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -742,10 +614,54 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 16,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
+      "nouvelle": false
+    },
+    {
+      "id": "8687599",
+      "intitule": "Chef de Projet - Services à l'Environnement International H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8687599",
+      "entreprise": {
+        "nom": "ORTEC SERVICES",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/8687599"
+      },
+      "exigences": [
+        "courant anglais courant"
+      ],
+      "lieu": "13 - Aix-en-Provence",
+      "commune": "13001",
+      "contrat": "CDI",
+      "romeCode": "M1402",
+      "romeLibelle": "Responsable en organisation en entreprise",
+      "dateCreation": "2026-11-10T03:31:36.661Z",
+      "description": "RESPONSABILITÉS : \n\nVous souhaitez mettre votre expertise technique et votre sens de la gestion de projet au service de la transition environnementale ? Rejoignez-nous !\nNous recrutons un(e) Chef de Projet chargé d'accompagner le développement et la réalisation de projets stratégiques dans le domaine des services à l'environnement  :\n - Gestion des déchets :\nCréation et développement d'unités et de centres de traitement, support à l'exploitation d'installations existantes, gestion et organisation des opérations d'export de déchets.\n - Dépollution :\nTraitement de sites et sols pollués (landfarming, biopiles, désorption thermique, etc.).\n - Autres activités environnementales :\nNettoyage industriel (onshore / offshore), gestion des arrêts d'unités, actions liées à la transition énergétique (diagnostic carbone, amélioration de la performance énergétique, solutions de réduction de l'empreinte carbone...).\nAu cœur d'une activité en pleine évolution, vous interviendrez sur des missions variées mêlant gestion de projet, pilotage opérationnel & développement d'affaires.\nVos principales missions :\nPilotage des projets\n - Définition des solutions techniques et des moyens nécessaires.\n - Élabo",
+      "score": 32,
+      "touches": [
+        "chef de projet (titre)",
+        "formation",
+        "ess",
+        "environnement (titre)"
+      ],
+      "alertes": [
+        "10 ans d'experience",
+        "portefeuille clients"
+      ],
+      "age": 8,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-11",
       "nouvelle": false
     },
     {
@@ -772,7 +688,7 @@
       "romeCode": "M1707",
       "romeLibelle": "Responsable du développement commercial",
       "dateCreation": "2026-09-10T03:31:22.565Z",
-      "description": "Description du poste :\n\nDescription\n\nDans le cadre du développement de notre agence de Toulon, nous recherchons un(e) Technico-commercial(e).\nSi tu es motivé(e), dynamique, que tu possèdes un excellent sens du relationnel, une bonne connaissance du secteur du BTP et que tu as une première expérience dans le commerce ou l'intérim, ton profil nous intéresse !\nTes missions seront Développer un portefeuille clients dans ton secteur en toute autonomie,\n- Prospecter sur le terrain et par téléphone,\n- Vérifier et demander les encours,\n- Etablir des propositions commerciales,\n- Assurer le suivi commercial et administratif,\n- Assurer la relation clientèle,\n- Être garant du prévisionnel établit en CA annuel, avec un nombre d'ouverture de comptes minimum déterminé par la direction,\n- Recruter les intérimaires à placer\nListe non exhaustive.\nSi tu souhaites intégrer une équipe soudée ou l'esprit d'équipe, la bonne humeur et le sens du travail bien fait sont les éléments clés : Ce poste est fait pour toi !\nCULTURE INTERIM, CULTIVER LA DIFFERENCE !\n\nDescription du profil :\n\nProfil\n\nBonne organisation, autonomie et sens des responsabilités\nExcellent relationnel et capacité à créer du lien avec les",
+      "description": "Description du poste :\n\nDescription\n\nDans le cadre du développement de notre agence de Toulon, nous recherchons un(e) Technico-commercial(e).\n\nSi tu es motivé(e), dynamique, que tu possèdes un excellent sens du relationnel, une bonne connaissance du secteur du BTP et que tu as une première expérience dans le commerce ou l'intérim, ton profil nous intéresse !\nTes missions seront Développer un portefeuille clients dans ton secteur en toute autonomie,\n- Prospecter sur le terrain et par téléphone,\n- Vérifier et demander les encours,\n- Etablir des propositions commerciales,\n- Assurer le suivi commercial et administratif,\n- Assurer la relation clientèle,\n- Être garant du prévisionnel établit en CA annuel, avec un nombre d'ouverture de comptes minimum déterminé par la direction,\n- Recruter les intérimaires à placer\nListe non exhaustive.\nSi tu souhaites intégrer une équipe soudée ou l'esprit d'équipe, la bonne humeur et le sens du travail bien fait sont les éléments clés : Ce poste est fait pour toi !\nCULTURE INTERIM, CULTIVER LA DIFFERENCE !\n\nDescription du profil :\n\nProfil\n\nBonne organisation, autonomie et sens des responsabilités\nExcellent relationnel et capacité à créer du lien avec le",
       "score": 29,
       "touches": [
         "charge de developpement (titre)",
@@ -781,7 +697,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 67,
+      "age": 69,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -820,7 +736,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 39,
+      "age": 41,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -861,49 +777,10 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 9,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
-      "nouvelle": false
-    },
-    {
-      "id": "214PWRS",
-      "intitule": "RESPONSABLE DE SECTEUR PACA H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PWRS",
-      "entreprise": {
-        "nom": "GROUPE AIRWELL",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "GROUPE AIRWELL - X AURORE TRAVERS",
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/828983?utm_source=NQ==",
-        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/828983?utm_source=NQ=="
-      },
-      "exigences": [],
-      "lieu": "13 - Marseille 13e Arrondissement",
-      "commune": "13213",
-      "contrat": "CDI",
-      "romeCode": "M1707",
-      "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-09-30T14:31:01.213Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nRejoignez nous en tant que Responsable de secteur PACA (H/F)\n\n\nDans le cadre de notre croissance, nous recherchons un(e) Responsable de secteur PACA pour développer et animer notre activité commerciale sur un secteur stratégique.\n\n\nVéritable ambassadeur(drice) de nos solutions, vous jouez un rôle clé dans la croissance de notre chiffre d'affaires et la satisfaction de nos partenaires.\n\n\nVotre mission :\n\n\n- Développer et fidéliser un portefeuille clients (installateurs et distributeurs) grâce à une prospection ciblée et performante\n\n\n- Élaborer et piloter le plan d'action commercial annuel de votre secteur, en cohérence avec notre stratégie et notre mix produits\n\n\n- Promouvoir nos gammes de solutions en chauffage, ventilation et solaire sur les marchés résidentiels, collectifs et tertiaires\n\n\n- Animer votre réseau clients à travers des rendez-vous technico-commerciaux à forte valeur ajoutée\n\n\n- Être à l'écoute du marché et assurer une veille concurrentielle active\n\n\n- Assurer un reporting régulier de votre activité et mettre à jour le CRM\n\n\n- Participer au suivi des encaissements liés à votre activité\n\n\n- D",
-      "score": 15,
-      "touches": [
-        "responsable de secteur (titre)",
-        "rse"
-      ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 47,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-02",
       "nouvelle": false
     }
   ]
