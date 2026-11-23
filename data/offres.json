@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-11-20T15:00:36.584Z",
+  "misAJour": "2026-11-23T17:36:42.430Z",
   "total": 18,
   "offres": [
     {
@@ -37,7 +37,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 21,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
@@ -79,7 +79,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 14,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-06",
@@ -119,7 +119,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 134,
+      "age": 137,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -160,11 +160,50 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
       "nouvelle": false
+    },
+    {
+      "id": "9039025",
+      "intitule": "Formateur coordinateur sur logiciel de paye H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9039025",
+      "entreprise": {
+        "nom": "ISAGRI",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/9039025"
+      },
+      "exigences": [],
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
+      "contrat": "CDI",
+      "romeCode": "K2111",
+      "romeLibelle": "Formateur / Formatrice",
+      "dateCreation": "2026-11-21T03:31:27.223Z",
+      "description": "RESPONSABILITÉS : \n\nDirectement rattaché au Responsable Pédagogique, vous accompagnez nos clients dans la prise en main et l'utilisation de nos solutions. Véritable représentant d'ISAGRI, vous contribuez à la satisfaction et à la fidélisation de nos clients grâce à la qualité de vos formations.\n\nÀ ce titre, vous serez amené à :\n1- Contribuer activement à la satisfaction et à la fidélisation de nos clients : \n - Assurer des formations de qualité dans un premier temps sur le logiciel de paye puis de manière plus élargie au fur et à mesure de la montée en compétence : préparation, analyse des besoins du client, paramétrages et formations (en présentiel et à distance),\n - Détecter des projets complémentaires chez vos clients selon leurs besoins et les accompagner dans les démarches.\n - Maîtriser les stratégies de l'entreprise en lien avec la satisfaction et la fidélisation de nos clients.\n\n2- Animer et accompagner notre réseau partenaire (correspondants terrain): \n - Veiller à la qualité des formations délivrées aux clients.\n - Organiser la montée en compétence de notre réseau de correspondant.\n - Animer des réunions de capitalisation et de partage d'expertise métier.\n - Réaliser des é",
+      "score": 42,
+      "touches": [
+        "coordinateur (titre)",
+        "pedagogi",
+        "formation",
+        "ess"
+      ],
+      "alertes": [],
+      "age": 2,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-23",
+      "nouvelle": true
     },
     {
       "id": "8634427",
@@ -200,52 +239,10 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 13,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
-      "nouvelle": false
-    },
-    {
-      "id": "215WZPV",
-      "intitule": "Chef de projets offres / contrats  H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215WZPV",
-      "entreprise": {
-        "nom": "CNIM SYSTEMES INDUSTRIELS",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "CNIM SYSTEMES INDUSTRIELS - X ELISE PAYOT",
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/821597?utm_source=NQ==",
-        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/821597?utm_source=NQ=="
-      },
-      "exigences": [
-        "Bac+5 exigé",
-        "courant anglais courant"
-      ],
-      "lieu": "83 - Seyne-sur-Mer",
-      "commune": "83126",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-31T00:01:46.326Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Nucléaire, rattaché(e) au Responsable des activités terrestres, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements militaires terrestres destinés aux forces françaises et à l'export.\n\n\n\nPour mener à bien votre mission, vous devrez :\n\n\nSur la phase offre, vous devrez :\n\n\n\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à partir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risques e",
-      "score": 40,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess",
-        "environnement"
-      ],
-      "alertes": [],
-      "age": 20,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-11-02",
       "nouvelle": false
     },
     {
@@ -284,7 +281,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 28,
+      "age": 31,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -326,7 +323,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 30,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -365,7 +362,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 28,
+      "age": 31,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -406,7 +403,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 8,
+      "age": 11,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-13",
@@ -446,7 +443,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 122,
+      "age": 125,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -486,7 +483,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 30,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -527,7 +524,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 30,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -572,7 +569,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 20,
+      "age": 23,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -616,7 +613,7 @@
         "10 ans d'experience",
         "portefeuille clients"
       ],
-      "age": 10,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-11",
@@ -655,7 +652,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 71,
+      "age": 74,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -694,7 +691,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 43,
+      "age": 46,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -735,7 +732,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 13,
+      "age": 16,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
