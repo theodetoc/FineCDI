@@ -1,7 +1,49 @@
 {
-  "misAJour": "2026-11-23T17:36:42.430Z",
-  "total": 18,
+  "misAJour": "2026-11-25T16:55:23.567Z",
+  "total": 19,
   "offres": [
+    {
+      "id": "216VPJR",
+      "intitule": "Chargé de missions partenariats (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216VPJR",
+      "entreprise": {
+        "nom": "Entreprise non nommée",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/216VPJR"
+      },
+      "exigences": [
+        "Bac+5 exigé"
+      ],
+      "lieu": "13 - MARSEILLE 02",
+      "commune": "13202",
+      "contrat": "CDI",
+      "romeCode": "K1802",
+      "romeLibelle": "Chargé / Chargée de développement économique et local",
+      "dateCreation": "2026-11-24T17:25:24.301Z",
+      "description": "Transitions Pro PACA (ex Fongecif PACA) est une association Loi 1901 qui bénéficie d'un agrément du Ministère du Travail notamment pour gérer avec performance le dispositif « Projet de Transition Professionnelle (PTP) », issu de la loi du 5 Septembre 2018 pour la liberté de choisir son avenir professionnel.\nSous certaines conditions, les salariés bénéficient d'un droit à congé pour changer de métier, et peuvent obtenir la prise en charge par Transitions Pro du coût de leur formation et du maintien de leur rémunération.\n\nMobilisée pour accompagner les salariés dans la réussite de leur projet de reconversion, Transitions Pro PACA recherche un/une chargé(e) de missions partenariats.\n\nPrincipales missions :\n- Prospecter, échanger et aller à la rencontre notamment de nouveaux partenaires pour concourir à développer la demande (PTP, PUR, etc.) en lien avec nos priorités, et contribuer à faire rayonner la structure ;\n- Négocier la mise en place de conventions, notamment financières, et assurer leur opérationnalisation, pilotage et suivi ;\n- Maîtriser l'animation de réunions, d'ateliers, de webinaires, la prise de parole en public, mais aussi l'animation d'un réseau de partenaires, et la c",
+      "score": 61,
+      "touches": [
+        "charge de mission (titre)",
+        "chargee de mission",
+        "formation",
+        "ess",
+        "association"
+      ],
+      "alertes": [],
+      "age": 0,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-25",
+      "nouvelle": true
+    },
     {
       "id": "215VPQD",
       "intitule": "Business Developer (H/F)",
@@ -37,7 +79,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
@@ -79,18 +121,18 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 17,
+      "age": 19,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-06",
       "nouvelle": false
     },
     {
-      "id": "4711299",
-      "intitule": "Responsable développement / Business Developer (H/F)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4711299",
+      "id": "9176740",
+      "intitule": "Business Developer - Chargé.e de relations entreprises (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9176740",
       "entreprise": {
-        "nom": "SCALERS",
+        "nom": "3.14",
         "url": null,
         "trancheEffectif": null,
         "siret": null
@@ -100,30 +142,28 @@
         "courriel": null,
         "telephone": null,
         "coordonnees": null,
-        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/4711299"
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/9176740"
       },
       "exigences": [],
-      "lieu": "83 - Toulon",
-      "commune": "83137",
+      "lieu": "13 - Marseille 1er Arrondissement",
+      "commune": "13201",
       "contrat": "CDI",
       "romeCode": "M1707",
       "romeLibelle": "Responsable du développement commercial",
-      "dateCreation": "2026-07-09T03:19:44.000Z",
-      "description": "Description du poste :\n\nMissions principales\nProspection & Développement commercial\nRéaliser environ 50 appels de prospection par jour\nObjectif : 10-12 rdv par semaine\nOrganiser et effectuer des rendez-vous physiques quotidiens\nProspecter activement les établissements CHR de votre secteur\nDévelopper un portefeuille clients local\nVente & Closing\n\n\nIdentifier rapidement les besoins des clients\nConstruire une relation de confiance avec les exploitants et dirigeants\nPrésenter les solutions de manière claire et impactante\nNégocier et signer les contrats\nAssurer un suivi commercial de qualité\nPilotage & Performance\nSuivre vos KPI commerciaux\nAlimenter le CRM et assurer un reporting régulier\nÊtre force de proposition sur les actions commerciales terrain\n\nDescription du profil :\n\nProfil recherché\nVéritable profil chasseur avec forte culture du résultat\nÀ laise avec la prospection intensive et le terrain\nCapacité à gérer un cycle de vente en full cycle\nExcellent relationnel et forte énergie commerciale\nGoût pour les environnements rapides et entrepreneuriaux\nCapacité à créer du lien rapidement avec des dirigeants de CHR\nExpérience appréciée\nExpérience en vente B2B terrain\nConnaissance du se",
-      "score": 44,
+      "dateCreation": "2026-11-25T11:21:35.867Z",
+      "description": "3.14 Talent est un cabinet de recrutement spécialisé dans les métiers commerciaux. Nous accompagnons nos clients dans la recherche de profils adaptés à leurs besoins et aidons les candidats à évoluer vers de nouvelles opportunités. Notre approche est centrée sur l'efficacité et la compréhension concrète des enjeux du terrain.\n\nLe poste : \n\nVous rejoignez une école qui forme aux métiers du commerce (vente, marketing, digital). Votre rôle : développer le réseau d'entreprises partenaires qui recrutent ces apprenants en alternance. Vous restez aussi l'interlocuteur.rice de ces entreprises jusqu'à la signature du contrat.\n\nLes missions :\n\nProspecter de nouvelles entreprises (startups, PME, ETI, grands comptes) susceptibles de recruter des alternants\nPrésenter les formations et convaincre ces entreprises de rejoindre le réseau de partenaires\nAnalyser leurs besoins de recrutement et les aligner avec les candidats présélectionnés\nParticiper à la sélection des candidats\nOrganiser des entretiens OU des job datings pour faciliter le matching\nSuivre chaque recrutement en alternance jusqu'à la signature du contrat\nParticiper à la stratégie de développement de l'école\n\nLes conditions \n\nPrise de ",
+      "score": 48,
       "touches": [
         "business developer (titre)",
-        "ess (titre)",
-        "environnement"
+        "formation",
+        "ess (titre)"
       ],
-      "alertes": [
-        "portefeuille clients"
-      ],
-      "age": 137,
+      "alertes": [],
+      "age": 0,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-08-19",
-      "nouvelle": false
+      "vueLe": "2026-11-25",
+      "nouvelle": true
     },
     {
       "id": "8631452",
@@ -160,7 +200,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 16,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
@@ -199,11 +239,11 @@
         "ess"
       ],
       "alertes": [],
-      "age": 2,
+      "age": 4,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-23",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "8634427",
@@ -239,7 +279,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 16,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
@@ -273,48 +313,6 @@
       "romeLibelle": "Responsable en organisation en entreprise",
       "dateCreation": "2026-10-23T01:03:06.106Z",
       "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nVous souhaitez piloter un projet d'envergure internationale, stratégique pour l'entreprise et à fort impact opérationnel ? Rejoignez une équipe engagée sur le programme des Ponts Flottants Motorisés destinés à l'armée polonaise.\n\n\nSuite à une évolution interne, nous recherchons notre nouveau Chef de Projet pour prendre les commandes de ce programme majeur.\n\n\n \n\n\nVos défis\n\n\nÀ la tête d'un projet à plusieurs millions d'euros, vous serez responsable du pilotage global de l'affaire, de la maîtrise des enjeux techniques, contractuels, financiers et relationnels.\n\n\nAccompagné(e) d'un Chef de projet adjoint, vous devrez être capable de passer d'une vision opérationnelle, au plus près du terrain et de la résolution des problématiques techniques, à une vision stratégique afin d'anticiper les prochaines étapes du programme.\n\n\nVous évoluerez au cœur d'un environnement international en coordonnant de nombreux interlocuteurs : bureaux d'études, ateliers de production, essais, ordonnancement, contrôle export, sous-traitants, autorités étatiques et militaires, en France comme en Pologne.\n\n\nVotre expertise en contract ma",
-      "score": 40,
-      "touches": [
-        "chef de projet (titre)",
-        "formation",
-        "ess",
-        "environnement"
-      ],
-      "alertes": [],
-      "age": 31,
-      "canal": "linkedin",
-      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
-      "vueLe": "2026-10-23",
-      "nouvelle": false
-    },
-    {
-      "id": "215MQMB",
-      "intitule": "CHEF DE PROJETS OFFRES CONTRATS NUCLEAIRE H/F",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MQMB",
-      "entreprise": {
-        "nom": "CNIM SYSTEMES INDUSTRIELS",
-        "url": null,
-        "trancheEffectif": null,
-        "siret": null
-      },
-      "contact": {
-        "nom": "CNIM SYSTEMES INDUSTRIELS - X ELISE PAYOT",
-        "courriel": null,
-        "telephone": null,
-        "coordonnees": "https://www.lindustrie-recrute.fr/candidat/offre/824938?utm_source=NQ==",
-        "urlPostulation": "https://www.lindustrie-recrute.fr/candidat/offre/824938?utm_source=NQ=="
-      },
-      "exigences": [
-        "Bac+5 exigé",
-        "courant anglais courant"
-      ],
-      "lieu": "83 - Seyne-sur-Mer",
-      "commune": "83126",
-      "contrat": "CDI",
-      "romeCode": "M1402",
-      "romeLibelle": "Responsable en organisation en entreprise",
-      "dateCreation": "2026-10-21T14:24:27.389Z",
-      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nAu sein de la Business Unit Nucléaire, rattaché(e) au Responsable de l'activité Nucléaire, vous serez\nen charge de piloter les réponses aux appels d'offres et/ou d'encadrer une équipe projet. Vous\nassurerez également le pilotage et le reporting des projets, dans le respect des engagements\ncontractuels, des budgets, des délais et des exigences de qualité, pour des équipements destinés à\nl'industrie Nucléaire, pour les grands donneurs d'ordre français ou internationaux.\n\nPour mener à bien votre mission sur la phase offre, vous devrez :\n- Collaborer en binôme avec le responsable commercial de l'offre pour établir la stratégie d'offre à\npartir de l'analyse du marché, de l'environnement concurrentiel et de la stratégie de l'Entreprise.\n- Identifier, organiser et planifier les activités de l'offre en accord avec le processus de l'Entreprise.\n- Piloter une équipe pluridisciplinaire : Etudes, Production, Achats, Qualité, Sécurité.\n- Etablir le make-or-buy et le montage industriel.\n- Monter les éventuels partenariats appropriés.\n- Établir et optimiser un prix de revient robuste.\n- Identifier et quantifier les risqu",
       "score": 40,
       "touches": [
         "chef de projet (titre)",
@@ -362,11 +360,50 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 31,
+      "age": 33,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
       "nouvelle": false
+    },
+    {
+      "id": "9116590",
+      "intitule": "Business Developer H/F",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9116590",
+      "entreprise": {
+        "nom": "ISIS SANTE",
+        "url": null,
+        "trancheEffectif": null,
+        "siret": null
+      },
+      "contact": {
+        "nom": null,
+        "courriel": null,
+        "telephone": null,
+        "coordonnees": null,
+        "urlPostulation": "https://candidat.francetravail.fr/offres/recherche/detail/9116590"
+      },
+      "exigences": [],
+      "lieu": "13 - Aubagne",
+      "commune": "13005",
+      "contrat": "CDI",
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "dateCreation": "2026-11-24T07:19:35.958Z",
+      "description": "Vous êtes motivé par la vente, aimez les défis et souhaitez faire partie d'une équipe dynamique, ce poste est fait pour vous !\nVotre mission (si vous l'acceptez )\n-     Vendre par téléphone\n-     Fidéliser les clients avec un suivi précis des appels : prise de rendez-vous\n-     Analyser rapidement le profil client pour un conseil-vente optimal\n-     Qualification de la base clients\n-     Prospecter pour développer des régions\nVotre profil idéal :\n-     Aisance téléphonique naturelle et goût du défi\n-     Motivé(e) par une rémunération variable non plafonnée\n-     Organisé(e), curieux(se) et déterminé(e)\n-     Capacité d'écoute et force de proposition\nCe que nous vous proposons :\n-     Rémunération motivante fixe + commissions + primes\n-     Des challenges commerciaux réguliers\n-     Des outils\n-     Carte repas (Swile) jusqu'à 25€ par jour\n-     Mutuelle individuelle\n-     Horaires fixes en journée du Lundi au vendredi\n-     Repos le week-end\n-     Poste en présentiel à Aubagne\nEnvie de tenter l'aventure avec nous ?\n Postulez dès maintenant et intégrez une équipe où vos talents sont reconnus et appréciés !\nNotre société est engagée dans la promotion de la diversité et de l'inclusio",
+      "score": 39,
+      "touches": [
+        "business developer (titre)",
+        "ess (titre)"
+      ],
+      "alertes": [
+        "variable non plafonne"
+      ],
+      "age": 1,
+      "canal": "linkedin",
+      "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
+      "vueLe": "2026-11-25",
+      "nouvelle": true
     },
     {
       "id": "8763117",
@@ -403,7 +440,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 11,
+      "age": 13,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-13",
@@ -443,7 +480,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 125,
+      "age": 127,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -483,7 +520,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 33,
+      "age": 35,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -524,7 +561,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 33,
+      "age": 35,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -569,7 +606,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 23,
+      "age": 25,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -613,7 +650,7 @@
         "10 ans d'experience",
         "portefeuille clients"
       ],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-11",
@@ -652,7 +689,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 74,
+      "age": 76,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -691,7 +728,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 46,
+      "age": 48,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -732,7 +769,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 16,
+      "age": 18,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
