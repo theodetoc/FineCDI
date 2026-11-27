@@ -1,5 +1,5 @@
 {
-  "misAJour": "2026-11-25T16:55:23.567Z",
+  "misAJour": "2026-11-27T16:19:15.412Z",
   "total": 19,
   "offres": [
     {
@@ -38,11 +38,11 @@
         "association"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-25",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "215VPQD",
@@ -79,7 +79,7 @@
         "innovation"
       ],
       "alertes": [],
-      "age": 27,
+      "age": 29,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-30",
@@ -121,7 +121,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 19,
+      "age": 21,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-06",
@@ -159,11 +159,11 @@
         "ess (titre)"
       ],
       "alertes": [],
-      "age": 0,
+      "age": 2,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-25",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "8631452",
@@ -200,7 +200,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
@@ -239,7 +239,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 4,
+      "age": 6,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-23",
@@ -279,7 +279,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
@@ -321,7 +321,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 33,
+      "age": 35,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -360,7 +360,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 33,
+      "age": 35,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -399,11 +399,11 @@
       "alertes": [
         "variable non plafonne"
       ],
-      "age": 1,
+      "age": 3,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-25",
-      "nouvelle": true
+      "nouvelle": false
     },
     {
       "id": "8763117",
@@ -440,7 +440,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 13,
+      "age": 15,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-13",
@@ -480,7 +480,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 127,
+      "age": 129,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-08-19",
@@ -520,7 +520,7 @@
         "environnement"
       ],
       "alertes": [],
-      "age": 35,
+      "age": 37,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -561,7 +561,7 @@
         "ess"
       ],
       "alertes": [],
-      "age": 35,
+      "age": 37,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-23",
@@ -606,7 +606,7 @@
       "alertes": [
         "10 ans d'experience"
       ],
-      "age": 25,
+      "age": 27,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-02",
@@ -650,7 +650,7 @@
         "10 ans d'experience",
         "portefeuille clients"
       ],
-      "age": 15,
+      "age": 17,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-11",
@@ -689,7 +689,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 76,
+      "age": 78,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-09-11",
@@ -728,7 +728,7 @@
         "rse"
       ],
       "alertes": [],
-      "age": 48,
+      "age": 50,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-10-09",
@@ -769,7 +769,7 @@
       "alertes": [
         "portefeuille clients"
       ],
-      "age": 18,
+      "age": 20,
       "canal": "linkedin",
       "conseil": "Effectif inconnu : repérer une personne avant tout appel.",
       "vueLe": "2026-11-09",
